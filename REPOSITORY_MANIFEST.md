@@ -17,7 +17,7 @@
 
 ## Release 内容
 
-大于 GitHub 普通文件限制的 SQLite 快照作为 Release 资产发布：
+数据库快照作为私有 Release 资产发布。小型数据库直接上传；四个约 850 MB 的重建库压缩后拆成 12 个约 50 MB 的分片，以避免大单文件上传链路中断：
 
 - `three_kingdoms_rebuilt_v2.db`
 - `three_kingdoms_rebuilt_v2.pre_quality_remediation.db`
@@ -25,6 +25,8 @@
 - `three_kingdoms_rebuilt_v2.pre_yl_repair.db`
 - `contextual_repair_canary.db`
 - 其他 `data/*.db` 快照
+
+大库分片名为 `historybot_large_db_snapshots_20260922.zip.part-001` 至 `part-012`。运行 `scripts/restore_github_snapshots.ps1` 可自动下载、拼接、解压和校验。
 
 资产 SHA-256 见 `RELEASE_DATA_SHA256SUMS.txt`。
 

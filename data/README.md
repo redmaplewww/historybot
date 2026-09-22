@@ -7,8 +7,11 @@ SQLite 数据库快照不进入 Git 普通历史，统一作为 GitHub 私有 Re
 恢复方式：
 
 ```powershell
-gh release download data-snapshot-20260922 --repo redmaplewww/historybot --pattern "*.db" --dir data
+.\scripts\restore_github_snapshots.ps1
 ```
+
+脚本会下载直接发布的小型数据库，并下载
+`historybot_large_db_snapshots_20260922.zip.part-001` 至 `part-012`。随后脚本按名称顺序拼接 ZIP、解压四个约 850 MB 的重建库，并对分片、ZIP 和全部数据库执行 SHA-256 校验。
 
 快照说明：
 
@@ -18,4 +21,4 @@ gh release download data-snapshot-20260922 --repo redmaplewww/historybot --patte
 - `three_kingdoms_rebuilt_v2.pre_yl_repair.db`：年号锚点修复前备份。
 - `contextual_repair_canary.db`：卷 1 上下文修复灰度库。
 
-Release 资产的 SHA-256 清单保存在仓库根目录 `RELEASE_DATA_SHA256SUMS.txt`。
+Release 资产、重建 ZIP 和解压后数据库的 SHA-256 清单保存在仓库根目录 `RELEASE_DATA_SHA256SUMS.txt`。

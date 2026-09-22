@@ -10,6 +10,8 @@ data/external_storiap_tmp/
 data/*.db
 data/*.db-shm
 data/*.db-wal
+data/historybot_large_db_snapshots_*.zip
+data/historybot_large_db_snapshots_*.zip.part-*
 
 # Local credentials and machine-specific configuration.
 .env
