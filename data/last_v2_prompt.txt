@@ -1,0 +1,5 @@
+研究问题：????????????????
+请逐段返回 units。每段必须使用真实 passage_id，给出原文明确事实、结构化人物 mentions、身份别名 identity_links、事件 events 和主张 claims；每个 claim 必须是原文明确表达的 subject/predicate/object，必须引用该段 passage_id，不能把推断写成事实。每个 claim 的 statement 要能被 evidence_quotes 原文直接支持。只有原文明示同一身份时才能给 identity_links。无法确定处放入 uncertainties，简短判断依据放入 reasoning_summary。
+史料：
+[p_21ab126e313fc747] __FORCETOC__
+[p_5ecf19a91b18195e] 先主臨豫州，住小沛，納以為妾。

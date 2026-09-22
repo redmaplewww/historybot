@@ -1,0 +1,592 @@
+{
+  "task_id": "0cdb3e77-a2c8-4662-a41b-4e6747473488",
+  "status": "complete",
+  "catalog_size": 81,
+  "already_present": 0,
+  "ingested_sources": 81,
+  "failed_sources": [],
+  "ingested": [
+    {
+      "source_id": "src_8d3056db6591b2ee",
+      "title": "三国志·卷01",
+      "kind": "compilation",
+      "characters": 13695,
+      "passages": 501
+    },
+    {
+      "source_id": "src_a6a479cca39999a8",
+      "title": "三国志·卷02",
+      "kind": "compilation",
+      "characters": 4320,
+      "passages": 145
+    },
+    {
+      "source_id": "src_228ec535c85f848e",
+      "title": "三国志·卷03",
+      "kind": "compilation",
+      "characters": 5552,
+      "passages": 202
+    },
+    {
+      "source_id": "src_89aedc7875ae791a",
+      "title": "三国志·卷04",
+      "kind": "compilation",
+      "characters": 8688,
+      "passages": 298
+    },
+    {
+      "source_id": "src_136c141aac4e87ed",
+      "title": "三国志·卷05",
+      "kind": "compilation",
+      "characters": 4254,
+      "passages": 147
+    },
+    {
+      "source_id": "src_cfca5b7fc88466ad",
+      "title": "三国志·卷06",
+      "kind": "compilation",
+      "characters": 8644,
+      "passages": 316
+    },
+    {
+      "source_id": "src_4aae3fc96fd79407",
+      "title": "三国志·卷07",
+      "kind": "compilation",
+      "characters": 4395,
+      "passages": 170
+    },
+    {
+      "source_id": "src_5ef3e4223e8075f3",
+      "title": "三国志·卷08",
+      "kind": "compilation",
+      "characters": 5539,
+      "passages": 217
+    },
+    {
+      "source_id": "src_51e78653a9df5390",
+      "title": "三国志·卷09",
+      "kind": "compilation",
+      "characters": 11624,
+      "passages": 412
+    },
+    {
+      "source_id": "src_2053a0a5c5eddc49",
+      "title": "三国志·卷10",
+      "kind": "compilation",
+      "characters": 8048,
+      "passages": 270
+    },
+    {
+      "source_id": "src_ce35c99a5a2573cc",
+      "title": "三国志·卷11",
+      "kind": "compilation",
+      "characters": 8419,
+      "passages": 321
+    },
+    {
+      "source_id": "src_0c206a912d4a1720",
+      "title": "三国志·卷12",
+      "kind": "compilation",
+      "characters": 6497,
+      "passages": 246
+    },
+    {
+      "source_id": "src_e6f26fd0d5e5e763",
+      "title": "三国志·卷13",
+      "kind": "compilation",
+      "characters": 9477,
+      "passages": 346
+    },
+    {
+      "source_id": "src_d1655c127b1665a3",
+      "title": "三国志·卷14",
+      "kind": "compilation",
+      "characters": 10240,
+      "passages": 395
+    },
+    {
+      "source_id": "src_ed2a5c2e7de42014",
+      "title": "三国志·卷15",
+      "kind": "compilation",
+      "characters": 7177,
+      "passages": 262
+    },
+    {
+      "source_id": "src_98a24dfc2ad71e80",
+      "title": "三国志·卷16",
+      "kind": "compilation",
+      "characters": 5352,
+      "passages": 201
+    },
+    {
+      "source_id": "src_f895cb3a808d7ca7",
+      "title": "三国志·卷17",
+      "kind": "compilation",
+      "characters": 5874,
+      "passages": 229
+    },
+    {
+      "source_id": "src_2395d786f555a79c",
+      "title": "三国志·卷18",
+      "kind": "compilation",
+      "characters": 7566,
+      "passages": 301
+    },
+    {
+      "source_id": "src_e093b186de8e909c",
+      "title": "三国志·卷19",
+      "kind": "compilation",
+      "characters": 4427,
+      "passages": 133
+    },
+    {
+      "source_id": "src_4c658113fbb182e6",
+      "title": "三国志·卷20",
+      "kind": "compilation",
+      "characters": 5262,
+      "passages": 158
+    },
+    {
+      "source_id": "src_1712d9536f4e709b",
+      "title": "三国志·卷21",
+      "kind": "compilation",
+      "characters": 6168,
+      "passages": 215
+    },
+    {
+      "source_id": "src_ab3038c907a85961",
+      "title": "三国志·卷22",
+      "kind": "compilation",
+      "characters": 7745,
+      "passages": 303
+    },
+    {
+      "source_id": "src_57a5271c10f59e09",
+      "title": "三国志·卷23",
+      "kind": "compilation",
+      "characters": 6654,
+      "passages": 263
+    },
+    {
+      "source_id": "src_2abec7a17bdad966",
+      "title": "三国志·卷24",
+      "kind": "compilation",
+      "characters": 5437,
+      "passages": 215
+    },
+    {
+      "source_id": "src_6c5f58321b1ec0ba",
+      "title": "三国志·卷25",
+      "kind": "compilation",
+      "characters": 7716,
+      "passages": 269
+    },
+    {
+      "source_id": "src_c9ae62e2b7a0db82",
+      "title": "三国志·卷26",
+      "kind": "compilation",
+      "characters": 7532,
+      "passages": 284
+    },
+    {
+      "source_id": "src_78da344c7ebf66a7",
+      "title": "三国志·卷27",
+      "kind": "compilation",
+      "characters": 5952,
+      "passages": 205
+    },
+    {
+      "source_id": "src_80541d569e2cc6b6",
+      "title": "三国志·卷28",
+      "kind": "compilation",
+      "characters": 10418,
+      "passages": 375
+    },
+    {
+      "source_id": "src_be1eda3a2ac6ac94",
+      "title": "三国志·卷29",
+      "kind": "compilation",
+      "characters": 7522,
+      "passages": 275
+    },
+    {
+      "source_id": "src_4aa52a1c9a125d30",
+      "title": "三国志·卷30",
+      "kind": "compilation",
+      "characters": 18207,
+      "passages": 626
+    },
+    {
+      "source_id": "src_3b0068044bc7c40a",
+      "title": "三国志·卷31",
+      "kind": "compilation",
+      "characters": 1842,
+      "passages": 61
+    },
+    {
+      "source_id": "src_9e8bc1439a686931",
+      "title": "三国志·卷32",
+      "kind": "compilation",
+      "characters": 5041,
+      "passages": 189
+    },
+    {
+      "source_id": "src_aad55ef47efe0680",
+      "title": "三国志·卷33",
+      "kind": "compilation",
+      "characters": 2939,
+      "passages": 112
+    },
+    {
+      "source_id": "src_033e5925db32e682",
+      "title": "三国志·卷34",
+      "kind": "compilation",
+      "characters": 1281,
+      "passages": 41
+    },
+    {
+      "source_id": "src_fbebc49524c95139",
+      "title": "三国志·卷35",
+      "kind": "compilation",
+      "characters": 6301,
+      "passages": 201
+    },
+    {
+      "source_id": "src_2ea883a54927d7ea",
+      "title": "三国志·卷36",
+      "kind": "compilation",
+      "characters": 3800,
+      "passages": 145
+    },
+    {
+      "source_id": "src_f7ccae560a70d8fe",
+      "title": "三国志·卷37",
+      "kind": "compilation",
+      "characters": 3406,
+      "passages": 99
+    },
+    {
+      "source_id": "src_260570fbbc633583",
+      "title": "三国志·卷38",
+      "kind": "compilation",
+      "characters": 3235,
+      "passages": 100
+    },
+    {
+      "source_id": "src_41c47ed2e7780d4c",
+      "title": "三国志·卷39",
+      "kind": "compilation",
+      "characters": 3232,
+      "passages": 99
+    },
+    {
+      "source_id": "src_131b7a6c87908bf1",
+      "title": "三国志·卷40",
+      "kind": "compilation",
+      "characters": 4515,
+      "passages": 157
+    },
+    {
+      "source_id": "src_dbc442dfb3a20b05",
+      "title": "三国志·卷41",
+      "kind": "compilation",
+      "characters": 3938,
+      "passages": 137
+    },
+    {
+      "source_id": "src_268b01b3c5c53618",
+      "title": "三国志·卷42",
+      "kind": "compilation",
+      "characters": 4818,
+      "passages": 171
+    },
+    {
+      "source_id": "src_28ed8b1971e88b32",
+      "title": "三国志·卷43",
+      "kind": "compilation",
+      "characters": 4755,
+      "passages": 174
+    },
+    {
+      "source_id": "src_3606155c35fc19fd",
+      "title": "三国志·卷44",
+      "kind": "compilation",
+      "characters": 4574,
+      "passages": 181
+    },
+    {
+      "source_id": "src_cf63e8ac344f6db5",
+      "title": "三国志·卷45",
+      "kind": "compilation",
+      "characters": 7458,
+      "passages": 302
+    },
+    {
+      "source_id": "src_89a199d35db6aed2",
+      "title": "三国志·卷46",
+      "kind": "compilation",
+      "characters": 3328,
+      "passages": 123
+    },
+    {
+      "source_id": "src_90248089724a23e1",
+      "title": "三国志·卷47",
+      "kind": "compilation",
+      "characters": 9076,
+      "passages": 329
+    },
+    {
+      "source_id": "src_baa2dacc57d45375",
+      "title": "三国志·卷48",
+      "kind": "compilation",
+      "characters": 7247,
+      "passages": 256
+    },
+    {
+      "source_id": "src_38904e1bcaeb6623",
+      "title": "三国志·卷49",
+      "kind": "compilation",
+      "characters": 4346,
+      "passages": 152
+    },
+    {
+      "source_id": "src_f0c4da13da81c074",
+      "title": "三国志·卷50",
+      "kind": "compilation",
+      "characters": 2902,
+      "passages": 115
+    },
+    {
+      "source_id": "src_d031fc1c9d32785f",
+      "title": "三国志·卷51",
+      "kind": "compilation",
+      "characters": 3640,
+      "passages": 137
+    },
+    {
+      "source_id": "src_3eed952e7a888b92",
+      "title": "三国志·卷52",
+      "kind": "compilation",
+      "characters": 7146,
+      "passages": 252
+    },
+    {
+      "source_id": "src_acca52d1c455da03",
+      "title": "三国志·卷53",
+      "kind": "compilation",
+      "characters": 3240,
+      "passages": 111
+    },
+    {
+      "source_id": "src_dbcf027d30cd527e",
+      "title": "三国志·卷54",
+      "kind": "compilation",
+      "characters": 7601,
+      "passages": 278
+    },
+    {
+      "source_id": "src_598f4bd991d53b99",
+      "title": "三国志·卷55",
+      "kind": "compilation",
+      "characters": 8311,
+      "passages": 304
+    },
+    {
+      "source_id": "src_3c33f3e976c7d8ed",
+      "title": "三国志·卷56",
+      "kind": "compilation",
+      "characters": 5564,
+      "passages": 212
+    },
+    {
+      "source_id": "src_76ba243507db21b0",
+      "title": "三国志·卷57",
+      "kind": "compilation",
+      "characters": 4676,
+      "passages": 155
+    },
+    {
+      "source_id": "src_2ef71ae4ed7e8347",
+      "title": "三国志·卷58",
+      "kind": "compilation",
+      "characters": 5444,
+      "passages": 200
+    },
+    {
+      "source_id": "src_ab68ed414415530a",
+      "title": "三国志·卷59",
+      "kind": "compilation",
+      "characters": 3064,
+      "passages": 106
+    },
+    {
+      "source_id": "src_bcbc2580e3bf982f",
+      "title": "三国志·卷60",
+      "kind": "compilation",
+      "characters": 5421,
+      "passages": 190
+    },
+    {
+      "source_id": "src_3e4d5d22a79c67e4",
+      "title": "三国志·卷61",
+      "kind": "compilation",
+      "characters": 2028,
+      "passages": 71
+    },
+    {
+      "source_id": "src_a1fe387d87643550",
+      "title": "三国志·卷62",
+      "kind": "compilation",
+      "characters": 1961,
+      "passages": 74
+    },
+    {
+      "source_id": "src_7b2c4fcbe1da2525",
+      "title": "三国志·卷63",
+      "kind": "compilation",
+      "characters": 2064,
+      "passages": 82
+    },
+    {
+      "source_id": "src_65d2dde4fbd460ba",
+      "title": "三国志·卷64",
+      "kind": "compilation",
+      "characters": 6900,
+      "passages": 247
+    },
+    {
+      "source_id": "src_bc53344938646106",
+      "title": "三国志·卷65",
+      "kind": "compilation",
+      "characters": 2281,
+      "passages": 73
+    },
+    {
+      "source_id": "src_41fda515e06fee8a",
+      "title": "三国演义·第001回",
+      "kind": "folk",
+      "characters": 4778,
+      "passages": 178
+    },
+    {
+      "source_id": "src_d1eb367ab10c107e",
+      "title": "三国演义·第005回",
+      "kind": "folk",
+      "characters": 5867,
+      "passages": 235
+    },
+    {
+      "source_id": "src_2d953fa773812e18",
+      "title": "三国演义·第021回",
+      "kind": "folk",
+      "characters": 4847,
+      "passages": 191
+    },
+    {
+      "source_id": "src_0bed8d9689f953f1",
+      "title": "三国演义·第025回",
+      "kind": "folk",
+      "characters": 5085,
+      "passages": 193
+    },
+    {
+      "source_id": "src_61cf685e9a58220c",
+      "title": "三国演义·第027回",
+      "kind": "folk",
+      "characters": 5158,
+      "passages": 215
+    },
+    {
+      "source_id": "src_d33ffe13dd01a981",
+      "title": "三国演义·第038回",
+      "kind": "folk",
+      "characters": 5142,
+      "passages": 193
+    },
+    {
+      "source_id": "src_c2444c6dca986c37",
+      "title": "三国演义·第043回",
+      "kind": "folk",
+      "characters": 5471,
+      "passages": 195
+    },
+    {
+      "source_id": "src_195afc0d40bddd68",
+      "title": "三国演义·第044回",
+      "kind": "folk",
+      "characters": 4798,
+      "passages": 186
+    },
+    {
+      "source_id": "src_a2dd3590941eeec3",
+      "title": "三国演义·第046回",
+      "kind": "folk",
+      "characters": 4999,
+      "passages": 215
+    },
+    {
+      "source_id": "src_ca69bb01982a705c",
+      "title": "三国演义·第049回",
+      "kind": "folk",
+      "characters": 5412,
+      "passages": 205
+    },
+    {
+      "source_id": "src_645f42b6027c794a",
+      "title": "三国演义·第050回",
+      "kind": "folk",
+      "characters": 4005,
+      "passages": 161
+    },
+    {
+      "source_id": "src_0f12dc35f240128c",
+      "title": "三国演义·第057回",
+      "kind": "folk",
+      "characters": 5741,
+      "passages": 231
+    },
+    {
+      "source_id": "src_f155599dc7e45868",
+      "title": "三国演义·第077回",
+      "kind": "folk",
+      "characters": 4500,
+      "passages": 167
+    },
+    {
+      "source_id": "src_5c9aa7768812eb03",
+      "title": "三国演义·第078回",
+      "kind": "folk",
+      "characters": 4135,
+      "passages": 158
+    },
+    {
+      "source_id": "src_88853b9509fd9934",
+      "title": "三国演义·第085回",
+      "kind": "folk",
+      "characters": 5447,
+      "passages": 187
+    },
+    {
+      "source_id": "src_3b786559be3b2360",
+      "title": "三国演义·第086回",
+      "kind": "folk",
+      "characters": 5247,
+      "passages": 187
+    }
+  ],
+  "counts": {
+    "sources": 81,
+    "passages": 17033,
+    "entities": 0,
+    "events": 0,
+    "relations": 0,
+    "timeline_entries": 0,
+    "place_assertions": 0,
+    "claims": 0,
+    "evidence": 0,
+    "conflicts": 0,
+    "review_feedback": 0,
+    "evolution_snapshots": 0,
+    "audit_log": 17114
+  }
+}

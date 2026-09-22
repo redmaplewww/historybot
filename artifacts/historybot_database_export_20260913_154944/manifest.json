@@ -1,0 +1,426 @@
+{
+  "format_version": 1,
+  "created_at_utc": "2026-09-13T07:49:47.478691+00:00",
+  "source_database": "F:\\codex\\历史学bot\\data\\three_kingdoms_rebuilt_v2.db",
+  "sqlite_version": "3.42.0",
+  "integrity_check": "ok",
+  "tables": {
+    "annotations": {
+      "rows": 0,
+      "columns": [
+        "id",
+        "job_id",
+        "payload"
+      ],
+      "file": "tables/annotations.jsonl"
+    },
+    "audit_log": {
+      "rows": 44420,
+      "columns": [
+        "id",
+        "task_id",
+        "action",
+        "object_id",
+        "payload",
+        "created_at"
+      ],
+      "file": "tables/audit_log.jsonl"
+    },
+    "claims": {
+      "rows": 123,
+      "columns": [
+        "id",
+        "status",
+        "payload",
+        "version"
+      ],
+      "file": "tables/claims.jsonl"
+    },
+    "clarification_questions": {
+      "rows": 0,
+      "columns": [
+        "id",
+        "job_id",
+        "status",
+        "payload"
+      ],
+      "file": "tables/clarification_questions.jsonl"
+    },
+    "completeness_assessments": {
+      "rows": 0,
+      "columns": [
+        "id",
+        "job_id",
+        "payload"
+      ],
+      "file": "tables/completeness_assessments.jsonl"
+    },
+    "conflicts": {
+      "rows": 0,
+      "columns": [
+        "id",
+        "payload"
+      ],
+      "file": "tables/conflicts.jsonl"
+    },
+    "entities": {
+      "rows": 22213,
+      "columns": [
+        "id",
+        "payload"
+      ],
+      "file": "tables/entities.jsonl"
+    },
+    "entity_aliases": {
+      "rows": 772,
+      "columns": [
+        "id",
+        "canonical_surface",
+        "alias_surface",
+        "relation",
+        "passage_id",
+        "confidence",
+        "payload"
+      ],
+      "file": "tables/entity_aliases.jsonl"
+    },
+    "events": {
+      "rows": 209,
+      "columns": [
+        "id",
+        "payload"
+      ],
+      "file": "tables/events.jsonl"
+    },
+    "evidence": {
+      "rows": 141,
+      "columns": [
+        "id",
+        "claim_id",
+        "passage_id",
+        "payload"
+      ],
+      "file": "tables/evidence.jsonl"
+    },
+    "evolution_snapshots": {
+      "rows": 0,
+      "columns": [
+        "id",
+        "policy_version",
+        "payload",
+        "created_at"
+      ],
+      "file": "tables/evolution_snapshots.jsonl"
+    },
+    "extraction_batches": {
+      "rows": 10,
+      "columns": [
+        "id",
+        "status",
+        "passage_ids",
+        "attempt",
+        "error",
+        "payload"
+      ],
+      "file": "tables/extraction_batches.jsonl"
+    },
+    "extraction_passages": {
+      "rows": 560,
+      "columns": [
+        "passage_id",
+        "status",
+        "batch_id",
+        "error"
+      ],
+      "file": "tables/extraction_passages.jsonl"
+    },
+    "ingestion_artifacts": {
+      "rows": 0,
+      "columns": [
+        "id",
+        "job_id",
+        "kind",
+        "input_hash",
+        "payload"
+      ],
+      "file": "tables/ingestion_artifacts.jsonl"
+    },
+    "ingestion_jobs": {
+      "rows": 0,
+      "columns": [
+        "id",
+        "status",
+        "payload",
+        "updated_at"
+      ],
+      "file": "tables/ingestion_jobs.jsonl"
+    },
+    "normalized_documents": {
+      "rows": 0,
+      "columns": [
+        "id",
+        "job_id",
+        "payload"
+      ],
+      "file": "tables/normalized_documents.jsonl"
+    },
+    "passages": {
+      "rows": 17033,
+      "columns": [
+        "id",
+        "source_id",
+        "ordinal",
+        "payload"
+      ],
+      "file": "tables/passages.jsonl"
+    },
+    "people_extraction_batches": {
+      "rows": 197,
+      "columns": [
+        "id",
+        "status",
+        "passage_ids",
+        "attempt",
+        "error",
+        "payload"
+      ],
+      "file": "tables/people_extraction_batches.jsonl"
+    },
+    "people_extraction_passages": {
+      "rows": 17033,
+      "columns": [
+        "passage_id",
+        "status",
+        "batch_id",
+        "error"
+      ],
+      "file": "tables/people_extraction_passages.jsonl"
+    },
+    "place_assertions": {
+      "rows": 100,
+      "columns": [
+        "id",
+        "event_id",
+        "place",
+        "payload"
+      ],
+      "file": "tables/place_assertions.jsonl"
+    },
+    "processing_errors": {
+      "rows": 0,
+      "columns": [
+        "id",
+        "job_id",
+        "stage",
+        "payload"
+      ],
+      "file": "tables/processing_errors.jsonl"
+    },
+    "raw_assets": {
+      "rows": 0,
+      "columns": [
+        "id",
+        "content_hash",
+        "payload"
+      ],
+      "file": "tables/raw_assets.jsonl"
+    },
+    "recognition_results": {
+      "rows": 0,
+      "columns": [
+        "id",
+        "job_id",
+        "payload"
+      ],
+      "file": "tables/recognition_results.jsonl"
+    },
+    "relations": {
+      "rows": 123,
+      "columns": [
+        "id",
+        "subject",
+        "predicate",
+        "object",
+        "payload",
+        "claim_id",
+        "valid_from",
+        "valid_to",
+        "inference_method",
+        "confidence"
+      ],
+      "file": "tables/relations.jsonl"
+    },
+    "review_feedback": {
+      "rows": 0,
+      "columns": [
+        "id",
+        "claim_id",
+        "label",
+        "reason",
+        "reviewer",
+        "payload",
+        "created_at"
+      ],
+      "file": "tables/review_feedback.jsonl"
+    },
+    "review_tasks": {
+      "rows": 0,
+      "columns": [
+        "id",
+        "job_id",
+        "status",
+        "payload"
+      ],
+      "file": "tables/review_tasks.jsonl"
+    },
+    "sources": {
+      "rows": 81,
+      "columns": [
+        "id",
+        "payload"
+      ],
+      "file": "tables/sources.jsonl"
+    },
+    "timeline_entries": {
+      "rows": 24,
+      "columns": [
+        "id",
+        "event_id",
+        "start_date",
+        "end_date",
+        "payload"
+      ],
+      "file": "tables/timeline_entries.jsonl"
+    }
+  },
+  "files": {
+    "database.sql": {
+      "bytes": 25042211,
+      "sha256": "a702d6402976a3cd69a90f8818da9f912de15c1e855c36094540059811fa7f9f"
+    },
+    "historybot.sqlite3": {
+      "bytes": 27140096,
+      "sha256": "8c585adfd2b7ce52fe9045e10818ea733ce8223df3cb0782dea0404ce3aba4c9"
+    },
+    "README.md": {
+      "bytes": 546,
+      "sha256": "9f9e2ca1c956b1ef971bc0469316e32e1b7c6efa9122692beb9c7d36d3de6126"
+    },
+    "schema.sql": {
+      "bytes": 4929,
+      "sha256": "7fc2ee5fd2a5399f7e5fb54c612c5dd4ad4b3c14e562d7269a8c5ce74ca41cb0"
+    },
+    "tables/annotations.jsonl": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "tables/audit_log.jsonl": {
+      "bytes": 7668802,
+      "sha256": "a2a39934d56014b10837f12b5a2ccfc4271c1e08c7ff10da2ea02169fa312488"
+    },
+    "tables/claims.jsonl": {
+      "bytes": 86029,
+      "sha256": "762d78d3137ade79e1eb8ffe1eda46c25d71298042b29edb4ee2a890ad71a193"
+    },
+    "tables/clarification_questions.jsonl": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "tables/completeness_assessments.jsonl": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "tables/conflicts.jsonl": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "tables/entities.jsonl": {
+      "bytes": 9578095,
+      "sha256": "c6d1739aafb17454bda363311deb56c757ff71f8fa4f1a71d2b34d5513181b40"
+    },
+    "tables/entity_aliases.jsonl": {
+      "bytes": 299688,
+      "sha256": "325d135abfcda390c2a0b281e078614a3e3972083863a8cb8f7fc7ac8a22c522"
+    },
+    "tables/events.jsonl": {
+      "bytes": 71704,
+      "sha256": "51a66ad255126ff48d0f76e2a0af56d58be98f82fc3ad55d3f10e272a26417dd"
+    },
+    "tables/evidence.jsonl": {
+      "bytes": 66493,
+      "sha256": "ccb1251888e6f4ada3e2bcc02b7e0dbb255fa179c5494e7785c6405ba8e61d99"
+    },
+    "tables/evolution_snapshots.jsonl": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "tables/extraction_batches.jsonl": {
+      "bytes": 41984,
+      "sha256": "d59a6d525d8b86242311e886905df855e04a7d467529c206f4d0494d06c31000"
+    },
+    "tables/extraction_passages.jsonl": {
+      "bytes": 57840,
+      "sha256": "79a934c08e985aa5f9450e612722e17dbbfc5767da7a1253f6688950d2f8eaa0"
+    },
+    "tables/ingestion_artifacts.jsonl": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "tables/ingestion_jobs.jsonl": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "tables/normalized_documents.jsonl": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "tables/passages.jsonl": {
+      "bytes": 6566625,
+      "sha256": "92edc3da9f573fb687e7786debec671a10aa988179512dc738457bbddc231752"
+    },
+    "tables/people_extraction_batches.jsonl": {
+      "bytes": 928281,
+      "sha256": "7d53c359c47d230f4a1ef89607c0714a29612891dda0d4a7ba6e7a16ee4c0a9f"
+    },
+    "tables/people_extraction_passages.jsonl": {
+      "bytes": 1856597,
+      "sha256": "20bdc8d239290d2a4315a8f7817f2b8b0d12f343aa5136abd098e35daacfbe18"
+    },
+    "tables/place_assertions.jsonl": {
+      "bytes": 53267,
+      "sha256": "526b409597c6e167f8eb7c437ea0432dd340ecce421d916427526a8005882646"
+    },
+    "tables/processing_errors.jsonl": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "tables/raw_assets.jsonl": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "tables/recognition_results.jsonl": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "tables/relations.jsonl": {
+      "bytes": 69164,
+      "sha256": "64e3d5a8e9457c9e9f5ee4902de15f015deb4c0d46dfd134e1b51c1237a3a67e"
+    },
+    "tables/review_feedback.jsonl": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "tables/review_tasks.jsonl": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "tables/sources.jsonl": {
+      "bytes": 58023,
+      "sha256": "1b3d966a8634555f4c4922d7f87a974341ff391927c92a703f9bf70ee405c6d9"
+    },
+    "tables/timeline_entries.jsonl": {
+      "bytes": 13312,
+      "sha256": "cb2b715c50171c676850d2176076393c3fe96579148bdc97b280c8b9284e1f79"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+magic: 0
+langconv: 0
+heading: 0
+braces: 0
+ref: 0
+table: 0
+integrity: ok
+passages: 17033

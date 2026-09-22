@@ -1,0 +1,34 @@
+[
+  {
+    "label": "A full prompt",
+    "status": "ok"
+  },
+  {
+    "label": "B source window only",
+    "status": "policy",
+    "detail": "400 from https://workbuddy2api.henryai.top/v1/chat/completions for task='historical_temporal_resolution' model='deepseek-v4.1-flash': {\"error\":{\"code\":\"upstream_content_policy_blocked\",\"message\":\"内容未通"
+  },
+  {
+    "label": "C anchor context",
+    "status": "policy",
+    "detail": "400 from https://workbuddy2api.henryai.top/v1/chat/completions for task='historical_temporal_resolution' model='deepseek-v4.1-flash': {\"error\":{\"code\":\"upstream_content_policy_blocked\",\"message\":\"内容未通"
+  },
+  {
+    "label": "D reading summaries",
+    "status": "ok"
+  },
+  {
+    "label": "E era table",
+    "status": "policy",
+    "detail": "400 from https://workbuddy2api.henryai.top/v1/chat/completions for task='historical_temporal_resolution' model='deepseek-v4.1-flash': {\"error\":{\"code\":\"upstream_content_policy_blocked\",\"message\":\"内容未通"
+  },
+  {
+    "label": "F one target",
+    "status": "ok"
+  },
+  {
+    "label": "G minimal probe",
+    "status": "policy",
+    "detail": "400 from https://workbuddy2api.henryai.top/v1/chat/completions for task='historical_temporal_resolution' model='deepseek-v4.1-flash': {\"error\":{\"code\":\"upstream_content_policy_blocked\",\"message\":\"内容未通"
+  }
+]

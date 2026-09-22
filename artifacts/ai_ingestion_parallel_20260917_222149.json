@@ -1,0 +1,310 @@
+[
+  {
+    "title": "三国志·卷34",
+    "source_id": "src_033e5925db32e682",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "elapsed_seconds": 5.1,
+    "run_id": "read_3f725dedf6c248cc98d4",
+    "graph": {
+      "entities": 66,
+      "aliases": 5,
+      "events": 44,
+      "claims": 96,
+      "evidence": 96
+    }
+  },
+  {
+    "title": "三国志·卷31",
+    "source_id": "src_3b0068044bc7c40a",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 136306,
+      "completion_tokens": 76886,
+      "total_tokens": 213192
+    },
+    "elapsed_seconds": 219.8,
+    "run_id": "read_dc11a8f00e2242668528",
+    "graph": {
+      "entities": 181,
+      "aliases": 8,
+      "events": 112,
+      "claims": 213,
+      "evidence": 213
+    }
+  },
+  {
+    "title": "三国志·卷61",
+    "source_id": "src_3e4d5d22a79c67e4",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 148790,
+      "completion_tokens": 77238,
+      "total_tokens": 226028
+    },
+    "elapsed_seconds": 246.8,
+    "run_id": "read_772baed3df1a4f2d96b8",
+    "graph": {
+      "entities": 146,
+      "aliases": 5,
+      "events": 102,
+      "claims": 206,
+      "evidence": 206
+    }
+  },
+  {
+    "title": "三国志·卷62",
+    "source_id": "src_a1fe387d87643550",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 158018,
+      "completion_tokens": 73069,
+      "total_tokens": 231087
+    },
+    "elapsed_seconds": 264.2,
+    "run_id": "read_9f445d3014bc48c6a038",
+    "graph": {
+      "entities": 122,
+      "aliases": 3,
+      "events": 97,
+      "claims": 202,
+      "evidence": 202
+    }
+  },
+  {
+    "title": "三国志·卷65",
+    "source_id": "src_bc53344938646106",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 153953,
+      "completion_tokens": 77539,
+      "total_tokens": 231492
+    },
+    "elapsed_seconds": 278.3,
+    "run_id": "read_f520d761c67c49c3bb8e",
+    "graph": {
+      "entities": 135,
+      "aliases": 7,
+      "events": 105,
+      "claims": 234,
+      "evidence": 234
+    }
+  },
+  {
+    "title": "三国志·卷63",
+    "source_id": "src_7b2c4fcbe1da2525",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 170203,
+      "completion_tokens": 79543,
+      "total_tokens": 249746
+    },
+    "elapsed_seconds": 289.1,
+    "run_id": "read_6e5bf654fae24170bc0d",
+    "graph": {
+      "entities": 109,
+      "aliases": 1,
+      "events": 86,
+      "claims": 182,
+      "evidence": 182
+    }
+  },
+  {
+    "title": "三国志·卷37",
+    "source_id": "src_f7ccae560a70d8fe",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷39",
+    "source_id": "src_41c47ed2e7780d4c",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷53",
+    "source_id": "src_acca52d1c455da03",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷33",
+    "source_id": "src_aad55ef47efe0680",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷50",
+    "source_id": "src_f0c4da13da81c074",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷46",
+    "source_id": "src_89a199d35db6aed2",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷19",
+    "source_id": "src_e093b186de8e909c",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷41",
+    "source_id": "src_dbc442dfb3a20b05",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷02",
+    "source_id": "src_a6a479cca39999a8",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷51",
+    "source_id": "src_d031fc1c9d32785f",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷36",
+    "source_id": "src_2ea883a54927d7ea",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷05",
+    "source_id": "src_136c141aac4e87ed",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷57",
+    "source_id": "src_76ba243507db21b0",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷49",
+    "source_id": "src_38904e1bcaeb6623",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷38",
+    "source_id": "src_260570fbbc633583",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷40",
+    "source_id": "src_131b7a6c87908bf1",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷07",
+    "source_id": "src_4aae3fc96fd79407",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷20",
+    "source_id": "src_4c658113fbb182e6",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷42",
+    "source_id": "src_268b01b3c5c53618",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷44",
+    "source_id": "src_3606155c35fc19fd",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷32",
+    "source_id": "src_9e8bc1439a686931",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷43",
+    "source_id": "src_28ed8b1971e88b32",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷60",
+    "source_id": "src_bcbc2580e3bf982f",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷16",
+    "source_id": "src_98a24dfc2ad71e80",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷58",
+    "source_id": "src_2ef71ae4ed7e8347",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷35",
+    "source_id": "src_fbebc49524c95139",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷27",
+    "source_id": "src_78da344c7ebf66a7",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷03",
+    "source_id": "src_228ec535c85f848e",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷56",
+    "source_id": "src_3c33f3e976c7d8ed",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷24",
+    "source_id": "src_2abec7a17bdad966",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷21",
+    "source_id": "src_1712d9536f4e709b",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷08",
+    "source_id": "src_5ef3e4223e8075f3",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷17",
+    "source_id": "src_f895cb3a808d7ca7",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷12",
+    "source_id": "src_0c206a912d4a1720",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷64",
+    "source_id": "src_65d2dde4fbd460ba",
+    "error": "OperationalError: database is locked"
+  },
+  {
+    "title": "三国志·卷59",
+    "source_id": "src_ab68ed414415530a",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 91214,
+      "completion_tokens": 47227,
+      "total_tokens": 138441
+    },
+    "elapsed_seconds": 302.9,
+    "run_id": "read_03423167632d4ef2b894",
+    "graph": {
+      "entities": 82,
+      "aliases": 1,
+      "events": 72,
+      "claims": 124,
+      "evidence": 124
+    }
+  }
+]

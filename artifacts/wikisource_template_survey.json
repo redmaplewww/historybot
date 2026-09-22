@@ -1,0 +1,821 @@
+{
+  "volumes": 65,
+  "template_totals": {
+    "ProperNoun": 2550,
+    "*": 1762,
+    "YL": 789,
+    "quote": 164,
+    "gap": 140,
+    "ul": 115,
+    "WavyBookMark": 88,
+    "red": 59,
+    "header2": 51,
+    "PD-old": 31,
+    "另": 29,
+    "!": 18,
+    "blue": 15,
+    "header": 14,
+    "*s": 13,
+    "*e": 13,
+    "西晉作品": 9,
+    "-": 8,
+    "footer": 6,
+    "wikipedia": 3,
+    "校": 3,
+    "別": 2,
+    "Textquality": 1,
+    "green": 1,
+    "Novel-f": 1,
+    "annotate": 1,
+    "僻字": 1
+  },
+  "kept_by_cleaner": [
+    "ProperNoun"
+  ],
+  "volumes_without_yl": [],
+  "details": [
+    {
+      "page": "三國志/卷01",
+      "title": "三国志·卷01",
+      "chars": 34377,
+      "templates": {
+        "*": 122,
+        "另": 8,
+        "YL": 6,
+        "header": 1,
+        "Textquality": 1,
+        "!": 1,
+        "footer": 1,
+        "西晉作品": 1
+      }
+    },
+    {
+      "page": "三國志/卷02",
+      "title": "三国志·卷02",
+      "chars": 24489,
+      "templates": {
+        "*": 47,
+        "YL": 17,
+        "header2": 1,
+        "西晉作品": 1
+      }
+    },
+    {
+      "page": "三國志/卷03",
+      "title": "三国志·卷03",
+      "chars": 16306,
+      "templates": {
+        "*": 36,
+        "YL": 15,
+        "header2": 1
+      }
+    },
+    {
+      "page": "三國志/卷04",
+      "title": "三国志·卷04",
+      "chars": 24002,
+      "templates": {
+        "*": 33,
+        "red": 33,
+        "YL": 14,
+        "另": 4,
+        "wikipedia": 3,
+        "header2": 1,
+        "blue": 1
+      }
+    },
+    {
+      "page": "三國志/卷05",
+      "title": "三国志·卷05",
+      "chars": 9211,
+      "templates": {
+        "*": 19,
+        "YL": 19,
+        "header2": 1,
+        "footer": 1
+      }
+    },
+    {
+      "page": "三國志/卷06",
+      "title": "三国志·卷06",
+      "chars": 32188,
+      "templates": {
+        "*": 90,
+        "YL": 11,
+        "header2": 1,
+        "footer": 1,
+        "西晉作品": 1
+      }
+    },
+    {
+      "page": "三國志/卷07",
+      "title": "三国志·卷07",
+      "chars": 12072,
+      "templates": {
+        "*": 25,
+        "YL": 3,
+        "header2": 1,
+        "另": 1,
+        "quote": 1,
+        "footer": 1,
+        "西晉作品": 1
+      }
+    },
+    {
+      "page": "三國志/卷08",
+      "title": "三国志·卷08",
+      "chars": 19808,
+      "templates": {
+        "*": 46,
+        "YL": 12,
+        "quote": 8,
+        "header2": 1
+      }
+    },
+    {
+      "page": "三國志/卷09",
+      "title": "三国志·卷09",
+      "chars": 25639,
+      "templates": {
+        "*": 49,
+        "YL": 16,
+        "header2": 1
+      }
+    },
+    {
+      "page": "三國志/卷10",
+      "title": "三国志·卷10",
+      "chars": 19127,
+      "templates": {
+        "*": 39,
+        "YL": 12,
+        "header2": 1,
+        "green": 1
+      }
+    },
+    {
+      "page": "三國志/卷11",
+      "title": "三国志·卷11",
+      "chars": 22840,
+      "templates": {
+        "*": 47,
+        "YL": 16,
+        "-": 5,
+        "red": 4,
+        "header2": 1,
+        "blue": 1,
+        "quote": 1
+      }
+    },
+    {
+      "page": "三國志/卷12",
+      "title": "三国志·卷12",
+      "chars": 14550,
+      "templates": {
+        "*": 26,
+        "quote": 7,
+        "YL": 7,
+        "header2": 1
+      }
+    },
+    {
+      "page": "三國志/卷13",
+      "title": "三国志·卷13",
+      "chars": 21465,
+      "templates": {
+        "*": 40,
+        "YL": 11,
+        "header2": 1
+      }
+    },
+    {
+      "page": "三國志/卷14",
+      "title": "三国志·卷14",
+      "chars": 24161,
+      "templates": {
+        "*": 44,
+        "quote": 19,
+        "YL": 11,
+        "別": 2,
+        "header2": 1,
+        "footer": 1,
+        "PD-old": 1
+      }
+    },
+    {
+      "page": "三國志/卷15",
+      "title": "三国志·卷15",
+      "chars": 15989,
+      "templates": {
+        "*": 28,
+        "YL": 11,
+        "header2": 1,
+        "footer": 1
+      }
+    },
+    {
+      "page": "三國志/卷16",
+      "title": "三国志·卷16",
+      "chars": 16387,
+      "templates": {
+        "*": 33,
+        "YL": 4,
+        "quote": 3,
+        "header2": 1
+      }
+    },
+    {
+      "page": "三國志/卷17",
+      "title": "三国志·卷17",
+      "chars": 25390,
+      "templates": {
+        "ProperNoun": 1074,
+        "*": 12,
+        "WavyBookMark": 10,
+        "YL": 6,
+        "header2": 1
+      }
+    },
+    {
+      "page": "三國志/卷18",
+      "title": "三国志·卷18",
+      "chars": 13551,
+      "templates": {
+        "*": 19,
+        "YL": 5,
+        "header2": 1,
+        "quote": 1
+      }
+    },
+    {
+      "page": "三國志/卷19",
+      "title": "三国志·卷19",
+      "chars": 15008,
+      "templates": {
+        "*": 20,
+        "YL": 12,
+        "quote": 5,
+        "*s": 2,
+        "*e": 2,
+        "header2": 1,
+        "Novel-f": 1,
+        "PD-old": 1
+      }
+    },
+    {
+      "page": "三國志/卷20",
+      "title": "三国志·卷20",
+      "chars": 12860,
+      "templates": {
+        "YL": 90,
+        "*": 11,
+        "quote": 3,
+        "header2": 1,
+        "*s": 1,
+        "*e": 1
+      }
+    },
+    {
+      "page": "三國志/卷21",
+      "title": "三国志·卷21",
+      "chars": 22703,
+      "templates": {
+        "*": 53,
+        "YL": 18,
+        "quote": 2,
+        "header2": 1
+      }
+    },
+    {
+      "page": "三國志/卷22",
+      "title": "三国志·卷22",
+      "chars": 13600,
+      "templates": {
+        "*": 20,
+        "YL": 13,
+        "quote": 9,
+        "header2": 1
+      }
+    },
+    {
+      "page": "三國志/卷23",
+      "title": "三国志·卷23",
+      "chars": 14429,
+      "templates": {
+        "*": 19,
+        "YL": 8,
+        "另": 7,
+        "header2": 1,
+        "annotate": 1,
+        "校": 1
+      }
+    },
+    {
+      "page": "三國志/卷24",
+      "title": "三国志·卷24",
+      "chars": 10813,
+      "templates": {
+        "*": 16,
+        "blue": 9,
+        "YL": 6,
+        "red": 3,
+        "-": 3,
+        "header2": 1
+      }
+    },
+    {
+      "page": "三國志/卷25",
+      "title": "三国志·卷25",
+      "chars": 14553,
+      "templates": {
+        "*": 11,
+        "YL": 5,
+        "quote": 5,
+        "red": 3,
+        "header2": 1,
+        "PD-old": 1
+      }
+    },
+    {
+      "page": "三國志/卷26",
+      "title": "三国志·卷26",
+      "chars": 9575,
+      "templates": {
+        "YL": 13,
+        "*": 10,
+        "header2": 1,
+        "PD-old": 1
+      }
+    },
+    {
+      "page": "三國志/卷27",
+      "title": "三国志·卷27",
+      "chars": 10625,
+      "templates": {
+        "*": 15,
+        "YL": 9,
+        "header2": 1,
+        "quote": 1,
+        "PD-old": 1
+      }
+    },
+    {
+      "page": "三國志/卷28",
+      "title": "三国志·卷28",
+      "chars": 26575,
+      "templates": {
+        "*": 49,
+        "YL": 17,
+        "quote": 7,
+        "header2": 1,
+        "!": 1,
+        "西晉作品": 1
+      }
+    },
+    {
+      "page": "三國志/卷29",
+      "title": "三国志·卷29",
+      "chars": 21285,
+      "templates": {
+        "*": 26,
+        "YL": 6,
+        "!": 2,
+        "header2": 1
+      }
+    },
+    {
+      "page": "三國志/卷30",
+      "title": "三国志·卷30",
+      "chars": 21937,
+      "templates": {
+        "ul": 115,
+        "YL": 19,
+        "*": 11,
+        "*s": 10,
+        "*e": 10,
+        "另": 5,
+        "header2": 1
+      }
+    },
+    {
+      "page": "三國志/卷31",
+      "title": "三国志·卷31",
+      "chars": 3944,
+      "templates": {
+        "*": 20,
+        "YL": 3,
+        "header": 1
+      }
+    },
+    {
+      "page": "三國志/卷32",
+      "title": "三国志·卷32",
+      "chars": 13452,
+      "templates": {
+        "*": 48,
+        "quote": 8,
+        "YL": 4,
+        "header": 1
+      }
+    },
+    {
+      "page": "三國志/卷33",
+      "title": "三国志·卷33",
+      "chars": 6219,
+      "templates": {
+        "*": 15,
+        "YL": 11,
+        "header": 1,
+        "quote": 1,
+        "PD-old": 1
+      }
+    },
+    {
+      "page": "三國志/卷34",
+      "title": "三国志·卷34",
+      "chars": 2495,
+      "templates": {
+        "YL": 22,
+        "*": 6,
+        "header": 1,
+        "quote": 1,
+        "PD-old": 1
+      }
+    },
+    {
+      "page": "三國志/卷35",
+      "title": "三国志·卷35",
+      "chars": 17750,
+      "templates": {
+        "*": 36,
+        "YL": 9,
+        "header": 1,
+        "PD-old": 1
+      }
+    },
+    {
+      "page": "三國志/卷36",
+      "title": "三国志·卷36",
+      "chars": 8061,
+      "templates": {
+        "*": 22,
+        "YL": 8,
+        "!": 2,
+        "header": 1,
+        "PD-old": 1
+      }
+    },
+    {
+      "page": "三國志/卷37",
+      "title": "三国志·卷37",
+      "chars": 6014,
+      "templates": {
+        "*": 13,
+        "YL": 2,
+        "header": 1,
+        "PD-old": 1
+      }
+    },
+    {
+      "page": "三國志/卷38",
+      "title": "三国志·卷38",
+      "chars": 8790,
+      "templates": {
+        "*": 20,
+        "YL": 6,
+        "quote": 5,
+        "header": 1,
+        "PD-old": 1
+      }
+    },
+    {
+      "page": "三國志/卷39",
+      "title": "三国志·卷39",
+      "chars": 6277,
+      "templates": {
+        "*": 17,
+        "YL": 8,
+        "header": 1,
+        "quote": 1,
+        "PD-old": 1
+      }
+    },
+    {
+      "page": "三國志/卷40",
+      "title": "三国志·卷40",
+      "chars": 11595,
+      "templates": {
+        "ProperNoun": 150,
+        "*": 17,
+        "YL": 7,
+        "quote": 4,
+        "WavyBookMark": 2,
+        "header": 1
+      }
+    },
+    {
+      "page": "三國志/卷41",
+      "title": "三国志·卷41",
+      "chars": 6646,
+      "templates": {
+        "*": 12,
+        "YL": 11,
+        "header": 1,
+        "PD-old": 1
+      }
+    },
+    {
+      "page": "三國志/卷42",
+      "title": "三国志·卷42",
+      "chars": 14514,
+      "templates": {
+        "*": 28,
+        "YL": 13,
+        "quote": 8,
+        "header2": 1,
+        "PD-old": 1
+      }
+    },
+    {
+      "page": "三國志/卷43",
+      "title": "三国志·卷43",
+      "chars": 7178,
+      "templates": {
+        "*": 18,
+        "YL": 10,
+        "quote": 2,
+        "header": 1,
+        "西晉作品": 1
+      }
+    },
+    {
+      "page": "三國志/卷44",
+      "title": "三国志·卷44",
+      "chars": 7784,
+      "templates": {
+        "*": 19,
+        "YL": 6,
+        "header": 1,
+        "quote": 1,
+        "PD-old": 1
+      }
+    },
+    {
+      "page": "三國志/卷45",
+      "title": "三国志·卷45",
+      "chars": 13086,
+      "templates": {
+        "YL": 28,
+        "*": 15,
+        "header2": 1
+      }
+    },
+    {
+      "page": "三國志/卷46",
+      "title": "三国志·卷46",
+      "chars": 38083,
+      "templates": {
+        "ProperNoun": 1326,
+        "WavyBookMark": 76,
+        "*": 36,
+        "YL": 19,
+        "header2": 1,
+        "PD-old": 1
+      }
+    },
+    {
+      "page": "三國志/卷47",
+      "title": "三国志·卷47",
+      "chars": 24794,
+      "templates": {
+        "*": 62,
+        "YL": 6,
+        "quote": 4,
+        "header2": 1,
+        "PD-old": 1
+      }
+    },
+    {
+      "page": "三國志/卷48",
+      "title": "三国志·卷48",
+      "chars": 21628,
+      "templates": {
+        "gap": 45,
+        "*": 44,
+        "YL": 25,
+        "red": 12,
+        "!": 12,
+        "header2": 1,
+        "PD-old": 1
+      }
+    },
+    {
+      "page": "三國志/卷49",
+      "title": "三国志·卷49",
+      "chars": 6828,
+      "templates": {
+        "*": 15,
+        "YL": 3,
+        "header2": 1,
+        "PD-old": 1
+      }
+    },
+    {
+      "page": "三國志/卷50",
+      "title": "三国志·卷50",
+      "chars": 4890,
+      "templates": {
+        "*": 18,
+        "YL": 7,
+        "header2": 1,
+        "quote": 1,
+        "西晉作品": 1
+      }
+    },
+    {
+      "page": "三國志/卷51",
+      "title": "三国志·卷51",
+      "chars": 8151,
+      "templates": {
+        "*": 22,
+        "YL": 20,
+        "header2": 1,
+        "quote": 1,
+        "PD-old": 1
+      }
+    },
+    {
+      "page": "三國志/卷52",
+      "title": "三国志·卷52",
+      "chars": 14842,
+      "templates": {
+        "*": 38,
+        "YL": 14,
+        "quote": 4,
+        "另": 2,
+        "header2": 1,
+        "PD-old": 1
+      }
+    },
+    {
+      "page": "三國志/卷53",
+      "title": "三国志·卷53",
+      "chars": 8884,
+      "templates": {
+        "*": 24,
+        "YL": 8,
+        "quote": 4,
+        "header2": 1,
+        "PD-old": 1
+      }
+    },
+    {
+      "page": "三國志/卷54",
+      "title": "三国志·卷54",
+      "chars": 14031,
+      "templates": {
+        "*": 23,
+        "YL": 6,
+        "quote": 4,
+        "header2": 1,
+        "另": 1,
+        "西晉作品": 1
+      }
+    },
+    {
+      "page": "三國志/卷55",
+      "title": "三国志·卷55",
+      "chars": 11168,
+      "templates": {
+        "gap": 59,
+        "*": 20,
+        "YL": 12,
+        "header2": 1,
+        "西晉作品": 1
+      }
+    },
+    {
+      "page": "三國志/卷56",
+      "title": "三国志·卷56",
+      "chars": 8116,
+      "templates": {
+        "YL": 30,
+        "*": 14,
+        "header2": 1
+      }
+    },
+    {
+      "page": "三國志/卷57",
+      "title": "三国志·卷57",
+      "chars": 15808,
+      "templates": {
+        "*": 25,
+        "YL": 11,
+        "quote": 6,
+        "header2": 1,
+        "PD-old": 1
+      }
+    },
+    {
+      "page": "三國志/卷58",
+      "title": "三国志·卷58",
+      "chars": 11212,
+      "templates": {
+        "*": 14,
+        "quote": 13,
+        "YL": 12,
+        "header2": 1,
+        "PD-old": 1
+      }
+    },
+    {
+      "page": "三國志/卷59",
+      "title": "三国志·卷59",
+      "chars": 8078,
+      "templates": {
+        "gap": 19,
+        "YL": 16,
+        "*": 16,
+        "red": 4,
+        "blue": 4,
+        "header2": 1,
+        "PD-old": 1
+      }
+    },
+    {
+      "page": "三國志/卷60",
+      "title": "三国志·卷60",
+      "chars": 10943,
+      "templates": {
+        "*": 22,
+        "YL": 15,
+        "quote": 3,
+        "header2": 1,
+        "PD-old": 1
+      }
+    },
+    {
+      "page": "三國志/卷61",
+      "title": "三国志·卷61",
+      "chars": 8210,
+      "templates": {
+        "*": 10,
+        "YL": 10,
+        "quote": 5,
+        "header2": 1,
+        "PD-old": 1
+      }
+    },
+    {
+      "page": "三國志/卷62",
+      "title": "三国志·卷62",
+      "chars": 4572,
+      "templates": {
+        "*": 4,
+        "YL": 2,
+        "quote": 2,
+        "header2": 1,
+        "PD-old": 1
+      }
+    },
+    {
+      "page": "三國志/卷63",
+      "title": "三国志·卷63",
+      "chars": 4318,
+      "templates": {
+        "gap": 17,
+        "*": 6,
+        "校": 2,
+        "header2": 1,
+        "YL": 1,
+        "PD-old": 1
+      }
+    },
+    {
+      "page": "三國志/卷64",
+      "title": "三国志·卷64",
+      "chars": 14079,
+      "templates": {
+        "*": 22,
+        "quote": 6,
+        "YL": 6,
+        "header2": 1,
+        "僻字": 1,
+        "另": 1,
+        "PD-old": 1
+      }
+    },
+    {
+      "page": "三國志/卷65",
+      "title": "三国志·卷65",
+      "chars": 9716,
+      "templates": {
+        "quote": 8,
+        "YL": 6,
+        "*": 5,
+        "header2": 1,
+        "PD-old": 1
+      }
+    }
+  ]
+}

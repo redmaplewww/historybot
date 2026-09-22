@@ -1,0 +1,111 @@
+{
+  "database": "data/three_kingdoms_rebuilt_v2.db",
+  "counts": {
+    "sources": 81,
+    "passages": 17033,
+    "entities": 17758,
+    "events": 130,
+    "relations": 58,
+    "claims": 58,
+    "evidence": 67,
+    "conflicts": 0
+  },
+  "integrity": {
+    "relations_missing_claim": 0,
+    "claims_without_evidence": 0,
+    "evidence_missing_passage": 0,
+    "relations_missing_passage_provenance": 0,
+    "duplicate_relation_keys": 0,
+    "relations_with_time": 0
+  },
+  "sample_relations": [
+    {
+      "id": "rel_clm_0354cc1529c672f355e3",
+      "subject": "曹操",
+      "predicate": "军事行动",
+      "object": "攻破下邳",
+      "claim_id": "clm_0354cc1529c672f355e3",
+      "valid_from": null,
+      "valid_to": null,
+      "inference_method": "explicit",
+      "confidence": 0.98
+    },
+    {
+      "id": "rel_clm_09c2f6fef57dd5979421",
+      "subject": "关公",
+      "predicate": "投降对象",
+      "object": "汉帝而非曹操",
+      "claim_id": "clm_09c2f6fef57dd5979421",
+      "valid_from": null,
+      "valid_to": null,
+      "inference_method": "explicit",
+      "confidence": 1.0
+    },
+    {
+      "id": "rel_clm_0f2bf21dd05a2724595a",
+      "subject": "理",
+      "predicate": "亲属关系",
+      "object": "安平王之子",
+      "claim_id": "clm_0f2bf21dd05a2724595a",
+      "valid_from": null,
+      "valid_to": null,
+      "inference_method": "explicit",
+      "confidence": 0.98
+    },
+    {
+      "id": "rel_clm_1634dc8f94a62fac26e2",
+      "subject": "刘理",
+      "predicate": "封爵",
+      "object": "梁王",
+      "claim_id": "clm_1634dc8f94a62fac26e2",
+      "valid_from": null,
+      "valid_to": null,
+      "inference_method": "explicit",
+      "confidence": 1.0
+    },
+    {
+      "id": "rel_clm_1bb2e2f85f23a17b3712",
+      "subject": "曹操",
+      "predicate": "赠赐",
+      "object": "赤兔马",
+      "claim_id": "clm_1bb2e2f85f23a17b3712",
+      "valid_from": null,
+      "valid_to": null,
+      "inference_method": "explicit",
+      "confidence": 0.98
+    },
+    {
+      "id": "rel_clm_1bf62e8f7b578cc44a17",
+      "subject": "关公",
+      "predicate": "官职",
+      "object": "偏将军",
+      "claim_id": "clm_1bf62e8f7b578cc44a17",
+      "valid_from": null,
+      "valid_to": null,
+      "inference_method": "explicit",
+      "confidence": 1.0
+    },
+    {
+      "id": "rel_clm_228fa65207005e0164dc",
+      "subject": "刘理",
+      "predicate": "亲属关系",
+      "object": "后主庶弟",
+      "claim_id": "clm_228fa65207005e0164dc",
+      "valid_from": null,
+      "valid_to": null,
+      "inference_method": "explicit",
+      "confidence": 0.99
+    },
+    {
+      "id": "rel_clm_2b15e9d5d920f2ce5f66",
+      "subject": "张辽",
+      "predicate": "行动",
+      "object": "劝关公投降曹公",
+      "claim_id": "clm_2b15e9d5d920f2ce5f66",
+      "valid_from": null,
+      "valid_to": null,
+      "inference_method": "explicit",
+      "confidence": 0.99
+    }
+  ]
+}

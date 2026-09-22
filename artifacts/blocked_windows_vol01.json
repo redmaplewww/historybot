@@ -1,0 +1,160 @@
+{
+  "windows_probed": 40,
+  "failed": 22,
+  "failures": [
+    {
+      "passage_id": "p_85ef3aa38a3e122e",
+      "ordinal": 2,
+      "status": "failed",
+      "error": "HTTPStatusError: 400 from https://workbuddy2api.henryai.top/v1/chat/completions for task='historical_temporal_resolution' model='deepseek-v4.1-flash': {\"error\":{\"code\":\"upstream_content_policy_blocked\",\"message\":\"内容未通过安全审核，请调整后重试。\",\"request_id\":\"wb2-18d6676",
+      "window_text": "__FORCETOC__ | 先主臨豫州，住小沛，納以為妾。 | 先主數喪嫡室，常攝內事。"
+    },
+    {
+      "passage_id": "p_f5953c8b84b29ac1",
+      "ordinal": 7,
+      "status": "failed",
+      "error": "HTTPStatusError: 400 from https://workbuddy2api.henryai.top/v1/chat/completions for task='historical_temporal_resolution' model='deepseek-v4.1-flash': {\"error\":{\"code\":\"upstream_content_policy_blocked\",\"message\":\"内容未通过安全审核，请调整后重试。\",\"request_id\":\"wb2-18d6676",
+      "window_text": "值曹公軍至，追及先主於當陽長阪，於時困偪，棄-{后}-及後主，賴趙雲保護，得免於 | 章武二年，追諡皇思夫人，遷葬於蜀，未至而先主殂隕。 | 兄吳壹，少孤，壹父素與劉焉有舊，是以舉家隨焉入蜀。 | 焉有異志，而聞善相者相-{后}-當大貴。 | 焉時將子瑁自隨，遂為瑁納-{后}-。"
+    },
+    {
+      "passage_id": "p_ca69c9478e480a54",
+      "ordinal": 6,
+      "status": "failed",
+      "error": "HTTPStatusError: 400 from https://workbuddy2api.henryai.top/v1/chat/completions for task='historical_temporal_resolution' model='deepseek-v4.1-flash': {\"error\":{\"code\":\"upstream_content_policy_blocked\",\"message\":\"内容未通过安全审核，请调整后重试。\",\"request_id\":\"wb2-18d6676",
+      "window_text": "先主數喪嫡室，常攝內事。 | 值曹公軍至，追及先主於當陽長阪，於時困偪，棄-{后}-及後主，賴趙雲保護，得免於 | 章武二年，追諡皇思夫人，遷葬於蜀，未至而先主殂隕。 | 兄吳壹，少孤，壹父素與劉焉有舊，是以舉家隨焉入蜀。 | 焉有異志，而聞善相者相-{后}-當大貴。"
+    },
+    {
+      "passage_id": "p_99801d10f9569303",
+      "ordinal": 10,
+      "status": "failed",
+      "error": "HTTPStatusError: 400 from https://workbuddy2api.henryai.top/v1/chat/completions for task='historical_temporal_resolution' model='deepseek-v4.1-flash': {\"error\":{\"code\":\"upstream_content_policy_blocked\",\"message\":\"内容未通过安全审核，请调整后重试。\",\"request_id\":\"wb2-18d6676",
+      "window_text": "焉有異志，而聞善相者相-{后}-當大貴。 | 焉時將子瑁自隨，遂為瑁納-{后}-。 | 先主既定益州，而孫夫人還吳，群下勸先主聘-{后}-，先主疑與瑁同族，法正進曰：「 | 」於是納-{后}-為夫人。 | 章武元年夏五月，策曰：「朕承天命，奉至尊，臨萬國。"
+    },
+    {
+      "passage_id": "p_b8fe55c8bf43a29d",
+      "ordinal": 12,
+      "status": "failed",
+      "error": "HTTPStatusError: 400 from https://workbuddy2api.henryai.top/v1/chat/completions for task='historical_temporal_resolution' model='deepseek-v4.1-flash': {\"error\":{\"code\":\"upstream_content_policy_blocked\",\"message\":\"内容未通过安全审核，请调整后重试。\",\"request_id\":\"wb2-18d6676",
+      "window_text": "先主既定益州，而孫夫人還吳，群下勸先主聘-{后}-，先主疑與瑁同族，法正進曰：「 | 」於是納-{后}-為夫人。 | 章武元年夏五月，策曰：「朕承天命，奉至尊，臨萬國。 | 今以-{后}-為皇后，遣使持節丞相亮授璽綬，承宗廟，母天下，皇后其敬之哉！ | 」建興元年五月，後主即位，尊-{后}-為皇太后，稱長樂宮。"
+    },
+    {
+      "passage_id": "p_272324e84c95f570",
+      "ordinal": 14,
+      "status": "failed",
+      "error": "HTTPStatusError: 400 from https://workbuddy2api.henryai.top/v1/chat/completions for task='historical_temporal_resolution' model='deepseek-v4.1-flash': {\"error\":{\"code\":\"upstream_content_policy_blocked\",\"message\":\"内容未通过安全审核，请调整后重试。\",\"request_id\":\"wb2-18d6676",
+      "window_text": "章武元年夏五月，策曰：「朕承天命，奉至尊，臨萬國。 | 今以-{后}-為皇后，遣使持節丞相亮授璽綬，承宗廟，母天下，皇后其敬之哉！ | 」建興元年五月，後主即位，尊-{后}-為皇太后，稱長樂宮。 | 壹官至車騎將軍，封縣侯。 | 延熙八年，-{后}-薨，合葬惠陵。"
+    },
+    {
+      "passage_id": "p_eee9aa0121f9cca5",
+      "ordinal": 16,
+      "status": "failed",
+      "error": "HTTPStatusError: 400 from https://workbuddy2api.henryai.top/v1/chat/completions for task='historical_temporal_resolution' model='deepseek-v4.1-flash': {\"error\":{\"code\":\"upstream_content_policy_blocked\",\"message\":\"内容未通过安全审核，请调整后重试。\",\"request_id\":\"wb2-18d6676",
+      "window_text": "」建興元年五月，後主即位，尊-{后}-為皇太后，稱長樂宮。 | 壹官至車騎將軍，封縣侯。 | 延熙八年，-{后}-薨，合葬惠陵。 | 後主敬哀皇后，車騎將軍張飛長女也。 | 後主張皇后，前-{后}-敬哀之妹也。"
+    },
+    {
+      "passage_id": "p_7388485d6996c271",
+      "ordinal": 17,
+      "status": "failed",
+      "error": "HTTPStatusError: 400 from https://workbuddy2api.henryai.top/v1/chat/completions for task='historical_temporal_resolution' model='deepseek-v4.1-flash': {\"error\":{\"code\":\"upstream_content_policy_blocked\",\"message\":\"内容未通过安全审核，请调整后重试。\",\"request_id\":\"wb2-18d6676",
+      "window_text": "壹官至車騎將軍，封縣侯。 | 延熙八年，-{后}-薨，合葬惠陵。 | 後主敬哀皇后，車騎將軍張飛長女也。 | 後主張皇后，前-{后}-敬哀之妹也。 | 延熙元年春正月，策曰：「朕統承大業，君臨天下，奉郊廟社稷。"
+    },
+    {
+      "passage_id": "p_11a1fde384ed7c02",
+      "ordinal": 18,
+      "status": "failed",
+      "error": "HTTPStatusError: 400 from https://workbuddy2api.henryai.top/v1/chat/completions for task='historical_temporal_resolution' model='deepseek-v4.1-flash': {\"error\":{\"code\":\"upstream_content_policy_blocked\",\"message\":\"内容未通过安全审核，请调整后重试。\",\"request_id\":\"wb2-18d6676",
+      "window_text": "延熙八年，-{后}-薨，合葬惠陵。 | 後主敬哀皇后，車騎將軍張飛長女也。 | 後主張皇后，前-{后}-敬哀之妹也。 | 延熙元年春正月，策曰：「朕統承大業，君臨天下，奉郊廟社稷。 | 今以貴人為皇后，使行丞相事左將軍向朗持節授璽綬。"
+    },
+    {
+      "passage_id": "p_fe652ac28a0ddffb",
+      "ordinal": 8,
+      "status": "failed",
+      "error": "JSONDecodeError: Expecting value: line 177 column 18 (char 5146)",
+      "window_text": "章武二年，追諡皇思夫人，遷葬於蜀，未至而先主殂隕。 | 兄吳壹，少孤，壹父素與劉焉有舊，是以舉家隨焉入蜀。 | 焉有異志，而聞善相者相-{后}-當大貴。 | 焉時將子瑁自隨，遂為瑁納-{后}-。 | 先主既定益州，而孫夫人還吳，群下勸先主聘-{后}-，先主疑與瑁同族，法正進曰：「"
+    },
+    {
+      "passage_id": "p_507e6d97bd8cdb18",
+      "ordinal": 19,
+      "status": "failed",
+      "error": "HTTPStatusError: 400 from https://workbuddy2api.henryai.top/v1/chat/completions for task='historical_temporal_resolution' model='deepseek-v4.1-flash': {\"error\":{\"code\":\"upstream_content_policy_blocked\",\"message\":\"内容未通过安全审核，请调整后重试。\",\"request_id\":\"wb2-18d6676",
+      "window_text": "後主敬哀皇后，車騎將軍張飛長女也。 | 後主張皇后，前-{后}-敬哀之妹也。 | 延熙元年春正月，策曰：「朕統承大業，君臨天下，奉郊廟社稷。 | 今以貴人為皇后，使行丞相事左將軍向朗持節授璽綬。 | 勉脩中饋，恪肅禋祀，皇后其敬之哉！"
+    },
+    {
+      "passage_id": "p_17af1ad7654f17e9",
+      "ordinal": 22,
+      "status": "failed",
+      "error": "HTTPStatusError: 400 from https://workbuddy2api.henryai.top/v1/chat/completions for task='historical_temporal_resolution' model='deepseek-v4.1-flash': {\"error\":{\"code\":\"upstream_content_policy_blocked\",\"message\":\"内容未通过安全审核，请调整后重试。\",\"request_id\":\"wb2-18d6676",
+      "window_text": "今以貴人為皇后，使行丞相事左將軍向朗持節授璽綬。 | 勉脩中饋，恪肅禋祀，皇后其敬之哉！ | 劉永字公壽，先主子，後主庶弟也。 | 章武元年六月，使司徒靖立永為魯王，策曰：「小子永，受茲青土。 | 朕承天序，繼統大業，遵脩稽古，建爾國家，封於東土，奄有龜蒙，世為籓輔。"
+    },
+    {
+      "passage_id": "p_5056dbc4981dc6d1",
+      "ordinal": 24,
+      "status": "failed",
+      "error": "HTTPStatusError: 400 from https://workbuddy2api.henryai.top/v1/chat/completions for task='historical_temporal_resolution' model='deepseek-v4.1-flash': {\"error\":{\"code\":\"upstream_content_policy_blocked\",\"message\":\"内容未通过安全审核，请调整后重试。\",\"request_id\":\"wb2-18d6676",
+      "window_text": "劉永字公壽，先主子，後主庶弟也。 | 章武元年六月，使司徒靖立永為魯王，策曰：「小子永，受茲青土。 | 朕承天序，繼統大業，遵脩稽古，建爾國家，封於東土，奄有龜蒙，世為籓輔。 | 惟彼魯邦，一變適道，風化存焉。 | 王其秉心率禮，綏爾士民，是饗是宜，其戒之哉！"
+    },
+    {
+      "passage_id": "p_34666ac10b1c11a3",
+      "ordinal": 11,
+      "status": "failed",
+      "error": "JSONDecodeError: Expecting value: line 155 column 18 (char 4770)",
+      "window_text": "焉時將子瑁自隨，遂為瑁納-{后}-。 | 先主既定益州，而孫夫人還吳，群下勸先主聘-{后}-，先主疑與瑁同族，法正進曰：「 | 」於是納-{后}-為夫人。 | 章武元年夏五月，策曰：「朕承天命，奉至尊，臨萬國。 | 今以-{后}-為皇后，遣使持節丞相亮授璽綬，承宗廟，母天下，皇后其敬之哉！"
+    },
+    {
+      "passage_id": "p_87181ad0bbf9cc02",
+      "ordinal": 29,
+      "status": "failed",
+      "error": "HTTPStatusError: 400 from https://workbuddy2api.henryai.top/v1/chat/completions for task='historical_temporal_resolution' model='deepseek-v4.1-flash': {\"error\":{\"code\":\"upstream_content_policy_blocked\",\"message\":\"内容未通过安全审核，请调整后重试。\",\"request_id\":\"wb2-18d6676",
+      "window_text": "初，永憎宦人黃皓，皓既信任用事，譖構永於後主，後主稍疏外永，至不得朝見者十餘年。 | 咸熙元年，永東遷洛陽，拜奉車都尉，封為鄉侯。 | 劉理字奉孝，亦後主庶弟也，與永異母。 | 章武元年六月，使司徒靖立理為梁王，策曰：「小子理，朕統承漢序，祗順天命，遵脩典秩 | 惟彼梁土，畿甸之邦，民狎教化，易導以禮。"
+    },
+    {
+      "passage_id": "p_9b3b357b5f389503",
+      "ordinal": 30,
+      "status": "failed",
+      "error": "HTTPStatusError: 400 from https://workbuddy2api.henryai.top/v1/chat/completions for task='historical_temporal_resolution' model='deepseek-v4.1-flash': {\"error\":{\"code\":\"upstream_content_policy_blocked\",\"message\":\"内容未通过安全审核，请调整后重试。\",\"request_id\":\"wb2-18d6676",
+      "window_text": "咸熙元年，永東遷洛陽，拜奉車都尉，封為鄉侯。 | 劉理字奉孝，亦後主庶弟也，與永異母。 | 章武元年六月，使司徒靖立理為梁王，策曰：「小子理，朕統承漢序，祗順天命，遵脩典秩 | 惟彼梁土，畿甸之邦，民狎教化，易導以禮。 | 往悉乃心，懷保黎庶，以永爾國，王其敬之哉！"
+    },
+    {
+      "passage_id": "p_1c4f86387bd7f9fa",
+      "ordinal": 31,
+      "status": "failed",
+      "error": "HTTPStatusError: 400 from https://workbuddy2api.henryai.top/v1/chat/completions for task='historical_temporal_resolution' model='deepseek-v4.1-flash': {\"error\":{\"code\":\"upstream_content_policy_blocked\",\"message\":\"内容未通过安全审核，请调整后重试。\",\"request_id\":\"wb2-18d6676",
+      "window_text": "劉理字奉孝，亦後主庶弟也，與永異母。 | 章武元年六月，使司徒靖立理為梁王，策曰：「小子理，朕統承漢序，祗順天命，遵脩典秩 | 惟彼梁土，畿甸之邦，民狎教化，易導以禮。 | 往悉乃心，懷保黎庶，以永爾國，王其敬之哉！ | 景耀四年詔曰：「安平王，先帝所命。"
+    },
+    {
+      "passage_id": "p_86e6de128288ffed",
+      "ordinal": 32,
+      "status": "failed",
+      "error": "HTTPStatusError: 400 from https://workbuddy2api.henryai.top/v1/chat/completions for task='historical_temporal_resolution' model='deepseek-v4.1-flash': {\"error\":{\"code\":\"upstream_content_policy_blocked\",\"message\":\"内容未通过安全审核，请调整后重试。\",\"request_id\":\"wb2-18d6676",
+      "window_text": "章武元年六月，使司徒靖立理為梁王，策曰：「小子理，朕統承漢序，祗順天命，遵脩典秩 | 惟彼梁土，畿甸之邦，民狎教化，易導以禮。 | 往悉乃心，懷保黎庶，以永爾國，王其敬之哉！ | 景耀四年詔曰：「安平王，先帝所命。 | 三世早夭，國嗣頹絕，朕用傷悼。"
+    },
+    {
+      "passage_id": "p_f247a22d2af38a93",
+      "ordinal": 33,
+      "status": "failed",
+      "error": "HTTPStatusError: 400 from https://workbuddy2api.henryai.top/v1/chat/completions for task='historical_temporal_resolution' model='deepseek-v4.1-flash': {\"error\":{\"code\":\"upstream_content_policy_blocked\",\"message\":\"内容未通过安全审核，请调整后重试。\",\"request_id\":\"wb2-18d6676",
+      "window_text": "惟彼梁土，畿甸之邦，民狎教化，易導以禮。 | 往悉乃心，懷保黎庶，以永爾國，王其敬之哉！ | 景耀四年詔曰：「安平王，先帝所命。 | 三世早夭，國嗣頹絕，朕用傷悼。 | 」輯，理子也，咸熙元年，東遷洛陽，拜奉車都尉，封鄉侯。"
+    },
+    {
+      "passage_id": "p_1d83b04d5aa9d090",
+      "ordinal": 37,
+      "status": "failed",
+      "error": "HTTPStatusError: 400 from https://workbuddy2api.henryai.top/v1/chat/completions for task='historical_temporal_resolution' model='deepseek-v4.1-flash': {\"error\":{\"code\":\"upstream_content_policy_blocked\",\"message\":\"内容未通过安全审核，请调整后重试。\",\"request_id\":\"wb2-18d6676",
+      "window_text": "」輯，理子也，咸熙元年，東遷洛陽，拜奉車都尉，封鄉侯。 | 母王貴人，本敬哀張皇后侍人也。 | 延熙元年正月策曰：「在昔帝王，繼體立嗣，副貳國統，古今常道。 | 今以璿為皇太子，昭顯祖宗之威，命使行丞相事左將軍朗持節授印緩。 | 其勉脩茂質，祗恪道義，諮詢典禮，敬友師傅，斟酌眾善，翼成爾德，可不務脩以自勗哉！"
+    },
+    {
+      "passage_id": "p_7eed9e76c5e3e495",
+      "ordinal": 25,
+      "status": "failed",
+      "error": "JSONDecodeError: Unterminated string starting at: line 172 column 26 (char 5113)",
+      "window_text": "章武元年六月，使司徒靖立永為魯王，策曰：「小子永，受茲青土。 | 朕承天序，繼統大業，遵脩稽古，建爾國家，封於東土，奄有龜蒙，世為籓輔。 | 惟彼魯邦，一變適道，風化存焉。 | 王其秉心率禮，綏爾士民，是饗是宜，其戒之哉！ | 初，永憎宦人黃皓，皓既信任用事，譖構永於後主，後主稍疏外永，至不得朝見者十餘年。"
+    },
+    {
+      "passage_id": "p_1fb70fd386084979",
+      "ordinal": 39,
+      "status": "failed",
+      "error": "HTTPStatusError: 400 from https://workbuddy2api.henryai.top/v1/chat/completions for task='historical_temporal_resolution' model='deepseek-v4.1-flash': {\"error\":{\"code\":\"upstream_content_policy_blocked\",\"message\":\"内容未通过安全审核，请调整后重试。\",\"request_id\":\"wb2-18d6676",
+      "window_text": "延熙元年正月策曰：「在昔帝王，繼體立嗣，副貳國統，古今常道。 | 今以璿為皇太子，昭顯祖宗之威，命使行丞相事左將軍朗持節授印緩。 | 其勉脩茂質，祗恪道義，諮詢典禮，敬友師傅，斟酌眾善，翼成爾德，可不務脩以自勗哉！ | 咸熙元年正月，鍾會作亂於成都，璿為亂兵所害。 | 評曰：《易》稱有夫婦然後有父子，夫人倫之始，恩紀之隆，莫尚於此矣。"
+    }
+  ]
+}

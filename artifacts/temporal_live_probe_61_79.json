@@ -1,0 +1,134 @@
+{
+  "results": [
+    {
+      "ordinal": 61,
+      "text": "是歲，孫策受袁術使渡江，數年閒遂有江東。",
+      "has_anchor": true,
+      "anchor_first_line": "前文锚点：初平年1，对应公元约190年。注意：锚点只说明该前文位置的纪年；目标是否承接该纪年必须由原文关系判断。",
+      "target_count": 5,
+      "context_summary": "当前 passage 为“是歲，孫策受袁術使渡江，數年閒遂有江東。”其“是歲”承接前文；前文锚点为初平元年=190，且已有秋征陶谦等后续叙事，故推定该年为初平二年，公元191年。孙策渡江事件可定在191年；数年之间遂有江东则为跨数年结果，绝对年份不确定。",
+      "references": [
+        {
+          "id": "clm_v2_8a7dd05ce0193bc84305",
+          "statement": "孫策 受使於 袁術",
+          "time_expression": "是歲",
+          "year": 191,
+          "era_name": "初平",
+          "era_year": 2,
+          "time_from": null,
+          "time_precision": "year",
+          "context_basis": "当前段以“是歲”承接上文。前文锚点说明初平元年春正月起兵，对应190年；上下文顺序中已见秋征陶谦等事，按卷内叙事承接“是歲”落在初平二年，即191年。"
+        },
+        {
+          "id": "clm_v2_0512bfd3cfe3b9d08b38",
+          "statement": "孫策 渡 江",
+          "time_expression": "是歲",
+          "year": 191,
+          "era_name": "初平",
+          "era_year": 2,
+          "time_from": null,
+          "time_precision": "year",
+          "context_basis": "同一句“是歲，孫策受袁術使渡江”承接前文，故孫策渡江与受使同年；由“是歲”及前文初平元年锚点推为初平二年，公元191年。"
+        },
+        {
+          "id": "clm_v2_e3185a473b7bf5af725d",
+          "statement": "孫策 有 江東",
+          "time_expression": "數年閒",
+          "year": null,
+          "era_name": null,
+          "era_year": null,
+          "time_from": "0191",
+          "time_precision": "uncertain",
+          "context_basis": "原文作“數年閒遂有江東”，表示自“是歲”孫策渡江后数年之间逐步占有江东，无法仅据本卷确定绝对完成年，故标为uncertain。"
+        },
+        {
+          "id": "evt_v2_d3641afcae73c3d41db4",
+          "statement": "",
+          "time_expression": "是歲",
+          "year": 191,
+          "era_name": "初平",
+          "era_year": 2,
+          "time_from": null,
+          "time_precision": "year",
+          "context_basis": "事件标签“孫策受袁術使渡江”对应原文“是歲，孫策受袁術使渡江”；“是歲”承接前文，据初平元年=190且前文已叙事至秋季征陶谦，定为初平二年，公元191年。"
+        },
+        {
+          "id": "evt_v2_7fac81da60045b056177",
+          "statement": "",
+          "time_expression": "數年閒遂有江東",
+          "year": null,
+          "era_name": null,
+          "era_year": null,
+          "time_from": "0191",
+          "time_precision": "uncertain",
+          "context_basis": "事件标签“孫策有江東”对应“數年閒遂有江東”，为渡江后数年间的结果，具体年份不能由给定上下文确定。"
+        }
+      ]
+    },
+    {
+      "ordinal": 79,
+      "text": "是歲穀一斛五十餘萬錢，人相食，乃罷吏兵新募者。",
+      "has_anchor": true,
+      "anchor_first_line": "前文锚点：興平年1，对应公元约194年。注意：锚点只说明该前文位置的纪年；目标是否承接该纪年必须由原文关系判断。",
+      "target_count": 5,
+      "context_summary": "前文锚点明确记载“兴平元年春”，对应公元194年。目标段落以“是岁”开头，承接兴平元年，因此可判定其绝对时间为194年，但具体月日不详。",
+      "references": [
+        {
+          "id": "clm_v2_43c290b052c1adf12c88",
+          "statement": "是岁 穀一斛值 五十餘萬錢",
+          "time_expression": "是岁",
+          "year": 194,
+          "era_name": "興平",
+          "era_year": 1,
+          "time_from": "194-01-01",
+          "time_precision": "year",
+          "context_basis": "前文锚点段落 p_a049df85acd61b58 明言“興平元年春”；目标段落 p_f7b5b878fafe5067 以“是歲”承接同一叙事单元，故为兴平元年（公元194年）。"
+        },
+        {
+          "id": "clm_v2_fc3f77232b607a301f2d",
+          "statement": "是岁 发生 人相食",
+          "time_expression": "是岁",
+          "year": 194,
+          "era_name": "興平",
+          "era_year": 1,
+          "time_from": "194-01-01",
+          "time_precision": "year",
+          "context_basis": "同上，目标事件“人相食”与“是岁穀一斛五十餘萬錢”同属一个“是岁”叙事句，时间与该年一致。"
+        },
+        {
+          "id": "clm_v2_6811988dc3e18a0a475b",
+          "statement": "当局 罢 吏兵新募者",
+          "time_expression": "是岁",
+          "year": 194,
+          "era_name": "興平",
+          "era_year": 1,
+          "time_from": "194-01-01",
+          "time_precision": "year",
+          "context_basis": "“乃罷吏兵新募者”与同段前面“是歲”相连，且属于同一段落中的措施结果，不另起他年，故定为兴平元年（公元194年）。"
+        },
+        {
+          "id": "evt_v2_de64c0421ea294b7d8b9",
+          "statement": "",
+          "time_expression": "是岁",
+          "year": 194,
+          "era_name": "興平",
+          "era_year": 1,
+          "time_from": "194-01-01",
+          "time_precision": "year",
+          "context_basis": "事件“是岁谷贵，人相食”直接对应“是歲穀一斛五十餘萬錢，人相食”，由前文“興平元年春”锚定年份。"
+        },
+        {
+          "id": "evt_v2_e5d5bf945445a6031142",
+          "statement": "",
+          "time_expression": "是岁",
+          "year": 194,
+          "era_name": "興平",
+          "era_year": 1,
+          "time_from": "194-01-01",
+          "time_precision": "year",
+          "context_basis": "事件“罢吏兵新募者”源自同段“乃罷吏兵新募者”，与“是歲”共时，时间定为兴平元年（公元194年）。"
+        }
+      ]
+    }
+  ]
+}

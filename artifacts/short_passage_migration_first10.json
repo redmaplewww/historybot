@@ -1,0 +1,731 @@
+{
+  "database": "data\\three_kingdoms_rebuilt_v2.db",
+  "applied": false,
+  "safe": false,
+  "backup": null,
+  "inserted": 0,
+  "totals": {
+    "sources": 10,
+    "safe_sources": 3,
+    "missing_rows": 896,
+    "missing_chars": 7161,
+    "missing_year_like_rows": 48,
+    "empty_rows": 1,
+    "unmatched_current_rows": 7,
+    "missing_long_rows": 16
+  },
+  "sources": [
+    {
+      "source_id": "src_8d3056db6591b2ee",
+      "safe": true,
+      "current_rows": 501,
+      "current_nonempty": 501,
+      "empty_rows": 0,
+      "fresh_rows": 653,
+      "matched_rows": 501,
+      "missing_rows": 152,
+      "missing_short_rows": 152,
+      "missing_long_rows": 0,
+      "unmatched_current_rows": 0,
+      "missing_chars": 1213,
+      "missing_year_like_rows": 5,
+      "missing_samples": [
+        {
+          "ordinal": 3,
+          "text": "嵩生太祖。"
+        },
+        {
+          "ordinal": 7,
+          "text": "光和末，黃巾起。"
+        },
+        {
+          "ordinal": 8,
+          "text": "拜騎都尉，討潁川賊。"
+        },
+        {
+          "ordinal": 12,
+          "text": "芬等遂敗。"
+        },
+        {
+          "ordinal": 14,
+          "text": "徵太祖爲典軍校尉。"
+        },
+        {
+          "ordinal": 22,
+          "text": "卓遂殺太后及弘農王。"
+        },
+        {
+          "ordinal": 26,
+          "text": "太祖行奮武將軍。"
+        },
+        {
+          "ordinal": 28,
+          "text": "卓留屯洛陽，遂焚宮室。"
+        },
+        {
+          "ordinal": 30,
+          "text": "卓兵彊，紹等莫敢先進。"
+        },
+        {
+          "ordinal": 35,
+          "text": "」遂引兵西，將據成臯。"
+        },
+        {
+          "ordinal": 36,
+          "text": "邈遣將衞茲分兵隨太祖。"
+        },
+        {
+          "ordinal": 43,
+          "text": "」邈等不能用。"
+        }
+      ],
+      "unmatched_current_samples": [],
+      "title": "三国志·卷01"
+    },
+    {
+      "source_id": "src_a6a479cca39999a8",
+      "safe": false,
+      "current_rows": 145,
+      "current_nonempty": 145,
+      "empty_rows": 0,
+      "fresh_rows": 211,
+      "matched_rows": 144,
+      "missing_rows": 67,
+      "missing_short_rows": 65,
+      "missing_long_rows": 2,
+      "unmatched_current_rows": 1,
+      "missing_chars": 581,
+      "missing_year_like_rows": 7,
+      "missing_samples": [
+        {
+          "ordinal": 1,
+          "text": "中平四年冬，生于譙。"
+        },
+        {
+          "ordinal": 3,
+          "text": "二十二年，立爲魏太子。"
+        },
+        {
+          "ordinal": 5,
+          "text": "尊王后曰王太后。"
+        },
+        {
+          "ordinal": 6,
+          "text": "改建安二十五年爲延康元年。"
+        },
+        {
+          "ordinal": 11,
+          "text": "天事恒象，此其應也。"
+        },
+        {
+          "ordinal": 12,
+          "text": "」內黃殷登默而記之。"
+        },
+        {
+          "ordinal": 13,
+          "text": "至四十五年，登尚在。"
+        },
+        {
+          "ordinal": 15,
+          "text": "」"
+        },
+        {
+          "ordinal": 19,
+          "text": "庚午，大將軍夏侯惇薨。"
+        },
+        {
+          "ordinal": 24,
+          "text": "華降。"
+        },
+        {
+          "ordinal": 28,
+          "text": "」"
+        },
+        {
+          "ordinal": 29,
+          "text": "孫權遣使奉獻。"
+        }
+      ],
+      "unmatched_current_samples": [
+        {
+          "id": "p_aa7dddf6bdfa8d31",
+          "ordinal": 144,
+          "text": "中平四年延康元年建安二十五年:評曰：文帝天資文藻，下筆成章，博聞彊識，才藝兼該；若加之曠大之度，勵以公平之誠，邁志存道，克廣德心，則古之賢主，何遠之有哉！"
+        }
+      ],
+      "title": "三国志·卷02"
+    },
+    {
+      "source_id": "src_228ec535c85f848e",
+      "safe": true,
+      "current_rows": 202,
+      "current_nonempty": 202,
+      "empty_rows": 0,
+      "fresh_rows": 283,
+      "matched_rows": 202,
+      "missing_rows": 81,
+      "missing_short_rows": 81,
+      "missing_long_rows": 0,
+      "unmatched_current_rows": 0,
+      "missing_chars": 724,
+      "missing_year_like_rows": 1,
+      "missing_samples": [
+        {
+          "ordinal": 3,
+          "text": "以其母誅，故未建爲嗣。"
+        },
+        {
+          "ordinal": 5,
+          "text": "丁巳，即皇帝位，大赦。"
+        },
+        {
+          "ordinal": 7,
+          "text": "諸臣封爵各有差。"
+        },
+        {
+          "ordinal": 16,
+          "text": "論功行賞各有差。"
+        },
+        {
+          "ordinal": 17,
+          "text": "冬十月，清河王冏薨。"
+        },
+        {
+          "ordinal": 22,
+          "text": "二月辛未，帝耕于藉田。"
+        },
+        {
+          "ordinal": 24,
+          "text": "丁亥，朝日于東郊。"
+        },
+        {
+          "ordinal": 25,
+          "text": "夏四月乙亥，行五銖錢。"
+        },
+        {
+          "ordinal": 26,
+          "text": "甲申，初營宗廟。"
+        },
+        {
+          "ordinal": 27,
+          "text": "秋八月，夕月于西郊。"
+        },
+        {
+          "ordinal": 29,
+          "text": "焉耆王遣子入侍。"
+        },
+        {
+          "ordinal": 30,
+          "text": "十一月，立皇后毛氏。"
+        }
+      ],
+      "unmatched_current_samples": [],
+      "title": "三国志·卷03"
+    },
+    {
+      "source_id": "src_89aedc7875ae791a",
+      "safe": false,
+      "current_rows": 298,
+      "current_nonempty": 298,
+      "empty_rows": 0,
+      "fresh_rows": 401,
+      "matched_rows": 297,
+      "missing_rows": 104,
+      "missing_short_rows": 101,
+      "missing_long_rows": 3,
+      "unmatched_current_rows": 1,
+      "missing_chars": 886,
+      "missing_year_like_rows": 6,
+      "missing_samples": [
+        {
+          "ordinal": 0,
+          "text": "齊王"
+        },
+        {
+          "ordinal": 1,
+          "text": "齊王諱芳，字蘭卿。"
+        },
+        {
+          "ordinal": 3,
+          "text": "青龍三年，立為齊王。"
+        },
+        {
+          "ordinal": 5,
+          "text": "是日，即皇帝位，大赦。"
+        },
+        {
+          "ordinal": 6,
+          "text": "尊皇后曰皇太后。"
+        },
+        {
+          "ordinal": 12,
+          "text": "八月，大赦。"
+        },
+        {
+          "ordinal": 14,
+          "text": "十二月，詔曰：「」"
+        },
+        {
+          "ordinal": 23,
+          "text": "六月辛丑，退。"
+        },
+        {
+          "ordinal": 25,
+          "text": "冬十二月，南安郡地震。"
+        },
+        {
+          "ordinal": 27,
+          "text": "三月，太尉滿寵薨。"
+        },
+        {
+          "ordinal": 30,
+          "text": "冬十二月，魏郡地震。"
+        },
+        {
+          "ordinal": 33,
+          "text": "五月朔，日有蝕之，旣。"
+        }
+      ],
+      "unmatched_current_samples": [
+        {
+          "id": "p_a21d2ec705a6013c",
+          "ordinal": 297,
+          "text": "正始五年甘露三年青龍三年陳留王恭己南面，宰輔統政，仰遵前式，揖讓而禪，遂饗封大國，作賔于晉，比之山陽，班寵有加焉。"
+        }
+      ],
+      "title": "三国志·卷04"
+    },
+    {
+      "source_id": "src_136c141aac4e87ed",
+      "safe": false,
+      "current_rows": 147,
+      "current_nonempty": 147,
+      "empty_rows": 0,
+      "fresh_rows": 195,
+      "matched_rows": 146,
+      "missing_rows": 49,
+      "missing_short_rows": 47,
+      "missing_long_rows": 2,
+      "unmatched_current_rows": 1,
+      "missing_chars": 405,
+      "missing_year_like_rows": 5,
+      "missing_samples": [
+        {
+          "ordinal": 0,
+          "text": "序"
+        },
+        {
+          "ordinal": 13,
+          "text": "武宣卞皇后"
+        },
+        {
+          "ordinal": 16,
+          "text": "後隨太祖至洛。"
+        },
+        {
+          "ordinal": 19,
+          "text": "正使禍至，共死何苦！"
+        },
+        {
+          "ordinal": 20,
+          "text": "」遂從后言。"
+        },
+        {
+          "ordinal": 21,
+          "text": "太祖聞而善之。"
+        },
+        {
+          "ordinal": 26,
+          "text": "」長御還，具以語太祖。"
+        },
+        {
+          "ordinal": 28,
+          "text": "」"
+        },
+        {
+          "ordinal": 35,
+          "text": "在禮典，婦因夫爵。"
+        },
+        {
+          "ordinal": 40,
+          "text": "其年五月，后崩。"
+        },
+        {
+          "ordinal": 41,
+          "text": "七月，合葬高陵。"
+        },
+        {
+          "ordinal": 43,
+          "text": "秉薨，子蘭嗣。"
+        }
+      ],
+      "unmatched_current_samples": [
+        {
+          "id": "p_1d367a4c7ec09888",
+          "ordinal": 146,
+          "text": "太和元年景初元年黃初元年追觀陳群之議，棧潛之論，適足以為百王之規典，垂憲範乎後葉矣。"
+        }
+      ],
+      "title": "三国志·卷05"
+    },
+    {
+      "source_id": "src_cfca5b7fc88466ad",
+      "safe": false,
+      "current_rows": 316,
+      "current_nonempty": 316,
+      "empty_rows": 0,
+      "fresh_rows": 414,
+      "matched_rows": 315,
+      "missing_rows": 99,
+      "missing_short_rows": 95,
+      "missing_long_rows": 4,
+      "unmatched_current_rows": 1,
+      "missing_chars": 798,
+      "missing_year_like_rows": 7,
+      "missing_samples": [
+        {
+          "ordinal": 0,
+          "text": "董卓"
+        },
+        {
+          "ordinal": 16,
+          "text": "靈帝崩，少帝即位。"
+        },
+        {
+          "ordinal": 21,
+          "text": "」欲以脅迫太后。"
+        },
+        {
+          "ordinal": 22,
+          "text": "卓未至，進敗。"
+        },
+        {
+          "ordinal": 29,
+          "text": "遂廢帝爲弘農王。"
+        },
+        {
+          "ordinal": 30,
+          "text": "尋又殺王及何太后。"
+        },
+        {
+          "ordinal": 35,
+          "text": "甞遣軍到陽城。"
+        },
+        {
+          "ordinal": 38,
+          "text": "至於姦亂宮人公主。"
+        },
+        {
+          "ordinal": 39,
+          "text": "其凶逆如此。"
+        },
+        {
+          "ordinal": 46,
+          "text": "初平元年二月，乃徙天子都長安。"
+        },
+        {
+          "ordinal": 59,
+          "text": "百姓嗷嗷，道路以目。"
+        },
+        {
+          "ordinal": 63,
+          "text": "自是後錢貨不行。"
+        }
+      ],
+      "unmatched_current_samples": [
+        {
+          "id": "p_82a06986e6e59985",
+          "ordinal": 315,
+          "text": "初平元年建安五年興平二年昔項羽背范增之謀，以喪其王業；紹之殺田豐，乃甚於羽遠矣！"
+        }
+      ],
+      "title": "三国志·卷06"
+    },
+    {
+      "source_id": "src_4aae3fc96fd79407",
+      "safe": true,
+      "current_rows": 170,
+      "current_nonempty": 170,
+      "empty_rows": 0,
+      "fresh_rows": 220,
+      "matched_rows": 170,
+      "missing_rows": 50,
+      "missing_short_rows": 50,
+      "missing_long_rows": 0,
+      "unmatched_current_rows": 0,
+      "missing_chars": 366,
+      "missing_year_like_rows": 2,
+      "missing_samples": [
+        {
+          "ordinal": 0,
+          "text": "呂布"
+        },
+        {
+          "ordinal": 2,
+          "text": "以驍武給并州。"
+        },
+        {
+          "ordinal": 4,
+          "text": "靈帝崩，原將兵詣洛陽。"
+        },
+        {
+          "ordinal": 14,
+          "text": "由是陰怨卓。"
+        },
+        {
+          "ordinal": 19,
+          "text": "布曰：「奈如父子何！"
+        },
+        {
+          "ordinal": 21,
+          "text": "今憂死不暇，何謂父子？"
+        },
+        {
+          "ordinal": 22,
+          "text": "」布遂許之，手刃刺卓。"
+        },
+        {
+          "ordinal": 23,
+          "text": "語在卓傳。"
+        },
+        {
+          "ordinal": 28,
+          "text": "卓死後六旬，布亦敗。"
+        },
+        {
+          "ordinal": 31,
+          "text": "術惡其反覆，拒而不受。"
+        },
+        {
+          "ordinal": 33,
+          "text": "燕精兵萬餘，騎數千。"
+        },
+        {
+          "ordinal": 34,
+          "text": "布有良馬曰赤兔。"
+        }
+      ],
+      "unmatched_current_samples": [],
+      "title": "三国志·卷07"
+    },
+    {
+      "source_id": "src_5ef3e4223e8075f3",
+      "safe": false,
+      "current_rows": 217,
+      "current_nonempty": 217,
+      "empty_rows": 0,
+      "fresh_rows": 295,
+      "matched_rows": 216,
+      "missing_rows": 79,
+      "missing_short_rows": 78,
+      "missing_long_rows": 1,
+      "unmatched_current_rows": 1,
+      "missing_chars": 600,
+      "missing_year_like_rows": 5,
+      "missing_samples": [
+        {
+          "ordinal": 0,
+          "text": "公孫瓚"
+        },
+        {
+          "ordinal": 2,
+          "text": "為郡門下書佐。"
+        },
+        {
+          "ordinal": 4,
+          "text": "後復為郡吏。"
+        },
+        {
+          "ordinal": 9,
+          "text": "劉道得赦還。"
+        },
+        {
+          "ordinal": 14,
+          "text": "遷為涿令。"
+        },
+        {
+          "ordinal": 21,
+          "text": "劉虞"
+        },
+        {
+          "ordinal": 26,
+          "text": "胡知其情，間行詣虞。"
+        },
+        {
+          "ordinal": 29,
+          "text": "封政為列侯。"
+        },
+        {
+          "ordinal": 35,
+          "text": "遣使詣虞，虞終不肯受。"
+        },
+        {
+          "ordinal": 37,
+          "text": "虞子和為侍中，在長安。"
+        },
+        {
+          "ordinal": 44,
+          "text": "由是虞、瓚益有隙。"
+        },
+        {
+          "ordinal": 56,
+          "text": "虞為瓚所敗，出奔居庸。"
+        }
+      ],
+      "unmatched_current_samples": [
+        {
+          "id": "p_afcb3d60bdcaf040",
+          "ordinal": 216,
+          "text": "太和二年建安九年建安四年燕、繡、魯舍群盜，列功臣，去危亡，保宗祀，則於彼為愈焉。"
+        }
+      ],
+      "title": "三国志·卷08"
+    },
+    {
+      "source_id": "src_51e78653a9df5390",
+      "safe": false,
+      "current_rows": 412,
+      "current_nonempty": 412,
+      "empty_rows": 0,
+      "fresh_rows": 532,
+      "matched_rows": 411,
+      "missing_rows": 121,
+      "missing_short_rows": 120,
+      "missing_long_rows": 1,
+      "unmatched_current_rows": 1,
+      "missing_chars": 888,
+      "missing_year_like_rows": 5,
+      "missing_samples": [
+        {
+          "ordinal": 0,
+          "text": "夏侯惇"
+        },
+        {
+          "ordinal": 13,
+          "text": "」促召兵擊持質者。"
+        },
+        {
+          "ordinal": 15,
+          "text": "」浩數責，皆斬之。"
+        },
+        {
+          "ordinal": 18,
+          "text": "由是劫質者遂絕。"
+        },
+        {
+          "ordinal": 22,
+          "text": "轉領河南尹。"
+        },
+        {
+          "ordinal": 33,
+          "text": "諡曰忠侯。"
+        },
+        {
+          "ordinal": 34,
+          "text": "子充嗣。"
+        },
+        {
+          "ordinal": 39,
+          "text": "充薨，子廙嗣。"
+        },
+        {
+          "ordinal": 40,
+          "text": "廙薨，子劭嗣。"
+        },
+        {
+          "ordinal": 41,
+          "text": "韓浩、史渙"
+        },
+        {
+          "ordinal": 42,
+          "text": "韓浩者，河内人。"
+        },
+        {
+          "ordinal": 45,
+          "text": "夏侯淵"
+        }
+      ],
+      "unmatched_current_samples": [
+        {
+          "id": "p_07b926a7aeda4eb6",
+          "ordinal": 411,
+          "text": "太和六年建安十五年黃初四年玄以規格局度，世稱其名，然與曹爽中外繾綣；榮位如斯，曾未聞匡弼其非，援致良才。"
+        }
+      ],
+      "title": "三国志·卷09"
+    },
+    {
+      "source_id": "src_2053a0a5c5eddc49",
+      "safe": false,
+      "current_rows": 270,
+      "current_nonempty": 269,
+      "empty_rows": 1,
+      "fresh_rows": 362,
+      "matched_rows": 268,
+      "missing_rows": 94,
+      "missing_short_rows": 91,
+      "missing_long_rows": 3,
+      "unmatched_current_rows": 1,
+      "missing_chars": 700,
+      "missing_year_like_rows": 5,
+      "missing_samples": [
+        {
+          "ordinal": 0,
+          "text": "荀彧"
+        },
+        {
+          "ordinal": 4,
+          "text": "有子八人，號曰八龍。"
+        },
+        {
+          "ordinal": 5,
+          "text": "彧父緄，濟南相。"
+        },
+        {
+          "ordinal": 6,
+          "text": "叔父爽，司空。"
+        },
+        {
+          "ordinal": 8,
+          "text": "」永漢元年，舉孝廉，拜守宮令。"
+        },
+        {
+          "ordinal": 9,
+          "text": "董卓之亂，求出補吏。"
+        },
+        {
+          "ordinal": 19,
+          "text": "鄕人留者多見殺略。"
+        },
+        {
+          "ordinal": 24,
+          "text": "」衆疑惑。"
+        },
+        {
+          "ordinal": 29,
+          "text": "貢求見彧，彧將往。"
+        },
+        {
+          "ordinal": 51,
+          "text": "」太祖乃止。"
+        },
+        {
+          "ordinal": 53,
+          "text": "布敗走，兖州遂平。"
+        },
+        {
+          "ordinal": 54,
+          "text": "建安元年，太祖撃破黃巾。"
+        }
+      ],
+      "unmatched_current_samples": [
+        {
+          "id": "p_5f45e29e983d5def",
+          "ordinal": 269,
+          "text": "建安三年建安元年永漢元年荀攸、賈詡，庶乎筭無遺策，經達權變，其良、平之亞與！"
+        }
+      ],
+      "title": "三国志·卷10"
+    }
+  ]
+}

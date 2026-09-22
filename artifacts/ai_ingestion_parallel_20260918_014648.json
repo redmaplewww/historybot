@@ -1,0 +1,1237 @@
+[
+  {
+    "title": "三国志·卷34",
+    "source_id": "src_033e5925db32e682",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "elapsed_seconds": 1.6,
+    "run_id": "read_c38c8e3a05894eff85a0",
+    "graph": {
+      "entities": 66,
+      "aliases": 5,
+      "events": 44,
+      "claims": 96,
+      "evidence": 96
+    }
+  },
+  {
+    "title": "三国志·卷61",
+    "source_id": "src_3e4d5d22a79c67e4",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 1383,
+      "completion_tokens": 177,
+      "total_tokens": 1560
+    },
+    "elapsed_seconds": 5.2,
+    "run_id": "read_5ddc4d0b13a64e90a748",
+    "graph": {
+      "entities": 146,
+      "aliases": 5,
+      "events": 102,
+      "claims": 206,
+      "evidence": 206
+    }
+  },
+  {
+    "title": "三国志·卷65",
+    "source_id": "src_bc53344938646106",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 3289,
+      "completion_tokens": 408,
+      "total_tokens": 3697
+    },
+    "elapsed_seconds": 10.2,
+    "run_id": "read_9f73d5a5cdc747e6bd9a",
+    "graph": {
+      "entities": 135,
+      "aliases": 7,
+      "events": 105,
+      "claims": 234,
+      "evidence": 234
+    }
+  },
+  {
+    "title": "三国志·卷62",
+    "source_id": "src_a1fe387d87643550",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 2568,
+      "completion_tokens": 581,
+      "total_tokens": 3149
+    },
+    "elapsed_seconds": 9.2,
+    "run_id": "read_69f1863a149a4dc48f40",
+    "graph": {
+      "entities": 125,
+      "aliases": 3,
+      "events": 101,
+      "claims": 207,
+      "evidence": 207
+    }
+  },
+  {
+    "title": "三国志·卷31",
+    "source_id": "src_3b0068044bc7c40a",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 4540,
+      "completion_tokens": 623,
+      "total_tokens": 5163
+    },
+    "elapsed_seconds": 15.5,
+    "run_id": "read_04f5b81ee8754708a3f4",
+    "graph": {
+      "entities": 182,
+      "aliases": 8,
+      "events": 112,
+      "claims": 215,
+      "evidence": 215
+    }
+  },
+  {
+    "title": "三国志·卷63",
+    "source_id": "src_7b2c4fcbe1da2525",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 5746,
+      "completion_tokens": 924,
+      "total_tokens": 6670
+    },
+    "elapsed_seconds": 11.3,
+    "run_id": "read_f0fc9a6e25c7415cb711",
+    "graph": {
+      "entities": 109,
+      "aliases": 1,
+      "events": 86,
+      "claims": 182,
+      "evidence": 182
+    }
+  },
+  {
+    "title": "三国志·卷39",
+    "source_id": "src_41c47ed2e7780d4c",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 6682,
+      "completion_tokens": 2097,
+      "total_tokens": 8779
+    },
+    "elapsed_seconds": 14.7,
+    "run_id": "read_c6a704e395ad495fa66c",
+    "graph": {
+      "entities": 227,
+      "aliases": 10,
+      "events": 132,
+      "claims": 313,
+      "evidence": 313
+    }
+  },
+  {
+    "title": "三国志·卷37",
+    "source_id": "src_f7ccae560a70d8fe",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 10360,
+      "completion_tokens": 2308,
+      "total_tokens": 12668
+    },
+    "elapsed_seconds": 20.5,
+    "run_id": "read_aed83c391bd042fc8c4d",
+    "graph": {
+      "entities": 196,
+      "aliases": 6,
+      "events": 106,
+      "claims": 307,
+      "evidence": 307
+    }
+  },
+  {
+    "title": "三国志·卷38",
+    "source_id": "src_260570fbbc633583",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 12608,
+      "completion_tokens": 3104,
+      "total_tokens": 15712
+    },
+    "elapsed_seconds": 25.9,
+    "run_id": "read_a689eb50360843ce96d8",
+    "graph": {
+      "entities": 269,
+      "aliases": 6,
+      "events": 142,
+      "claims": 298,
+      "evidence": 298
+    }
+  },
+  {
+    "title": "三国志·卷59",
+    "source_id": "src_ab68ed414415530a",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 12922,
+      "completion_tokens": 3407,
+      "total_tokens": 16329
+    },
+    "elapsed_seconds": 25.2,
+    "run_id": "read_eee24075f63a41a39f3a",
+    "graph": {
+      "entities": 216,
+      "aliases": 7,
+      "events": 171,
+      "claims": 304,
+      "evidence": 304
+    }
+  },
+  {
+    "title": "三国志·卷53",
+    "source_id": "src_acca52d1c455da03",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 14848,
+      "completion_tokens": 3497,
+      "total_tokens": 18345
+    },
+    "elapsed_seconds": 22.6,
+    "run_id": "read_97d5eae20ecc48389b49",
+    "graph": {
+      "entities": 223,
+      "aliases": 9,
+      "events": 138,
+      "claims": 319,
+      "evidence": 319
+    }
+  },
+  {
+    "title": "三国志·卷50",
+    "source_id": "src_f0c4da13da81c074",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 8866,
+      "completion_tokens": 2497,
+      "total_tokens": 11363
+    },
+    "elapsed_seconds": 20.7,
+    "run_id": "read_8db5b44910414c0f97e5",
+    "graph": {
+      "entities": 286,
+      "aliases": 17,
+      "events": 210,
+      "claims": 326,
+      "evidence": 326
+    }
+  },
+  {
+    "title": "三国志·卷33",
+    "source_id": "src_aad55ef47efe0680",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 10353,
+      "completion_tokens": 2489,
+      "total_tokens": 12842
+    },
+    "elapsed_seconds": 30.9,
+    "run_id": "read_f285dc33689c4696bf2d",
+    "graph": {
+      "entities": 261,
+      "aliases": 5,
+      "events": 151,
+      "claims": 304,
+      "evidence": 304
+    }
+  },
+  {
+    "title": "三国志·卷46",
+    "source_id": "src_89a199d35db6aed2",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 4990,
+      "completion_tokens": 1013,
+      "total_tokens": 6003
+    },
+    "elapsed_seconds": 20.3,
+    "run_id": "read_ed16a0f1ca4b4236b5cf",
+    "graph": {
+      "entities": 270,
+      "aliases": 24,
+      "events": 207,
+      "claims": 369,
+      "evidence": 369
+    }
+  },
+  {
+    "title": "三国志·卷19",
+    "source_id": "src_e093b186de8e909c",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 9983,
+      "completion_tokens": 1833,
+      "total_tokens": 11816
+    },
+    "elapsed_seconds": 18.7,
+    "run_id": "read_8c2a0426ddd443a8be37",
+    "graph": {
+      "entities": 196,
+      "aliases": 3,
+      "events": 136,
+      "claims": 338,
+      "evidence": 338
+    }
+  },
+  {
+    "title": "三国志·卷41",
+    "source_id": "src_dbc442dfb3a20b05",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 15404,
+      "completion_tokens": 3728,
+      "total_tokens": 19132
+    },
+    "elapsed_seconds": 29.5,
+    "run_id": "read_65ed6d7b981e471fa782",
+    "graph": {
+      "entities": 305,
+      "aliases": 9,
+      "events": 199,
+      "claims": 401,
+      "evidence": 401
+    }
+  },
+  {
+    "title": "三国志·卷02",
+    "source_id": "src_a6a479cca39999a8",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 13729,
+      "completion_tokens": 4053,
+      "total_tokens": 17782
+    },
+    "elapsed_seconds": 32.5,
+    "run_id": "read_deae466e872640a6a6f6",
+    "graph": {
+      "entities": 389,
+      "aliases": 6,
+      "events": 185,
+      "claims": 367,
+      "evidence": 367
+    }
+  },
+  {
+    "title": "三国志·卷51",
+    "source_id": "src_d031fc1c9d32785f",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 16103,
+      "completion_tokens": 2644,
+      "total_tokens": 18747
+    },
+    "elapsed_seconds": 38.4,
+    "run_id": "read_732d284592c4401ba02c",
+    "graph": {
+      "entities": 352,
+      "aliases": 14,
+      "events": 219,
+      "claims": 415,
+      "evidence": 415
+    }
+  },
+  {
+    "title": "三国志·卷05",
+    "source_id": "src_136c141aac4e87ed",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "elapsed_seconds": 11.5,
+    "run_id": "read_30eb30b1056b41ff8f48",
+    "graph": {
+      "entities": 358,
+      "aliases": 16,
+      "events": 226,
+      "claims": 436,
+      "evidence": 436
+    }
+  },
+  {
+    "title": "三国志·卷36",
+    "source_id": "src_2ea883a54927d7ea",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 15364,
+      "completion_tokens": 2570,
+      "total_tokens": 17934
+    },
+    "elapsed_seconds": 36.8,
+    "run_id": "read_ccab204b05ac481b95af",
+    "graph": {
+      "entities": 349,
+      "aliases": 32,
+      "events": 227,
+      "claims": 435,
+      "evidence": 435
+    }
+  },
+  {
+    "title": "三国志·卷40",
+    "source_id": "src_131b7a6c87908bf1",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "elapsed_seconds": 6.8,
+    "run_id": "read_41cf26145edd4b9bbc30",
+    "graph": {
+      "entities": 298,
+      "aliases": 26,
+      "events": 246,
+      "claims": 499,
+      "evidence": 499
+    }
+  },
+  {
+    "title": "三国志·卷57",
+    "source_id": "src_76ba243507db21b0",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 11385,
+      "completion_tokens": 2930,
+      "total_tokens": 14315
+    },
+    "elapsed_seconds": 21.9,
+    "run_id": "read_d2c67b5f0080418692d2",
+    "graph": {
+      "entities": 317,
+      "aliases": 15,
+      "events": 205,
+      "claims": 435,
+      "evidence": 435
+    }
+  },
+  {
+    "title": "三国志·卷49",
+    "source_id": "src_38904e1bcaeb6623",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 19642,
+      "completion_tokens": 4501,
+      "total_tokens": 24143
+    },
+    "elapsed_seconds": 38.8,
+    "run_id": "read_58c375e9cf8c4bed911d",
+    "graph": {
+      "entities": 348,
+      "aliases": 13,
+      "events": 213,
+      "claims": 452,
+      "evidence": 452
+    }
+  },
+  {
+    "title": "三国志·卷20",
+    "source_id": "src_4c658113fbb182e6",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 20933,
+      "completion_tokens": 5093,
+      "total_tokens": 26026
+    },
+    "elapsed_seconds": 35.0,
+    "run_id": "read_65f037874c0e44e7b7da",
+    "graph": {
+      "entities": 278,
+      "aliases": 8,
+      "events": 185,
+      "claims": 316,
+      "evidence": 316
+    }
+  },
+  {
+    "title": "三国志·卷42",
+    "source_id": "src_268b01b3c5c53618",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 18326,
+      "completion_tokens": 4418,
+      "total_tokens": 22744
+    },
+    "elapsed_seconds": 30.5,
+    "run_id": "read_5147bc79357745bba73f",
+    "graph": {
+      "entities": 375,
+      "aliases": 18,
+      "events": 193,
+      "claims": 481,
+      "evidence": 481
+    }
+  },
+  {
+    "title": "三国志·卷07",
+    "source_id": "src_4aae3fc96fd79407",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 19898,
+      "completion_tokens": 4968,
+      "total_tokens": 24866
+    },
+    "elapsed_seconds": 49.0,
+    "run_id": "read_b41aa9a22bc34649982e",
+    "graph": {
+      "entities": 305,
+      "aliases": 9,
+      "events": 199,
+      "claims": 453,
+      "evidence": 453
+    }
+  },
+  {
+    "title": "三国志·卷43",
+    "source_id": "src_28ed8b1971e88b32",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 17771,
+      "completion_tokens": 3693,
+      "total_tokens": 21464
+    },
+    "elapsed_seconds": 30.2,
+    "run_id": "read_38dc54fe205e4125bcf2",
+    "graph": {
+      "entities": 429,
+      "aliases": 12,
+      "events": 269,
+      "claims": 537,
+      "evidence": 537
+    }
+  },
+  {
+    "title": "三国志·卷44",
+    "source_id": "src_3606155c35fc19fd",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 16889,
+      "completion_tokens": 3979,
+      "total_tokens": 20868
+    },
+    "elapsed_seconds": 31.3,
+    "run_id": "read_72fbc77c78da4e9f9843",
+    "graph": {
+      "entities": 421,
+      "aliases": 13,
+      "events": 238,
+      "claims": 498,
+      "evidence": 498
+    }
+  },
+  {
+    "title": "三国志·卷32",
+    "source_id": "src_9e8bc1439a686931",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 19651,
+      "completion_tokens": 4450,
+      "total_tokens": 24101
+    },
+    "elapsed_seconds": 34.5,
+    "run_id": "read_d192f96eaff549d78882",
+    "graph": {
+      "entities": 450,
+      "aliases": 18,
+      "events": 294,
+      "claims": 551,
+      "evidence": 551
+    }
+  },
+  {
+    "title": "三国志·卷60",
+    "source_id": "src_bcbc2580e3bf982f",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 19528,
+      "completion_tokens": 4389,
+      "total_tokens": 23917
+    },
+    "elapsed_seconds": 35.0,
+    "run_id": "read_c0724efaf2e343a7b285",
+    "graph": {
+      "entities": 481,
+      "aliases": 12,
+      "events": 324,
+      "claims": 613,
+      "evidence": 613
+    }
+  },
+  {
+    "title": "三国志·卷03",
+    "source_id": "src_228ec535c85f848e",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "elapsed_seconds": 8.6,
+    "run_id": "read_f3bf25acb0574efbb0da",
+    "graph": {
+      "entities": 475,
+      "aliases": 12,
+      "events": 291,
+      "claims": 482,
+      "evidence": 482
+    }
+  },
+  {
+    "title": "三国志·卷58",
+    "source_id": "src_2ef71ae4ed7e8347",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 22591,
+      "completion_tokens": 4111,
+      "total_tokens": 26702
+    },
+    "elapsed_seconds": 46.1,
+    "run_id": "read_200e55709d3e4e338982",
+    "graph": {
+      "entities": 380,
+      "aliases": 13,
+      "events": 254,
+      "claims": 533,
+      "evidence": 533
+    }
+  },
+  {
+    "title": "三国志·卷16",
+    "source_id": "src_98a24dfc2ad71e80",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 50015,
+      "completion_tokens": 10574,
+      "total_tokens": 60589
+    },
+    "elapsed_seconds": 71.7,
+    "run_id": "read_4c1fba363be84e8b821c",
+    "graph": {
+      "entities": 382,
+      "aliases": 10,
+      "events": 291,
+      "claims": 570,
+      "evidence": 570
+    }
+  },
+  {
+    "title": "三国志·卷21",
+    "source_id": "src_1712d9536f4e709b",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "elapsed_seconds": 10.8,
+    "run_id": "read_187dee83dac943789635",
+    "graph": {
+      "entities": 445,
+      "aliases": 19,
+      "events": 236,
+      "claims": 635,
+      "evidence": 635
+    }
+  },
+  {
+    "title": "三国志·卷35",
+    "source_id": "src_fbebc49524c95139",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 50686,
+      "completion_tokens": 10025,
+      "total_tokens": 60711
+    },
+    "elapsed_seconds": 73.7,
+    "run_id": "read_fb26e99d0f754ba9978f",
+    "graph": {
+      "entities": 378,
+      "aliases": 33,
+      "events": 214,
+      "claims": 621,
+      "evidence": 621
+    }
+  },
+  {
+    "title": "三国志·卷27",
+    "source_id": "src_78da344c7ebf66a7",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 39493,
+      "completion_tokens": 8048,
+      "total_tokens": 47541
+    },
+    "elapsed_seconds": 61.8,
+    "run_id": "read_4a76af558f8f4dcd8153",
+    "graph": {
+      "entities": 435,
+      "aliases": 8,
+      "events": 266,
+      "claims": 607,
+      "evidence": 607
+    }
+  },
+  {
+    "title": "三国志·卷56",
+    "source_id": "src_3c33f3e976c7d8ed",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 66528,
+      "completion_tokens": 13895,
+      "total_tokens": 80423
+    },
+    "elapsed_seconds": 97.8,
+    "run_id": "read_8bca3679903b439b809c",
+    "graph": {
+      "entities": 488,
+      "aliases": 13,
+      "events": 319,
+      "claims": 658,
+      "evidence": 658
+    }
+  },
+  {
+    "title": "三国志·卷12",
+    "source_id": "src_0c206a912d4a1720",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "elapsed_seconds": 8.5,
+    "run_id": "read_17f3f7b4b759493ea83d",
+    "graph": {
+      "entities": 471,
+      "aliases": 5,
+      "events": 276,
+      "claims": 645,
+      "evidence": 645
+    }
+  },
+  {
+    "title": "三国志·卷24",
+    "source_id": "src_2abec7a17bdad966",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 50466,
+      "completion_tokens": 11120,
+      "total_tokens": 61586
+    },
+    "elapsed_seconds": 86.3,
+    "run_id": "read_0efc6993a41245d0a069",
+    "graph": {
+      "entities": 434,
+      "aliases": 6,
+      "events": 281,
+      "claims": 563,
+      "evidence": 563
+    }
+  },
+  {
+    "title": "三国志·卷08",
+    "source_id": "src_5ef3e4223e8075f3",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 63211,
+      "completion_tokens": 13713,
+      "total_tokens": 76924
+    },
+    "elapsed_seconds": 93.8,
+    "run_id": "read_6aca015519b7408aa2fe",
+    "graph": {
+      "entities": 526,
+      "aliases": 19,
+      "events": 393,
+      "claims": 651,
+      "evidence": 651
+    }
+  },
+  {
+    "title": "三国志·卷17",
+    "source_id": "src_f895cb3a808d7ca7",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 70454,
+      "completion_tokens": 16094,
+      "total_tokens": 86548
+    },
+    "elapsed_seconds": 95.5,
+    "run_id": "read_d9b104fa7e2045cd8dfe",
+    "graph": {
+      "entities": 579,
+      "aliases": 25,
+      "events": 485,
+      "claims": 793,
+      "evidence": 793
+    }
+  },
+  {
+    "title": "三国志·卷64",
+    "source_id": "src_65d2dde4fbd460ba",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 73306,
+      "completion_tokens": 16576,
+      "total_tokens": 89882
+    },
+    "elapsed_seconds": 109.6,
+    "run_id": "read_32a0e32a55624e59b2d0",
+    "graph": {
+      "entities": 477,
+      "aliases": 39,
+      "events": 340,
+      "claims": 728,
+      "evidence": 728
+    }
+  },
+  {
+    "title": "三国志·卷52",
+    "source_id": "src_3eed952e7a888b92",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 69696,
+      "completion_tokens": 15101,
+      "total_tokens": 84797
+    },
+    "elapsed_seconds": 119.3,
+    "run_id": "read_589afc4293ec438a8d79",
+    "graph": {
+      "entities": 482,
+      "aliases": 31,
+      "events": 334,
+      "claims": 731,
+      "evidence": 731
+    }
+  },
+  {
+    "title": "三国志·卷48",
+    "source_id": "src_baa2dacc57d45375",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 69151,
+      "completion_tokens": 13892,
+      "total_tokens": 83043
+    },
+    "elapsed_seconds": 107.8,
+    "run_id": "read_7591ee38e2034743897c",
+    "graph": {
+      "entities": 691,
+      "aliases": 17,
+      "events": 429,
+      "claims": 778,
+      "evidence": 778
+    }
+  },
+  {
+    "title": "三国志·卷15",
+    "source_id": "src_ed2a5c2e7de42014",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 62029,
+      "completion_tokens": 14313,
+      "total_tokens": 76342
+    },
+    "elapsed_seconds": 104.2,
+    "run_id": "read_307e98ed4634484a847d",
+    "graph": {
+      "entities": 582,
+      "aliases": 6,
+      "events": 356,
+      "claims": 763,
+      "evidence": 763
+    }
+  },
+  {
+    "title": "三国志·卷10",
+    "source_id": "src_2053a0a5c5eddc49",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 1232,
+      "completion_tokens": 223,
+      "total_tokens": 1455
+    },
+    "elapsed_seconds": 12.8,
+    "run_id": "read_1e40fe9f57564b2ebf70",
+    "graph": {
+      "entities": 415,
+      "aliases": 15,
+      "events": 314,
+      "claims": 701,
+      "evidence": 701
+    }
+  },
+  {
+    "title": "三国志·卷29",
+    "source_id": "src_be1eda3a2ac6ac94",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 27755,
+      "completion_tokens": 6533,
+      "total_tokens": 34288
+    },
+    "elapsed_seconds": 46.1,
+    "run_id": "read_8dcfedf9d25c41a59fe9",
+    "graph": {
+      "entities": 398,
+      "aliases": 14,
+      "events": 277,
+      "claims": 723,
+      "evidence": 723
+    }
+  },
+  {
+    "title": "三国志·卷23",
+    "source_id": "src_57a5271c10f59e09",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 68044,
+      "completion_tokens": 15316,
+      "total_tokens": 83360
+    },
+    "elapsed_seconds": 109.2,
+    "run_id": "read_6f2e756a92554559abad",
+    "graph": {
+      "entities": 475,
+      "aliases": 6,
+      "events": 327,
+      "claims": 720,
+      "evidence": 720
+    }
+  },
+  {
+    "title": "三国志·卷25",
+    "source_id": "src_6c5f58321b1ec0ba",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 67109,
+      "completion_tokens": 15564,
+      "total_tokens": 82673
+    },
+    "elapsed_seconds": 103.5,
+    "run_id": "read_d72c2ae4102540a39501",
+    "graph": {
+      "entities": 511,
+      "aliases": 6,
+      "events": 300,
+      "claims": 741,
+      "evidence": 741
+    }
+  },
+  {
+    "title": "三国志·卷54",
+    "source_id": "src_dbcf027d30cd527e",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 61270,
+      "completion_tokens": 14264,
+      "total_tokens": 75534
+    },
+    "elapsed_seconds": 91.9,
+    "run_id": "read_695eb8587c884ac79098",
+    "graph": {
+      "entities": 499,
+      "aliases": 44,
+      "events": 411,
+      "claims": 837,
+      "evidence": 837
+    }
+  },
+  {
+    "title": "三国志·卷26",
+    "source_id": "src_c9ae62e2b7a0db82",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 68298,
+      "completion_tokens": 15234,
+      "total_tokens": 83532
+    },
+    "elapsed_seconds": 97.6,
+    "run_id": "read_afed181724ff49ec973e",
+    "graph": {
+      "entities": 602,
+      "aliases": 8,
+      "events": 415,
+      "claims": 795,
+      "evidence": 795
+    }
+  },
+  {
+    "title": "三国志·卷04",
+    "source_id": "src_89aedc7875ae791a",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 57584,
+      "completion_tokens": 13590,
+      "total_tokens": 71174
+    },
+    "elapsed_seconds": 90.3,
+    "run_id": "read_f8b9cb0bf6a84270b33f",
+    "graph": {
+      "entities": 693,
+      "aliases": 14,
+      "events": 362,
+      "claims": 762,
+      "evidence": 762
+    }
+  },
+  {
+    "title": "三国志·卷45",
+    "source_id": "src_cf63e8ac344f6db5",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 59817,
+      "completion_tokens": 13572,
+      "total_tokens": 73389
+    },
+    "elapsed_seconds": 88.7,
+    "run_id": "read_3a5deb7ae2f84c18b9a5",
+    "graph": {
+      "entities": 538,
+      "aliases": 22,
+      "events": 298,
+      "claims": 717,
+      "evidence": 717
+    }
+  },
+  {
+    "title": "三国志·卷18",
+    "source_id": "src_2395d786f555a79c",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 79225,
+      "completion_tokens": 17933,
+      "total_tokens": 97158
+    },
+    "elapsed_seconds": 109.0,
+    "run_id": "read_54fc5f704159473381dd",
+    "graph": {
+      "entities": 634,
+      "aliases": 14,
+      "events": 468,
+      "claims": 874,
+      "evidence": 874
+    }
+  },
+  {
+    "title": "三国志·卷22",
+    "source_id": "src_ab3038c907a85961",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 65394,
+      "completion_tokens": 14987,
+      "total_tokens": 80381
+    },
+    "elapsed_seconds": 100.9,
+    "run_id": "read_a6394c33e7ce4fe7aeec",
+    "graph": {
+      "entities": 612,
+      "aliases": 10,
+      "events": 421,
+      "claims": 807,
+      "evidence": 807
+    }
+  },
+  {
+    "title": "三国志·卷55",
+    "source_id": "src_598f4bd991d53b99",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 87126,
+      "completion_tokens": 18803,
+      "total_tokens": 105929
+    },
+    "elapsed_seconds": 113.0,
+    "run_id": "read_ff470a713d9d48e19c8b",
+    "graph": {
+      "entities": 665,
+      "aliases": 18,
+      "events": 500,
+      "claims": 960,
+      "evidence": 960
+    }
+  },
+  {
+    "title": "三国志·卷11",
+    "source_id": "src_ce35c99a5a2573cc",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 69738,
+      "completion_tokens": 14289,
+      "total_tokens": 84027
+    },
+    "elapsed_seconds": 93.2,
+    "run_id": "read_fe614f0e857e4e4c92c6",
+    "graph": {
+      "entities": 554,
+      "aliases": 13,
+      "events": 357,
+      "claims": 860,
+      "evidence": 860
+    }
+  },
+  {
+    "title": "三国志·卷06",
+    "source_id": "src_cfca5b7fc88466ad",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 104190,
+      "completion_tokens": 25014,
+      "total_tokens": 129204
+    },
+    "elapsed_seconds": 136.4,
+    "run_id": "read_b6c256504f54400d9935",
+    "graph": {
+      "entities": 686,
+      "aliases": 31,
+      "events": 518,
+      "claims": 983,
+      "evidence": 983
+    }
+  },
+  {
+    "title": "三国志·卷47",
+    "source_id": "src_90248089724a23e1",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 87011,
+      "completion_tokens": 20868,
+      "total_tokens": 107879
+    },
+    "elapsed_seconds": 129.9,
+    "run_id": "read_ebc809023bb142d5bd69",
+    "graph": {
+      "entities": 752,
+      "aliases": 17,
+      "events": 457,
+      "claims": 869,
+      "evidence": 869
+    }
+  },
+  {
+    "title": "三国志·卷13",
+    "source_id": "src_e6f26fd0d5e5e763",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 89301,
+      "completion_tokens": 20631,
+      "total_tokens": 109932
+    },
+    "elapsed_seconds": 128.2,
+    "run_id": "read_6429546ed47443a6a1d5",
+    "graph": {
+      "entities": 646,
+      "aliases": 11,
+      "events": 353,
+      "claims": 909,
+      "evidence": 909
+    }
+  },
+  {
+    "title": "三国志·卷28",
+    "source_id": "src_80541d569e2cc6b6",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 89317,
+      "completion_tokens": 19129,
+      "total_tokens": 108446
+    },
+    "elapsed_seconds": 116.2,
+    "run_id": "read_9b86e4f1d8264297bd38",
+    "graph": {
+      "entities": 826,
+      "aliases": 32,
+      "events": 564,
+      "claims": 1141,
+      "evidence": 1141
+    }
+  },
+  {
+    "title": "三国志·卷14",
+    "source_id": "src_d1655c127b1665a3",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 87858,
+      "completion_tokens": 20100,
+      "total_tokens": 107958
+    },
+    "elapsed_seconds": 129.6,
+    "run_id": "read_a4e5cc56cb8445cfbe13",
+    "graph": {
+      "entities": 731,
+      "aliases": 17,
+      "events": 512,
+      "claims": 1048,
+      "evidence": 1048
+    }
+  },
+  {
+    "title": "三国志·卷30",
+    "source_id": "src_4aa52a1c9a125d30",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 36574,
+      "completion_tokens": 9097,
+      "total_tokens": 45671
+    },
+    "elapsed_seconds": 108.4,
+    "run_id": "read_d83b4981a107432cad9b",
+    "graph": {
+      "entities": 1631,
+      "aliases": 15,
+      "events": 615,
+      "claims": 1877,
+      "evidence": 1877
+    }
+  },
+  {
+    "title": "三国志·卷09",
+    "source_id": "src_51e78653a9df5390",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 117987,
+      "completion_tokens": 28107,
+      "total_tokens": 146094
+    },
+    "elapsed_seconds": 165.3,
+    "run_id": "read_0585a6ac15ba402c9d8d",
+    "graph": {
+      "entities": 886,
+      "aliases": 19,
+      "events": 587,
+      "claims": 1255,
+      "evidence": 1255
+    }
+  },
+  {
+    "title": "三国志·卷01",
+    "source_id": "src_8d3056db6591b2ee",
+    "status": "review_required",
+    "usage": {
+      "prompt_tokens": 119516,
+      "completion_tokens": 27837,
+      "total_tokens": 147353
+    },
+    "elapsed_seconds": 172.8,
+    "run_id": "read_7aa40768f49b4a1ba4a5",
+    "graph": {
+      "entities": 1209,
+      "aliases": 33,
+      "events": 840,
+      "claims": 1553,
+      "evidence": 1553
+    }
+  }
+]

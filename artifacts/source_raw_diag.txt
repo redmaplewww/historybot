@@ -1,0 +1,10 @@
+source keys: access_date, author, composition_date, edition, id, kind, metadata, title, url
+id: src_8d3056db6591b2ee
+title: 三国志·卷01
+author: 陈寿
+url: https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B701
+kind: compilation
+composition_date: None
+edition: None
+access_date: 2026-09-12T10:20:50.236599Z
+metadata: dict len=4

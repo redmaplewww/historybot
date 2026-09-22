@@ -1,0 +1,29 @@
+{
+  "sources_with_legacy_mismatch": 3,
+  "legacy_mismatch_details": [
+    {
+      "title": "三国志·卷17",
+      "stored_passages": 229,
+      "recomputed_passages": 286
+    },
+    {
+      "title": "三国志·卷40",
+      "stored_passages": 157,
+      "recomputed_passages": 160
+    },
+    {
+      "title": "三国志·卷46",
+      "stored_passages": 123,
+      "recomputed_passages": 138
+    }
+  ],
+  "sources_checked": 62,
+  "changed_passages_checked": 406,
+  "insertion_only_changes": 406,
+  "violations": 0,
+  "document_mismatch": 0,
+  "document_mismatch_details": [],
+  "count_change_sources": 0,
+  "count_change_details": [],
+  "violation_details": []
+}

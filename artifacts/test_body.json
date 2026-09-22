@@ -1,0 +1,10 @@
+﻿{
+    "messages":  [
+                     {
+                         "content":  "reply with OK",
+                         "role":  "user"
+                     }
+                 ],
+    "model":  "deepseek-v4.1-flash",
+    "max_tokens":  10
+}

@@ -1,0 +1,48 @@
+{
+  "windows_probed": 60,
+  "failed": 6,
+  "failures": [
+    {
+      "passage_id": "p_4ad82257bf11d11d",
+      "ordinal": 2,
+      "status": "failed",
+      "error": "ValidationError: 1 validation error for TemporalResponse\nreferences.2.event_id\n  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.13/v/string_type",
+      "window_text": "太祖武皇帝，沛國譙人也，姓曹，諱操，字孟德，漢相國參之後。 | 桓帝世，曹騰爲中常侍大長秋，封費亭侯。 | 養子嵩嗣，官至太尉，莫能審其生出本末。"
+    },
+    {
+      "passage_id": "p_3f451cfbf50a895a",
+      "ordinal": 12,
+      "status": "failed",
+      "error": "HTTPStatusError: 400 from https://workbuddy2api.henryai.top/v1/chat/completions for task='historical_temporal_resolution' model='deepseek-v4.1-flash': {\"error\":{\"code\":\"upstream_content_policy_blocked\",\"message\":\"内容未通过安全审核，请调整后重试。\",\"request_id\":\"wb2-18d678d",
+      "window_text": "頃之，冀州刺史王芬、南陽許攸、沛國周旌等連結豪傑，謀廢靈帝，立合肥侯，以告太祖， | 金城邊章、韓遂殺刺史郡守以叛，衆十餘萬，天下騷動。 | 會靈帝崩，太子即位，太后臨朝。 | 大將軍何進與袁紹謀誅宦官，太后不聽。 | 進乃召董卓，欲以脅太后，卓未至而進見殺。"
+    },
+    {
+      "passage_id": "p_d613c7acd41f0047",
+      "ordinal": 21,
+      "status": "failed",
+      "error": "HTTPStatusError: 400 from https://workbuddy2api.henryai.top/v1/chat/completions for task='historical_temporal_resolution' model='deepseek-v4.1-flash': {\"error\":{\"code\":\"upstream_content_policy_blocked\",\"message\":\"内容未通过安全审核，请调整后重试。\",\"request_id\":\"wb2-18d678d",
+      "window_text": "太祖至陳留，散家財，合義兵，將以誅卓。 | 冬十二月，始起兵於己吾，是歲中平六年也。 | 初平元年春正月，後將軍袁術、冀州牧韓馥、豫州刺史孔伷、兖州刺史劉岱、河內太守王匡 | 二月，卓聞兵起，乃徙天子都長安。 | 是時紹屯河內，邈、岱、瑁、遺屯酸棗，術屯南陽，伷屯潁川，馥在鄴。"
+    },
+    {
+      "passage_id": "p_79a23747b4151e15",
+      "ordinal": 19,
+      "status": "failed",
+      "error": "JSONDecodeError: Expecting value: line 194 column 13 (char 5165)",
+      "window_text": "太祖乃變易姓名，間行東歸。 | 出關，過中牟，爲亭長所疑，執詣縣，邑中或竊識之，爲請得解。 | 太祖至陳留，散家財，合義兵，將以誅卓。 | 冬十二月，始起兵於己吾，是歲中平六年也。 | 初平元年春正月，後將軍袁術、冀州牧韓馥、豫州刺史孔伷、兖州刺史劉岱、河內太守王匡"
+    },
+    {
+      "passage_id": "p_eccaf62ad8d9480e",
+      "ordinal": 32,
+      "status": "failed",
+      "error": "HTTPStatusError: 400 from https://workbuddy2api.henryai.top/v1/chat/completions for task='historical_temporal_resolution' model='deepseek-v4.1-flash': {\"error\":{\"code\":\"upstream_content_policy_blocked\",\"message\":\"内容未通过安全审核，请调整后重试。\",\"request_id\":\"wb2-18d678d",
+      "window_text": "榮見太祖所將兵少，力戰盡日，謂酸棗未易攻也，亦引兵還。 | 太祖到酸棗，諸軍兵十餘萬，日置酒高會，不圖進取。 | 太祖責讓之，因爲謀曰：「諸君聽吾計，使勃海引河內之衆臨孟津，酸棗諸將守成臯，據敖 | 今兵以義動，持疑而不進，失天下之望，竊爲諸君耻之！ | 太祖兵少，乃與夏侯惇等詣揚州募兵，刺史陳溫、丹楊太守周昕與兵四千餘人。"
+    },
+    {
+      "passage_id": "p_cb7a20bcde74101b",
+      "ordinal": 39,
+      "status": "failed",
+      "error": "HTTPStatusError: 400 from https://workbuddy2api.henryai.top/v1/chat/completions for task='historical_temporal_resolution' model='deepseek-v4.1-flash': {\"error\":{\"code\":\"upstream_content_policy_blocked\",\"message\":\"内容未通过安全审核，请调整后重试。\",\"request_id\":\"wb2-18d678e",
+      "window_text": "袁紹與韓馥謀立幽州牧劉虞爲帝，太祖拒之。 | 紹又甞得一玉印，於太祖坐中舉向其肘，太祖由是笑而惡焉。 | 二年春，紹、馥遂立虞爲帝，虞終不敢當。 | 秋七月，袁紹脅韓馥，取冀州。 | 黑山賊于毒、白繞、眭固等十餘萬衆略魏郡、東郡，王肱不能禦，太祖引兵入東郡，擊白繞"
+    }
+  ]
+}

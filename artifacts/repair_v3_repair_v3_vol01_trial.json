@@ -1,0 +1,39 @@
+{
+  "run_id": "repair_v3_vol01_trial",
+  "normalization": {
+    "raw_entities": 19968,
+    "normalized_surfaces": 12420,
+    "normalized_entities": 11852,
+    "identity_links_used": 568
+  },
+  "usage": {
+    "prompt_tokens": 561769,
+    "completion_tokens": 211660,
+    "total_tokens": 773429
+  },
+  "report": {
+    "claims": 39979,
+    "claims_with_absolute_time": 1277,
+    "events": 19104,
+    "events_with_absolute_time": 647,
+    "normalized_surfaces": 12420,
+    "normalized_entities": 11852
+  },
+  "temporal": {
+    "windows": 475,
+    "completed": 280,
+    "failed_windows": 3,
+    "claims_updated": 490,
+    "events_updated": 160,
+    "uncertain_or_era_only": 527,
+    "precision_counts": {
+      "day": 8,
+      "decade": 1,
+      "era_only": 7,
+      "month": 278,
+      "range": 56,
+      "uncertain": 513,
+      "year": 314
+    }
+  }
+}

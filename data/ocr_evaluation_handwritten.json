@@ -1,0 +1,71 @@
+{
+  "image": "data\\ocr_samples\\handwritten.png",
+  "models": [
+    {
+      "model": "rapidocr",
+      "elapsed_seconds": 5.613,
+      "id": "rec_handwritten",
+      "raw_asset_id": "handwritten",
+      "text": "Cao Cao crossed the river iw 2o8 AD.",
+      "spans": [
+        {
+          "text": "Cao Cao crossed the river iw 2o8 AD.",
+          "page": null,
+          "block": null,
+          "bbox": [
+            38.0,
+            102.0,
+            1276.0,
+            103.0,
+            1276.0,
+            173.0,
+            38.0,
+            172.0
+          ],
+          "confidence": 0.9370528012514114,
+          "source": "rapidocr"
+        }
+      ],
+      "language": "und",
+      "processor": "rapidocr",
+      "processor_version": "rapidocr-onnxruntime-1.4",
+      "confidence": 0.9370528012514114,
+      "needs_review": false,
+      "metadata": {
+        "elapsed": [
+          3.1767442999989726,
+          0.0049991607666015625,
+          0.57094407081604
+        ],
+        "engine": "onnxruntime"
+      }
+    },
+    {
+      "model": "trocr-handwritten",
+      "elapsed_seconds": 21.665,
+      "id": "rec_handwritten",
+      "raw_asset_id": "handwritten",
+      "text": "unaccompanied the river in 208 AD .",
+      "spans": [
+        {
+          "text": "unaccompanied the river in 208 AD .",
+          "page": null,
+          "block": null,
+          "bbox": null,
+          "confidence": 0.75,
+          "source": "microsoft/trocr-small-handwritten"
+        }
+      ],
+      "language": "und",
+      "processor": "trocr",
+      "processor_version": "transformers-trocr",
+      "confidence": 0.75,
+      "needs_review": true,
+      "metadata": {
+        "model": "microsoft/trocr-small-handwritten",
+        "device": "cpu",
+        "note": "TrOCR is line-level OCR; layout detection remains separate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "run_id": "repair_v3_smoke",
+  "normalization": {
+    "raw_entities": 19968,
+    "normalized_surfaces": 12420,
+    "normalized_entities": 11852,
+    "identity_links_used": 568
+  },
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 0
+  },
+  "report": {
+    "claims": 39979,
+    "claims_with_absolute_time": 811,
+    "events": 19104,
+    "events_with_absolute_time": 494,
+    "normalized_surfaces": 12420,
+    "normalized_entities": 11852
+  }
+}

@@ -1,0 +1,650 @@
+{
+  "sources": 65,
+  "sources_with_count_change": 43,
+  "count_change_titles": [
+    "三国志·卷02",
+    "三国志·卷04",
+    "三国志·卷05",
+    "三国志·卷06",
+    "三国志·卷10",
+    "三国志·卷13",
+    "三国志·卷14",
+    "三国志·卷16",
+    "三国志·卷17",
+    "三国志·卷19",
+    "三国志·卷20",
+    "三国志·卷21",
+    "三国志·卷24",
+    "三国志·卷25",
+    "三国志·卷26",
+    "三国志·卷32",
+    "三国志·卷33",
+    "三国志·卷34",
+    "三国志·卷35",
+    "三国志·卷36",
+    "三国志·卷37",
+    "三国志·卷38",
+    "三国志·卷40",
+    "三国志·卷41",
+    "三国志·卷42",
+    "三国志·卷43",
+    "三国志·卷45",
+    "三国志·卷46",
+    "三国志·卷47",
+    "三国志·卷48",
+    "三国志·卷49",
+    "三国志·卷50",
+    "三国志·卷51",
+    "三国志·卷52",
+    "三国志·卷54",
+    "三国志·卷55",
+    "三国志·卷56",
+    "三国志·卷58",
+    "三国志·卷59",
+    "三国志·卷60",
+    "三国志·卷61",
+    "三国志·卷64",
+    "三国志·卷65"
+  ],
+  "total_differing_passages": 101,
+  "details": [
+    {
+      "title": "三国志·卷01",
+      "source_id": "src_8d3056db6591b2ee",
+      "current_passages": 501,
+      "recomputed_passages": 501,
+      "count_match": true,
+      "differing": 4,
+      "sample": [
+        {
+          "ordinal": 18,
+          "old": "冬十二月，始起兵於己吾，是歲也。",
+          "new": "冬十二月，始起兵於己吾，是歲中平六年也。"
+        },
+        {
+          "ordinal": 19,
+          "old": "春正月，後將軍袁術、冀州牧韓馥、豫州刺史孔伷、兖州刺史劉岱、河內太守王匡、勃海太守袁紹、陳留太守張邈、東郡太守橋瑁、山陽太守袁遺、濟北相鮑信同時俱起兵，衆各數萬，推紹爲盟主。",
+          "new": "初平元年春正月，後將軍袁術、冀州牧韓馥、豫州刺史孔伷、兖州刺史劉岱、河內太守王匡、勃海太守袁紹、陳留太守張邈、東郡太守橋瑁、山陽太守袁遺、濟北相鮑信同時俱起兵，衆各數萬，推紹爲盟主。"
+        },
+        {
+          "ordinal": 62,
+          "old": "春，太祖自徐州還，初，太祖父嵩去官後還譙，董卓之亂，避難琅邪，爲陶謙所害，故太祖志在復讎東伐。",
+          "new": "興平元年春，太祖自徐州還，初，太祖父嵩去官後還譙，董卓之亂，避難琅邪，爲陶謙所害，故太祖志在復讎東伐。"
+        },
+        {
+          "ordinal": 89,
+          "old": "春正月，太祖軍臨武平，袁術所置陳相袁嗣降。",
+          "new": "建安元年春正月，太祖軍臨武平，袁術所置陳相袁嗣降。"
+        }
+      ]
+    },
+    {
+      "title": "三国志·卷02",
+      "source_id": "src_a6a479cca39999a8",
+      "current_passages": 145,
+      "recomputed_passages": 146,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷03",
+      "source_id": "src_228ec535c85f848e",
+      "current_passages": 202,
+      "recomputed_passages": 202,
+      "count_match": true,
+      "differing": 5,
+      "sample": [
+        {
+          "ordinal": 2,
+          "old": "年十五，封武德侯，爲齊公，三年爲平原王。",
+          "new": "年十五，封武德侯，黃初二年爲齊公，三年爲平原王。"
+        },
+        {
+          "ordinal": 14,
+          "old": "春正月，郊祀武皇帝以配天，宗祀文皇帝於明堂以配上帝。",
+          "new": "太和元年春正月，郊祀武皇帝以配天，宗祀文皇帝於明堂以配上帝。"
+        },
+        {
+          "ordinal": 86,
+          "old": "春正月甲申，青龍見郟之摩陂井中。",
+          "new": "青龍元年春正月甲申，青龍見郟之摩陂井中。"
+        },
+        {
+          "ordinal": 146,
+          "old": "春正月壬辰，山茌縣言黃龍見。",
+          "new": "景初元年春正月壬辰，山茌縣言黃龍見。"
+        }
+      ]
+    },
+    {
+      "title": "三国志·卷04",
+      "source_id": "src_89aedc7875ae791a",
+      "current_passages": 298,
+      "recomputed_passages": 300,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷05",
+      "source_id": "src_136c141aac4e87ed",
+      "current_passages": 147,
+      "recomputed_passages": 148,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷06",
+      "source_id": "src_cfca5b7fc88466ad",
+      "current_passages": 316,
+      "recomputed_passages": 319,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷07",
+      "source_id": "src_4aae3fc96fd79407",
+      "current_passages": 170,
+      "recomputed_passages": 170,
+      "count_match": true,
+      "differing": 2,
+      "sample": [
+        {
+          "ordinal": 40,
+          "old": "，太祖復征謙，邈弟超，與太祖將陳宮、從事中郎許汜、王楷共謀叛太祖。",
+          "new": "興平元年，太祖復征謙，邈弟超，與太祖將陳宮、從事中郎許汜、王楷共謀叛太祖。"
+        },
+        {
+          "ordinal": 84,
+          "old": "，布復叛爲術，遣高順攻劉備於沛，破之。",
+          "new": "建安三年，布復叛爲術，遣高順攻劉備於沛，破之。"
+        }
+      ]
+    },
+    {
+      "title": "三国志·卷08",
+      "source_id": "src_5ef3e4223e8075f3",
+      "current_passages": 217,
+      "recomputed_passages": 217,
+      "count_match": true,
+      "differing": 7,
+      "sample": [
+        {
+          "ordinal": 80,
+          "old": "，太祖征謙，攻拔十餘城，至彭城大戰。",
+          "new": "初平四年，太祖征謙，攻拔十餘城，至彭城大戰。"
+        },
+        {
+          "ordinal": 82,
+          "old": "，復東征，略定琅邪、東海諸縣。",
+          "new": "興平元年，復東征，略定琅邪、東海諸縣。"
+        },
+        {
+          "ordinal": 96,
+          "old": "，楊奉、董承、韓暹挾天子還舊京，糧乏。",
+          "new": "建安元年，楊奉、董承、韓暹挾天子還舊京，糧乏。"
+        },
+        {
+          "ordinal": 114,
+          "old": "，度知中國擾攘，語所親吏柳毅、陽儀等曰：「漢祚將絕，當與諸卿圖王耳。",
+          "new": "初平元年，度知中國擾攘，語所親吏柳毅、陽儀等曰：「漢祚將絕，當與諸卿圖王耳。"
+        }
+      ]
+    },
+    {
+      "title": "三国志·卷09",
+      "source_id": "src_51e78653a9df5390",
+      "current_passages": 412,
+      "recomputed_passages": 412,
+      "count_match": true,
+      "differing": 6
+    },
+    {
+      "title": "三国志·卷10",
+      "source_id": "src_2053a0a5c5eddc49",
+      "current_passages": 270,
+      "recomputed_passages": 273,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷11",
+      "source_id": "src_ce35c99a5a2573cc",
+      "current_passages": 321,
+      "recomputed_passages": 321,
+      "count_match": true,
+      "differing": 8
+    },
+    {
+      "title": "三国志·卷12",
+      "source_id": "src_0c206a912d4a1720",
+      "current_passages": 246,
+      "recomputed_passages": 246,
+      "count_match": true,
+      "differing": 4
+    },
+    {
+      "title": "三国志·卷13",
+      "source_id": "src_e6f26fd0d5e5e763",
+      "current_passages": 346,
+      "recomputed_passages": 350,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷14",
+      "source_id": "src_d1655c127b1665a3",
+      "current_passages": 395,
+      "recomputed_passages": 398,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷15",
+      "source_id": "src_ed2a5c2e7de42014",
+      "current_passages": 262,
+      "recomputed_passages": 262,
+      "count_match": true,
+      "differing": 5
+    },
+    {
+      "title": "三国志·卷16",
+      "source_id": "src_98a24dfc2ad71e80",
+      "current_passages": 201,
+      "recomputed_passages": 202,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷17",
+      "source_id": "src_f895cb3a808d7ca7",
+      "current_passages": 229,
+      "recomputed_passages": 287,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷18",
+      "source_id": "src_2395d786f555a79c",
+      "current_passages": 301,
+      "recomputed_passages": 301,
+      "count_match": true,
+      "differing": 1
+    },
+    {
+      "title": "三国志·卷19",
+      "source_id": "src_e093b186de8e909c",
+      "current_passages": 133,
+      "recomputed_passages": 136,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷20",
+      "source_id": "src_4c658113fbb182e6",
+      "current_passages": 158,
+      "recomputed_passages": 175,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷21",
+      "source_id": "src_1712d9536f4e709b",
+      "current_passages": 215,
+      "recomputed_passages": 216,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷22",
+      "source_id": "src_ab3038c907a85961",
+      "current_passages": 303,
+      "recomputed_passages": 303,
+      "count_match": true,
+      "differing": 1
+    },
+    {
+      "title": "三国志·卷23",
+      "source_id": "src_57a5271c10f59e09",
+      "current_passages": 263,
+      "recomputed_passages": 263,
+      "count_match": true,
+      "differing": 4
+    },
+    {
+      "title": "三国志·卷24",
+      "source_id": "src_2abec7a17bdad966",
+      "current_passages": 215,
+      "recomputed_passages": 216,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷25",
+      "source_id": "src_6c5f58321b1ec0ba",
+      "current_passages": 269,
+      "recomputed_passages": 270,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷26",
+      "source_id": "src_c9ae62e2b7a0db82",
+      "current_passages": 284,
+      "recomputed_passages": 286,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷27",
+      "source_id": "src_78da344c7ebf66a7",
+      "current_passages": 205,
+      "recomputed_passages": 205,
+      "count_match": true,
+      "differing": 4
+    },
+    {
+      "title": "三国志·卷28",
+      "source_id": "src_80541d569e2cc6b6",
+      "current_passages": 375,
+      "recomputed_passages": 375,
+      "count_match": true,
+      "differing": 11
+    },
+    {
+      "title": "三国志·卷29",
+      "source_id": "src_be1eda3a2ac6ac94",
+      "current_passages": 275,
+      "recomputed_passages": 275,
+      "count_match": true,
+      "differing": 3
+    },
+    {
+      "title": "三国志·卷30",
+      "source_id": "src_4aa52a1c9a125d30",
+      "current_passages": 626,
+      "recomputed_passages": 626,
+      "count_match": true,
+      "differing": 16
+    },
+    {
+      "title": "三国志·卷31",
+      "source_id": "src_3b0068044bc7c40a",
+      "current_passages": 61,
+      "recomputed_passages": 61,
+      "count_match": true,
+      "differing": 2
+    },
+    {
+      "title": "三国志·卷32",
+      "source_id": "src_9e8bc1439a686931",
+      "current_passages": 189,
+      "recomputed_passages": 190,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷33",
+      "source_id": "src_aad55ef47efe0680",
+      "current_passages": 112,
+      "recomputed_passages": 113,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷34",
+      "source_id": "src_033e5925db32e682",
+      "current_passages": 41,
+      "recomputed_passages": 45,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷35",
+      "source_id": "src_fbebc49524c95139",
+      "current_passages": 201,
+      "recomputed_passages": 202,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷36",
+      "source_id": "src_2ea883a54927d7ea",
+      "current_passages": 145,
+      "recomputed_passages": 146,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷37",
+      "source_id": "src_f7ccae560a70d8fe",
+      "current_passages": 99,
+      "recomputed_passages": 100,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷38",
+      "source_id": "src_260570fbbc633583",
+      "current_passages": 100,
+      "recomputed_passages": 101,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷39",
+      "source_id": "src_41c47ed2e7780d4c",
+      "current_passages": 99,
+      "recomputed_passages": 99,
+      "count_match": true,
+      "differing": 4
+    },
+    {
+      "title": "三国志·卷40",
+      "source_id": "src_131b7a6c87908bf1",
+      "current_passages": 157,
+      "recomputed_passages": 160,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷41",
+      "source_id": "src_dbc442dfb3a20b05",
+      "current_passages": 137,
+      "recomputed_passages": 139,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷42",
+      "source_id": "src_268b01b3c5c53618",
+      "current_passages": 171,
+      "recomputed_passages": 174,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷43",
+      "source_id": "src_28ed8b1971e88b32",
+      "current_passages": 174,
+      "recomputed_passages": 175,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷44",
+      "source_id": "src_3606155c35fc19fd",
+      "current_passages": 181,
+      "recomputed_passages": 181,
+      "count_match": true,
+      "differing": 5
+    },
+    {
+      "title": "三国志·卷45",
+      "source_id": "src_cf63e8ac344f6db5",
+      "current_passages": 302,
+      "recomputed_passages": 305,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷46",
+      "source_id": "src_89a199d35db6aed2",
+      "current_passages": 123,
+      "recomputed_passages": 139,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷47",
+      "source_id": "src_90248089724a23e1",
+      "current_passages": 329,
+      "recomputed_passages": 331,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷48",
+      "source_id": "src_baa2dacc57d45375",
+      "current_passages": 256,
+      "recomputed_passages": 259,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷49",
+      "source_id": "src_38904e1bcaeb6623",
+      "current_passages": 152,
+      "recomputed_passages": 153,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷50",
+      "source_id": "src_f0c4da13da81c074",
+      "current_passages": 115,
+      "recomputed_passages": 117,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷51",
+      "source_id": "src_d031fc1c9d32785f",
+      "current_passages": 137,
+      "recomputed_passages": 138,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷52",
+      "source_id": "src_3eed952e7a888b92",
+      "current_passages": 252,
+      "recomputed_passages": 253,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷53",
+      "source_id": "src_acca52d1c455da03",
+      "current_passages": 111,
+      "recomputed_passages": 111,
+      "count_match": true,
+      "differing": 5
+    },
+    {
+      "title": "三国志·卷54",
+      "source_id": "src_dbcf027d30cd527e",
+      "current_passages": 278,
+      "recomputed_passages": 279,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷55",
+      "source_id": "src_598f4bd991d53b99",
+      "current_passages": 304,
+      "recomputed_passages": 306,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷56",
+      "source_id": "src_3c33f3e976c7d8ed",
+      "current_passages": 212,
+      "recomputed_passages": 213,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷57",
+      "source_id": "src_76ba243507db21b0",
+      "current_passages": 155,
+      "recomputed_passages": 155,
+      "count_match": true,
+      "differing": 3
+    },
+    {
+      "title": "三国志·卷58",
+      "source_id": "src_2ef71ae4ed7e8347",
+      "current_passages": 200,
+      "recomputed_passages": 203,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷59",
+      "source_id": "src_ab68ed414415530a",
+      "current_passages": 106,
+      "recomputed_passages": 109,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷60",
+      "source_id": "src_bcbc2580e3bf982f",
+      "current_passages": 190,
+      "recomputed_passages": 194,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷61",
+      "source_id": "src_3e4d5d22a79c67e4",
+      "current_passages": 71,
+      "recomputed_passages": 74,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷62",
+      "source_id": "src_a1fe387d87643550",
+      "current_passages": 74,
+      "recomputed_passages": 74,
+      "count_match": true,
+      "differing": 1
+    },
+    {
+      "title": "三国志·卷63",
+      "source_id": "src_7b2c4fcbe1da2525",
+      "current_passages": 82,
+      "recomputed_passages": 82,
+      "count_match": true,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷64",
+      "source_id": "src_65d2dde4fbd460ba",
+      "current_passages": 247,
+      "recomputed_passages": 248,
+      "count_match": false,
+      "differing": 0
+    },
+    {
+      "title": "三国志·卷65",
+      "source_id": "src_bc53344938646106",
+      "current_passages": 73,
+      "recomputed_passages": 74,
+      "count_match": false,
+      "differing": 0
+    }
+  ]
+}

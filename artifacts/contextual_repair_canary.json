@@ -1,0 +1,369 @@
+{
+  "run_id": "context_canary_20260920_115723",
+  "status": "passed_manual",
+  "execution_mode": "manual_replay",
+  "main_database_modified": false,
+  "canary_database": "data\\contextual_repair_canary.db",
+  "corpus_version_id": "corpus_5dedfbabde74b7611800",
+  "corpus": {
+    "old_passages": 501,
+    "new_passages": 653,
+    "mapped_exact": 501,
+    "restored_passages": 152
+  },
+  "targets": [
+    {
+      "name": "初平四年显式省略年号",
+      "prefix": "四年春，軍鄄城。",
+      "expected_year": 193,
+      "target_passage_id": "pv_4dfcf0738f1458f3d158",
+      "context_hash": "154e43ecd434214f0ba49e985661c6e302e0f81883aff3a6bee51dfb995930a7",
+      "context_passages": 55,
+      "chronology_scaffold": [
+        {
+          "passage_id": "pv_10f564445457576c70f8",
+          "ordinal": 25,
+          "time_expression": "初平元年春正月，後將軍袁術、冀州牧韓馥、",
+          "relation": "explicit",
+          "anchor_passage_id": "pv_10f564445457576c70f8",
+          "era_name": "初平",
+          "era_year": 1,
+          "gregorian_year": 190
+        },
+        {
+          "passage_id": "pv_83ffdc37705bc7ab377b",
+          "ordinal": 50,
+          "time_expression": "二年春，紹、馥遂立虞爲帝，虞終不敢當。",
+          "relation": "inherited_year_number",
+          "anchor_passage_id": "pv_10f564445457576c70f8",
+          "era_name": "初平",
+          "era_year": 2,
+          "gregorian_year": 191
+        },
+        {
+          "passage_id": "pv_18e5929e19250fd4ebe4",
+          "ordinal": 55,
+          "time_expression": "三年春，太祖軍頓丘，毒等攻東武陽。",
+          "relation": "inherited_year_number",
+          "anchor_passage_id": "pv_10f564445457576c70f8",
+          "era_name": "初平",
+          "era_year": 3,
+          "gregorian_year": 192
+        },
+        {
+          "passage_id": "pv_4dfcf0738f1458f3d158",
+          "ordinal": 76,
+          "time_expression": "四年春，軍鄄城。",
+          "relation": "inherited_year_number",
+          "anchor_passage_id": "pv_10f564445457576c70f8",
+          "era_name": "初平",
+          "era_year": 4,
+          "gregorian_year": 193
+        }
+      ],
+      "reading": {
+        "target_passage_id": "pv_4dfcf0738f1458f3d158",
+        "reading_summary": "初平四年春，省略主语的记事承接太祖本纪，记太祖军驻鄄城。",
+        "mentions": [
+          {
+            "surface": "太祖",
+            "entity_type": "person",
+            "canonical_surface": "曹操",
+            "confidence": 0.98,
+            "context_basis": "卷首传主及连续纪年上下文"
+          },
+          {
+            "surface": "鄄城",
+            "entity_type": "place",
+            "canonical_surface": "鄄城",
+            "confidence": 0.99,
+            "context_basis": "pv_4dfcf0738f1458f3d158"
+          }
+        ],
+        "claims": [
+          {
+            "subject": "曹操",
+            "predicate": "驻军",
+            "object": "鄄城",
+            "statement": "曹操于初平四年春军驻鄄城。",
+            "evidence_quote": "四年春，軍鄄城。",
+            "time_expression": "四年春",
+            "context_basis": "卷首传主；pv_10f564445457576c70f8建立初平元年；中间二年、三年依次推进；目标为四年",
+            "confidence": 0.96
+          }
+        ],
+        "events": [
+          {
+            "label": "曹操军鄄城",
+            "event_type": "军事驻屯",
+            "participant_surfaces": [
+              "曹操"
+            ],
+            "place": "鄄城",
+            "evidence_quote": "四年春，軍鄄城。",
+            "time_expression": "四年春",
+            "relation_type": "inherited",
+            "anchor_passage_id": "pv_10f564445457576c70f8",
+            "era_name": "初平",
+            "era_year": 4,
+            "gregorian_year": 193,
+            "context_basis": "pv_10f564445457576c70f8初平元年，连续经过二年、三年到目标四年",
+            "confidence": 0.98
+          }
+        ],
+        "unresolved": []
+      },
+      "deterministic_validation": {
+        "valid": true,
+        "errors": [],
+        "temporal_checks": [
+          {
+            "event": "曹操军鄄城",
+            "computed_gregorian_year": 193,
+            "model_gregorian_year": 193,
+            "consistent": true
+          }
+        ]
+      },
+      "deterministic_valid": true,
+      "verification": {
+        "target_passage_id": "pv_4dfcf0738f1458f3d158",
+        "quote_supported": true,
+        "entity_resolution_supported": true,
+        "temporal_resolution_supported": true,
+        "omission_check_passed": true,
+        "overall_supported": true,
+        "corrections": [],
+        "rationale": "引文均逐字存在于目标段；省略主语由卷首传主和连续叙事支持；初平四年按190+4-1换算为公元193年；范围事件未伪造结束年。"
+      },
+      "verification_supported": true,
+      "expected_year_resolved": true,
+      "persisted": {
+        "entities": 2,
+        "claims": 1,
+        "events": 1,
+        "temporal_assertions": 1,
+        "verified": 1
+      },
+      "status": "passed",
+      "models": {
+        "reading": "codex-manual-canary",
+        "verification": "codex-manual-canary-independent-check"
+      },
+      "usage": {
+        "reading_input_tokens": null,
+        "reading_output_tokens": null,
+        "verification_input_tokens": null,
+        "verification_output_tokens": null
+      }
+    },
+    {
+      "name": "是岁承接初平四年",
+      "prefix": "是歲，孫策受袁術使渡江",
+      "expected_year": 193,
+      "target_passage_id": "pv_d6e6adf00e12bdcaf454",
+      "context_hash": "93e026bd12378c9c4c0dcc0e697c666672db4439e0745009b5b25a95759a66b0",
+      "context_passages": 64,
+      "chronology_scaffold": [
+        {
+          "passage_id": "pv_10f564445457576c70f8",
+          "ordinal": 25,
+          "time_expression": "初平元年春正月，後將軍袁術、冀州牧韓馥、",
+          "relation": "explicit",
+          "anchor_passage_id": "pv_10f564445457576c70f8",
+          "era_name": "初平",
+          "era_year": 1,
+          "gregorian_year": 190
+        },
+        {
+          "passage_id": "pv_83ffdc37705bc7ab377b",
+          "ordinal": 50,
+          "time_expression": "二年春，紹、馥遂立虞爲帝，虞終不敢當。",
+          "relation": "inherited_year_number",
+          "anchor_passage_id": "pv_10f564445457576c70f8",
+          "era_name": "初平",
+          "era_year": 2,
+          "gregorian_year": 191
+        },
+        {
+          "passage_id": "pv_18e5929e19250fd4ebe4",
+          "ordinal": 55,
+          "time_expression": "三年春，太祖軍頓丘，毒等攻東武陽。",
+          "relation": "inherited_year_number",
+          "anchor_passage_id": "pv_10f564445457576c70f8",
+          "era_name": "初平",
+          "era_year": 3,
+          "gregorian_year": 192
+        },
+        {
+          "passage_id": "pv_4dfcf0738f1458f3d158",
+          "ordinal": 76,
+          "time_expression": "四年春，軍鄄城。",
+          "relation": "inherited_year_number",
+          "anchor_passage_id": "pv_10f564445457576c70f8",
+          "era_name": "初平",
+          "era_year": 4,
+          "gregorian_year": 193
+        },
+        {
+          "passage_id": "pv_d6e6adf00e12bdcaf454",
+          "ordinal": 85,
+          "time_expression": "是歲，孫策受袁術使渡江，數年閒遂有江東。",
+          "relation": "same_year_candidate",
+          "anchor_passage_id": "pv_10f564445457576c70f8",
+          "era_name": "初平",
+          "era_year": 4,
+          "gregorian_year": 193
+        },
+        {
+          "passage_id": "pv_011f8466e8ae92a27b9d",
+          "ordinal": 86,
+          "time_expression": "興平元年春，太祖自徐州還，初，太祖父嵩去",
+          "relation": "explicit",
+          "anchor_passage_id": "pv_011f8466e8ae92a27b9d",
+          "era_name": "興平",
+          "era_year": 1,
+          "gregorian_year": 194
+        }
+      ],
+      "reading": {
+        "target_passage_id": "pv_d6e6adf00e12bdcaf454",
+        "reading_summary": "‘是岁’承接最近的初平四年，记孙策受袁术命渡江；其后数年取得江东。",
+        "mentions": [
+          {
+            "surface": "孙策",
+            "entity_type": "person",
+            "canonical_surface": "孙策",
+            "confidence": 0.99,
+            "context_basis": "pv_d6e6adf00e12bdcaf454"
+          },
+          {
+            "surface": "袁术",
+            "entity_type": "person",
+            "canonical_surface": "袁术",
+            "confidence": 0.99,
+            "context_basis": "pv_d6e6adf00e12bdcaf454"
+          },
+          {
+            "surface": "江东",
+            "entity_type": "place",
+            "canonical_surface": "江东",
+            "confidence": 0.95,
+            "context_basis": "pv_d6e6adf00e12bdcaf454"
+          }
+        ],
+        "claims": [
+          {
+            "subject": "孙策",
+            "predicate": "受袁术派遣",
+            "object": "渡江",
+            "statement": "孙策于初平四年受袁术派遣渡江。",
+            "evidence_quote": "是歲，孫策受袁術使渡江",
+            "time_expression": "是岁",
+            "context_basis": "前文四年春记事后未改年号或年数",
+            "confidence": 0.97
+          },
+          {
+            "subject": "孙策",
+            "predicate": "取得",
+            "object": "江东",
+            "statement": "孙策在渡江后的数年间逐步取得江东。",
+            "evidence_quote": "數年閒遂有江東",
+            "time_expression": "数年间",
+            "context_basis": "pv_d6e6adf00e12bdcaf454",
+            "confidence": 0.93
+          }
+        ],
+        "events": [
+          {
+            "label": "孙策受命渡江",
+            "event_type": "军事行动",
+            "participant_surfaces": [
+              "孙策",
+              "袁术"
+            ],
+            "place": "",
+            "evidence_quote": "是歲，孫策受袁術使渡江",
+            "time_expression": "是岁",
+            "relation_type": "same_year",
+            "anchor_passage_id": "pv_10f564445457576c70f8",
+            "era_name": "初平",
+            "era_year": 4,
+            "gregorian_year": 193,
+            "context_basis": "最近的明确年数为四年，后向锚点为兴平元年",
+            "confidence": 0.98
+          },
+          {
+            "label": "孙策数年间取得江东",
+            "event_type": "势力扩张",
+            "participant_surfaces": [
+              "孙策"
+            ],
+            "place": "江东",
+            "evidence_quote": "數年閒遂有江東",
+            "time_expression": "数年间",
+            "relation_type": "range",
+            "anchor_passage_id": "pv_d6e6adf00e12bdcaf454",
+            "era_name": null,
+            "era_year": null,
+            "gregorian_year": null,
+            "context_basis": "原文只给出相对范围，不能强制补单一年份",
+            "confidence": 0.91
+          }
+        ],
+        "unresolved": []
+      },
+      "deterministic_validation": {
+        "valid": true,
+        "errors": [],
+        "temporal_checks": [
+          {
+            "event": "孙策受命渡江",
+            "computed_gregorian_year": 193,
+            "model_gregorian_year": 193,
+            "consistent": true
+          },
+          {
+            "event": "孙策数年间取得江东",
+            "computed_gregorian_year": null,
+            "model_gregorian_year": null,
+            "consistent": true
+          }
+        ]
+      },
+      "deterministic_valid": true,
+      "verification": {
+        "target_passage_id": "pv_d6e6adf00e12bdcaf454",
+        "quote_supported": true,
+        "entity_resolution_supported": true,
+        "temporal_resolution_supported": true,
+        "omission_check_passed": true,
+        "overall_supported": true,
+        "corrections": [],
+        "rationale": "引文均逐字存在于目标段；省略主语由卷首传主和连续叙事支持；初平四年按190+4-1换算为公元193年；范围事件未伪造结束年。"
+      },
+      "verification_supported": true,
+      "expected_year_resolved": true,
+      "persisted": {
+        "entities": 3,
+        "claims": 2,
+        "events": 2,
+        "temporal_assertions": 2,
+        "verified": 1
+      },
+      "status": "passed",
+      "models": {
+        "reading": "codex-manual-canary",
+        "verification": "codex-manual-canary-independent-check"
+      },
+      "usage": {
+        "reading_input_tokens": null,
+        "reading_output_tokens": null,
+        "verification_input_tokens": null,
+        "verification_output_tokens": null
+      }
+    }
+  ],
+  "full_reading_started": false,
+  "approval_required_for_expansion": true
+}

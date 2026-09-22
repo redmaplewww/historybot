@@ -1,0 +1,14 @@
+{"progress": 2, "total_batches": 6, "mentions": 414, "aliases": 17, "events": 0, "claims_seen": 0, "complete_batches": 2, "failed_batches": 0}
+{"progress": 4, "total_batches": 6, "mentions": 563, "aliases": 22, "events": 0, "claims_seen": 0, "complete_batches": 4, "failed_batches": 0}
+{"progress": 6, "total_batches": 6, "mentions": 813, "aliases": 27, "events": 0, "claims_seen": 0, "complete_batches": 6, "failed_batches": 0}
+{
+  "db": "data/three_kingdoms_rebuilt_v2.db",
+  "passages": 17033,
+  "pending_batches": 6,
+  "mentions": 813,
+  "aliases": 27,
+  "events": 0,
+  "claims_seen": 0,
+  "complete_batches": 6,
+  "failed_batches": 0
+}

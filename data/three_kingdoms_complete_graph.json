@@ -1,0 +1,2975 @@
+{
+  "sources": [
+    {
+      "id": "src_033e5925db32e682",
+      "title": "三国志·卷34",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B734",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:51:03.417834Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 34,
+        "fetched_title": "三國志/卷34"
+      }
+    },
+    {
+      "id": "src_0bed8d9689f953f1",
+      "title": "三国演义·第025回",
+      "author": "罗贯中",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%2F%E7%AC%AC025%E5%9B%9E",
+      "kind": "folk",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:52:34.389152Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.35,
+          "rationale": "文学或民间传统，适合研究叙事传播，不能直接当作史实",
+          "requires_corroboration": true
+        },
+        "collection": "三国演义对照样本",
+        "sequence": 25,
+        "fetched_title": "三國演義/第025回"
+      }
+    },
+    {
+      "id": "src_0c206a912d4a1720",
+      "title": "三国志·卷12",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B712",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:49:33.282083Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 12,
+        "fetched_title": "三國志/卷12"
+      }
+    },
+    {
+      "id": "src_0f12dc35f240128c",
+      "title": "三国演义·第057回",
+      "author": "罗贯中",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%2F%E7%AC%AC057%E5%9B%9E",
+      "kind": "folk",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:52:58.874908Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.35,
+          "rationale": "文学或民间传统，适合研究叙事传播，不能直接当作史实",
+          "requires_corroboration": true
+        },
+        "collection": "三国演义对照样本",
+        "sequence": 57,
+        "fetched_title": "三國演義/第057回"
+      }
+    },
+    {
+      "id": "src_131b7a6c87908bf1",
+      "title": "三国志·卷40",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B740",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:51:14.240189Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 40,
+        "fetched_title": "三國志/卷40"
+      }
+    },
+    {
+      "id": "src_136c141aac4e87ed",
+      "title": "三国志·卷05",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B705",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:49:02.375661Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 5,
+        "fetched_title": "三國志/卷05"
+      }
+    },
+    {
+      "id": "src_1712d9536f4e709b",
+      "title": "三国志·卷21",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B721",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:50:10.427313Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 21,
+        "fetched_title": "三國志/卷21"
+      }
+    },
+    {
+      "id": "src_195afc0d40bddd68",
+      "title": "三国演义·第044回",
+      "author": "罗贯中",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%2F%E7%AC%AC044%E5%9B%9E",
+      "kind": "folk",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:52:46.896368Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.35,
+          "rationale": "文学或民间传统，适合研究叙事传播，不能直接当作史实",
+          "requires_corroboration": true
+        },
+        "collection": "三国演义对照样本",
+        "sequence": 44,
+        "fetched_title": "三國演義/第044回"
+      }
+    },
+    {
+      "id": "src_2053a0a5c5eddc49",
+      "title": "三国志·卷10",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B710",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:49:23.665495Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 10,
+        "fetched_title": "三國志/卷10"
+      }
+    },
+    {
+      "id": "src_228ec535c85f848e",
+      "title": "三国志·卷03",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B703",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:48:54.021947Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 3,
+        "fetched_title": "三國志/卷03"
+      }
+    },
+    {
+      "id": "src_2395d786f555a79c",
+      "title": "三国志·卷18",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B718",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:50:00.663013Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 18,
+        "fetched_title": "三國志/卷18"
+      }
+    },
+    {
+      "id": "src_260570fbbc633583",
+      "title": "三国志·卷38",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B738",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:51:11.108268Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 38,
+        "fetched_title": "三國志/卷38"
+      }
+    },
+    {
+      "id": "src_268b01b3c5c53618",
+      "title": "三国志·卷42",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B742",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:51:18.989828Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 42,
+        "fetched_title": "三國志/卷42"
+      }
+    },
+    {
+      "id": "src_28ed8b1971e88b32",
+      "title": "三国志·卷43",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B743",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:51:21.671072Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 43,
+        "fetched_title": "三國志/卷43"
+      }
+    },
+    {
+      "id": "src_2abec7a17bdad966",
+      "title": "三国志·卷24",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B724",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:50:22.764078Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 24,
+        "fetched_title": "三國志/卷24"
+      }
+    },
+    {
+      "id": "src_2d953fa773812e18",
+      "title": "三国演义·第021回",
+      "author": "罗贯中",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%2F%E7%AC%AC021%E5%9B%9E",
+      "kind": "folk",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:52:31.313221Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.35,
+          "rationale": "文学或民间传统，适合研究叙事传播，不能直接当作史实",
+          "requires_corroboration": true
+        },
+        "collection": "三国演义对照样本",
+        "sequence": 21,
+        "fetched_title": "三國演義/第021回"
+      }
+    },
+    {
+      "id": "src_2ea883a54927d7ea",
+      "title": "三国志·卷36",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B736",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:51:07.217598Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 36,
+        "fetched_title": "三國志/卷36"
+      }
+    },
+    {
+      "id": "src_2ef71ae4ed7e8347",
+      "title": "三国志·卷58",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B758",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:52:08.384013Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 58,
+        "fetched_title": "三國志/卷58"
+      }
+    },
+    {
+      "id": "src_3606155c35fc19fd",
+      "title": "三国志·卷44",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B744",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:51:24.396338Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 44,
+        "fetched_title": "三國志/卷44"
+      }
+    },
+    {
+      "id": "src_38904e1bcaeb6623",
+      "title": "三国志·卷49",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B749",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:51:41.807569Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 49,
+        "fetched_title": "三國志/卷49"
+      }
+    },
+    {
+      "id": "src_3b0068044bc7c40a",
+      "title": "三国志·卷31",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B731",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:50:57.859654Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 31,
+        "fetched_title": "三國志/卷31"
+      }
+    },
+    {
+      "id": "src_3b786559be3b2360",
+      "title": "三国演义·第086回",
+      "author": "罗贯中",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%2F%E7%AC%AC086%E5%9B%9E",
+      "kind": "folk",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:53:10.961180Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.35,
+          "rationale": "文学或民间传统，适合研究叙事传播，不能直接当作史实",
+          "requires_corroboration": true
+        },
+        "collection": "三国演义对照样本",
+        "sequence": 86,
+        "fetched_title": "三國演義/第086回"
+      }
+    },
+    {
+      "id": "src_3c33f3e976c7d8ed",
+      "title": "三国志·卷56",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B756",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:52:02.708338Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 56,
+        "fetched_title": "三國志/卷56"
+      }
+    },
+    {
+      "id": "src_3e4d5d22a79c67e4",
+      "title": "三国志·卷61",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B761",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:52:16.093255Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 61,
+        "fetched_title": "三國志/卷61"
+      }
+    },
+    {
+      "id": "src_3eed952e7a888b92",
+      "title": "三国志·卷52",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B752",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:51:47.984466Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 52,
+        "fetched_title": "三國志/卷52"
+      }
+    },
+    {
+      "id": "src_41c47ed2e7780d4c",
+      "title": "三国志·卷39",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B739",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:51:12.676407Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 39,
+        "fetched_title": "三國志/卷39"
+      }
+    },
+    {
+      "id": "src_41fda515e06fee8a",
+      "title": "三国演义·第001回",
+      "author": "罗贯中",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%2F%E7%AC%AC001%E5%9B%9E",
+      "kind": "folk",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:52:24.841717Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.35,
+          "rationale": "文学或民间传统，适合研究叙事传播，不能直接当作史实",
+          "requires_corroboration": true
+        },
+        "collection": "三国演义对照样本",
+        "sequence": 1,
+        "fetched_title": "三國演義/第001回"
+      }
+    },
+    {
+      "id": "src_4aa52a1c9a125d30",
+      "title": "三国志·卷30",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B730",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:50:47.899286Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 30,
+        "fetched_title": "三國志/卷30"
+      }
+    },
+    {
+      "id": "src_4aae3fc96fd79407",
+      "title": "三国志·卷07",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B707",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:49:10.100502Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 7,
+        "fetched_title": "三國志/卷07"
+      }
+    },
+    {
+      "id": "src_4c658113fbb182e6",
+      "title": "三国志·卷20",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B720",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:50:07.931486Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 20,
+        "fetched_title": "三國志/卷20"
+      }
+    },
+    {
+      "id": "src_51e78653a9df5390",
+      "title": "三国志·卷09",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B709",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:49:17.042930Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 9,
+        "fetched_title": "三國志/卷09"
+      }
+    },
+    {
+      "id": "src_57a5271c10f59e09",
+      "title": "三国志·卷23",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B723",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:50:18.603029Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 23,
+        "fetched_title": "三國志/卷23"
+      }
+    },
+    {
+      "id": "src_598f4bd991d53b99",
+      "title": "三国志·卷55",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B755",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:51:58.000313Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 55,
+        "fetched_title": "三國志/卷55"
+      }
+    },
+    {
+      "id": "src_5c9aa7768812eb03",
+      "title": "三国演义·第078回",
+      "author": "罗贯中",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%2F%E7%AC%AC078%E5%9B%9E",
+      "kind": "folk",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:53:05.449152Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.35,
+          "rationale": "文学或民间传统，适合研究叙事传播，不能直接当作史实",
+          "requires_corroboration": true
+        },
+        "collection": "三国演义对照样本",
+        "sequence": 78,
+        "fetched_title": "三國演義/第078回"
+      }
+    },
+    {
+      "id": "src_5ef3e4223e8075f3",
+      "title": "三国志·卷08",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B708",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:49:13.307959Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 8,
+        "fetched_title": "三國志/卷08"
+      }
+    },
+    {
+      "id": "src_61cf685e9a58220c",
+      "title": "三国演义·第027回",
+      "author": "罗贯中",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%2F%E7%AC%AC027%E5%9B%9E",
+      "kind": "folk",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:52:37.411566Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.35,
+          "rationale": "文学或民间传统，适合研究叙事传播，不能直接当作史实",
+          "requires_corroboration": true
+        },
+        "collection": "三国演义对照样本",
+        "sequence": 27,
+        "fetched_title": "三國演義/第027回"
+      }
+    },
+    {
+      "id": "src_645f42b6027c794a",
+      "title": "三国演义·第050回",
+      "author": "罗贯中",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%2F%E7%AC%AC050%E5%9B%9E",
+      "kind": "folk",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:52:56.318512Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.35,
+          "rationale": "文学或民间传统，适合研究叙事传播，不能直接当作史实",
+          "requires_corroboration": true
+        },
+        "collection": "三国演义对照样本",
+        "sequence": 50,
+        "fetched_title": "三國演義/第050回"
+      }
+    },
+    {
+      "id": "src_65d2dde4fbd460ba",
+      "title": "三国志·卷64",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B764",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:52:19.678925Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 64,
+        "fetched_title": "三國志/卷64"
+      }
+    },
+    {
+      "id": "src_6c5f58321b1ec0ba",
+      "title": "三国志·卷25",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B725",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:50:26.062069Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 25,
+        "fetched_title": "三國志/卷25"
+      }
+    },
+    {
+      "id": "src_76ba243507db21b0",
+      "title": "三国志·卷57",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B757",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:52:05.996269Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 57,
+        "fetched_title": "三國志/卷57"
+      }
+    },
+    {
+      "id": "src_78da344c7ebf66a7",
+      "title": "三国志·卷27",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B727",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:50:34.508254Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 27,
+        "fetched_title": "三國志/卷27"
+      }
+    },
+    {
+      "id": "src_7b2c4fcbe1da2525",
+      "title": "三国志·卷63",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B763",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:52:18.381288Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 63,
+        "fetched_title": "三國志/卷63"
+      }
+    },
+    {
+      "id": "src_80541d569e2cc6b6",
+      "title": "三国志·卷28",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B728",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:50:37.744849Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 28,
+        "fetched_title": "三國志/卷28"
+      }
+    },
+    {
+      "id": "src_88853b9509fd9934",
+      "title": "三国演义·第085回",
+      "author": "罗贯中",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%2F%E7%AC%AC085%E5%9B%9E",
+      "kind": "folk",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:53:08.003328Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.35,
+          "rationale": "文学或民间传统，适合研究叙事传播，不能直接当作史实",
+          "requires_corroboration": true
+        },
+        "collection": "三国演义对照样本",
+        "sequence": 85,
+        "fetched_title": "三國演義/第085回"
+      }
+    },
+    {
+      "id": "src_89a199d35db6aed2",
+      "title": "三国志·卷46",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B746",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:51:31.819033Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 46,
+        "fetched_title": "三國志/卷46"
+      }
+    },
+    {
+      "id": "src_89aedc7875ae791a",
+      "title": "三国志·卷04",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B704",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:48:57.258091Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 4,
+        "fetched_title": "三國志/卷04"
+      }
+    },
+    {
+      "id": "src_8d3056db6591b2ee",
+      "title": "三国志·卷01",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B701",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:48:43.583778Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 1,
+        "fetched_title": "三國志/卷01"
+      }
+    },
+    {
+      "id": "src_90248089724a23e1",
+      "title": "三国志·卷47",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B747",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:51:33.472692Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 47,
+        "fetched_title": "三國志/卷47"
+      }
+    },
+    {
+      "id": "src_98a24dfc2ad71e80",
+      "title": "三国志·卷16",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B716",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:49:53.703902Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 16,
+        "fetched_title": "三國志/卷16"
+      }
+    },
+    {
+      "id": "src_9e8bc1439a686931",
+      "title": "三国志·卷32",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B732",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:50:58.819251Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 32,
+        "fetched_title": "三國志/卷32"
+      }
+    },
+    {
+      "id": "src_a1fe387d87643550",
+      "title": "三国志·卷62",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B762",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:52:17.198837Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 62,
+        "fetched_title": "三國志/卷62"
+      }
+    },
+    {
+      "id": "src_a2dd3590941eeec3",
+      "title": "三国演义·第046回",
+      "author": "罗贯中",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%2F%E7%AC%AC046%E5%9B%9E",
+      "kind": "folk",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:52:49.855052Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.35,
+          "rationale": "文学或民间传统，适合研究叙事传播，不能直接当作史实",
+          "requires_corroboration": true
+        },
+        "collection": "三国演义对照样本",
+        "sequence": 46,
+        "fetched_title": "三國演義/第046回"
+      }
+    },
+    {
+      "id": "src_a6a479cca39999a8",
+      "title": "三国志·卷02",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B702",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:48:51.680131Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 2,
+        "fetched_title": "三國志/卷02"
+      }
+    },
+    {
+      "id": "src_aad55ef47efe0680",
+      "title": "三国志·卷33",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B733",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:51:01.743293Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 33,
+        "fetched_title": "三國志/卷33"
+      }
+    },
+    {
+      "id": "src_ab3038c907a85961",
+      "title": "三国志·卷22",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B722",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:50:13.833441Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 22,
+        "fetched_title": "三國志/卷22"
+      }
+    },
+    {
+      "id": "src_ab68ed414415530a",
+      "title": "三国志·卷59",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B759",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:52:11.504401Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 59,
+        "fetched_title": "三國志/卷59"
+      }
+    },
+    {
+      "id": "src_acca52d1c455da03",
+      "title": "三国志·卷53",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B753",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:51:51.951830Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 53,
+        "fetched_title": "三國志/卷53"
+      }
+    },
+    {
+      "id": "src_baa2dacc57d45375",
+      "title": "三国志·卷48",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B748",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:51:38.182680Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 48,
+        "fetched_title": "三國志/卷48"
+      }
+    },
+    {
+      "id": "src_bc53344938646106",
+      "title": "三国志·卷65",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B765",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:52:23.548941Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 65,
+        "fetched_title": "三國志/卷65"
+      }
+    },
+    {
+      "id": "src_bcbc2580e3bf982f",
+      "title": "三国志·卷60",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B760",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:52:13.127042Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 60,
+        "fetched_title": "三國志/卷60"
+      }
+    },
+    {
+      "id": "src_be1eda3a2ac6ac94",
+      "title": "三国志·卷29",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B729",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:50:43.627030Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 29,
+        "fetched_title": "三國志/卷29"
+      }
+    },
+    {
+      "id": "src_c2444c6dca986c37",
+      "title": "三国演义·第043回",
+      "author": "罗贯中",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%2F%E7%AC%AC043%E5%9B%9E",
+      "kind": "folk",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:52:43.868141Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.35,
+          "rationale": "文学或民间传统，适合研究叙事传播，不能直接当作史实",
+          "requires_corroboration": true
+        },
+        "collection": "三国演义对照样本",
+        "sequence": 43,
+        "fetched_title": "三國演義/第043回"
+      }
+    },
+    {
+      "id": "src_c9ae62e2b7a0db82",
+      "title": "三国志·卷26",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B726",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:50:30.137805Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 26,
+        "fetched_title": "三國志/卷26"
+      }
+    },
+    {
+      "id": "src_ca69bb01982a705c",
+      "title": "三国演义·第049回",
+      "author": "罗贯中",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%2F%E7%AC%AC049%E5%9B%9E",
+      "kind": "folk",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:52:53.156709Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.35,
+          "rationale": "文学或民间传统，适合研究叙事传播，不能直接当作史实",
+          "requires_corroboration": true
+        },
+        "collection": "三国演义对照样本",
+        "sequence": 49,
+        "fetched_title": "三國演義/第049回"
+      }
+    },
+    {
+      "id": "src_ce35c99a5a2573cc",
+      "title": "三国志·卷11",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B711",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:49:27.907018Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 11,
+        "fetched_title": "三國志/卷11"
+      }
+    },
+    {
+      "id": "src_cf63e8ac344f6db5",
+      "title": "三国志·卷45",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B745",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:51:27.238222Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 45,
+        "fetched_title": "三國志/卷45"
+      }
+    },
+    {
+      "id": "src_cfca5b7fc88466ad",
+      "title": "三国志·卷06",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B706",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:49:04.772608Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 6,
+        "fetched_title": "三國志/卷06"
+      }
+    },
+    {
+      "id": "src_d031fc1c9d32785f",
+      "title": "三国志·卷51",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B751",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:51:45.835442Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 51,
+        "fetched_title": "三國志/卷51"
+      }
+    },
+    {
+      "id": "src_d1655c127b1665a3",
+      "title": "三国志·卷14",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B714",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:49:42.963520Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 14,
+        "fetched_title": "三國志/卷14"
+      }
+    },
+    {
+      "id": "src_d1eb367ab10c107e",
+      "title": "三国演义·第005回",
+      "author": "罗贯中",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%2F%E7%AC%AC005%E5%9B%9E",
+      "kind": "folk",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:52:27.617689Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.35,
+          "rationale": "文学或民间传统，适合研究叙事传播，不能直接当作史实",
+          "requires_corroboration": true
+        },
+        "collection": "三国演义对照样本",
+        "sequence": 5,
+        "fetched_title": "三國演義/第005回"
+      }
+    },
+    {
+      "id": "src_d33ffe13dd01a981",
+      "title": "三国演义·第038回",
+      "author": "罗贯中",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%2F%E7%AC%AC038%E5%9B%9E",
+      "kind": "folk",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:52:40.887805Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.35,
+          "rationale": "文学或民间传统，适合研究叙事传播，不能直接当作史实",
+          "requires_corroboration": true
+        },
+        "collection": "三国演义对照样本",
+        "sequence": 38,
+        "fetched_title": "三國演義/第038回"
+      }
+    },
+    {
+      "id": "src_dbc442dfb3a20b05",
+      "title": "三国志·卷41",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B741",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:51:16.734506Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 41,
+        "fetched_title": "三國志/卷41"
+      }
+    },
+    {
+      "id": "src_dbcf027d30cd527e",
+      "title": "三国志·卷54",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B754",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:51:53.692085Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 54,
+        "fetched_title": "三國志/卷54"
+      }
+    },
+    {
+      "id": "src_e093b186de8e909c",
+      "title": "三国志·卷19",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B719",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:50:05.677394Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 19,
+        "fetched_title": "三國志/卷19"
+      }
+    },
+    {
+      "id": "src_e6f26fd0d5e5e763",
+      "title": "三国志·卷13",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B713",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:49:37.181398Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 13,
+        "fetched_title": "三國志/卷13"
+      }
+    },
+    {
+      "id": "src_ed2a5c2e7de42014",
+      "title": "三国志·卷15",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B715",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:49:49.622497Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 15,
+        "fetched_title": "三國志/卷15"
+      }
+    },
+    {
+      "id": "src_f0c4da13da81c074",
+      "title": "三国志·卷50",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B750",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:51:44.089412Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 50,
+        "fetched_title": "三國志/卷50"
+      }
+    },
+    {
+      "id": "src_f155599dc7e45868",
+      "title": "三国演义·第077回",
+      "author": "罗贯中",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%2F%E7%AC%AC077%E5%9B%9E",
+      "kind": "folk",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:53:02.675027Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.35,
+          "rationale": "文学或民间传统，适合研究叙事传播，不能直接当作史实",
+          "requires_corroboration": true
+        },
+        "collection": "三国演义对照样本",
+        "sequence": 77,
+        "fetched_title": "三國演義/第077回"
+      }
+    },
+    {
+      "id": "src_f7ccae560a70d8fe",
+      "title": "三国志·卷37",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B737",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:51:09.495757Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 37,
+        "fetched_title": "三國志/卷37"
+      }
+    },
+    {
+      "id": "src_f895cb3a808d7ca7",
+      "title": "三国志·卷17",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B717",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:49:56.952524Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 17,
+        "fetched_title": "三國志/卷17"
+      }
+    },
+    {
+      "id": "src_fbebc49524c95139",
+      "title": "三国志·卷35",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&prop=wikitext&format=json&page=%E4%B8%89%E5%9C%8B%E5%BF%97%2F%E5%8D%B735",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-12T07:51:04.069404Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        },
+        "collection": "三国志",
+        "sequence": 35,
+        "fetched_title": "三國志/卷35"
+      }
+    }
+  ],
+  "entities": [
+    {
+      "surface": "刘琦",
+      "entity_type": "人物",
+      "passage_id": "p_e651f1e99307e3a5",
+      "canonical_id": null,
+      "confidence": 1.0,
+      "id": "ent_05e7b4186cb5c3a7"
+    },
+    {
+      "surface": "梁國",
+      "entity_type": "地点",
+      "passage_id": "p_5a7fbf84e29d907e",
+      "canonical_id": null,
+      "confidence": 0.95,
+      "id": "ent_0bd2936eee33305f"
+    },
+    {
+      "surface": "孟德",
+      "entity_type": "人物",
+      "passage_id": "p_81fc340fa6d0fbe6",
+      "canonical_id": null,
+      "confidence": 0.99,
+      "id": "ent_1294c2775d94c2de"
+    },
+    {
+      "surface": "何顒",
+      "entity_type": "人物",
+      "passage_id": "p_5a7fbf84e29d907e",
+      "canonical_id": null,
+      "confidence": 0.99,
+      "id": "ent_1a39b1c1bedcccfc"
+    },
+    {
+      "surface": "孙权",
+      "entity_type": "人物",
+      "passage_id": "p_fd727b4a38b7b7b7",
+      "canonical_id": null,
+      "confidence": 1.0,
+      "id": "ent_2d0b5eef66094510"
+    },
+    {
+      "surface": "曹",
+      "entity_type": "姓氏",
+      "passage_id": "p_81fc340fa6d0fbe6",
+      "canonical_id": null,
+      "confidence": 0.99,
+      "id": "ent_3e1efbe39a5bd512"
+    },
+    {
+      "surface": "沛國譙",
+      "entity_type": "地点",
+      "passage_id": "p_81fc340fa6d0fbe6",
+      "canonical_id": null,
+      "confidence": 0.98,
+      "id": "ent_438b42470fc23f52"
+    },
+    {
+      "surface": "頓丘",
+      "entity_type": "地点",
+      "passage_id": "p_3d67bfd5eb6d0fa0",
+      "canonical_id": null,
+      "confidence": 0.98,
+      "id": "ent_4bd0bf05759041d3"
+    },
+    {
+      "surface": "曹操",
+      "entity_type": "人物",
+      "passage_id": "p_29d2791fb7d55464",
+      "canonical_id": null,
+      "confidence": 1.0,
+      "id": "ent_4fbe01ab8d14bc66"
+    },
+    {
+      "surface": "曹騰",
+      "entity_type": "人物",
+      "passage_id": "p_145a5d45afaa46c1",
+      "canonical_id": null,
+      "confidence": 0.99,
+      "id": "ent_52d66aeaaaf92cab"
+    },
+    {
+      "surface": "養子嵩",
+      "entity_type": "人物",
+      "passage_id": "p_4ad82257bf11d11d",
+      "canonical_id": null,
+      "confidence": 0.98,
+      "id": "ent_5ec5b89441a978aa"
+    },
+    {
+      "surface": "中常侍大長秋",
+      "entity_type": "官职",
+      "passage_id": "p_145a5d45afaa46c1",
+      "canonical_id": null,
+      "confidence": 0.98,
+      "id": "ent_6324a80d062b5e56"
+    },
+    {
+      "surface": "南陽",
+      "entity_type": "地点",
+      "passage_id": "p_5a7fbf84e29d907e",
+      "canonical_id": null,
+      "confidence": 0.95,
+      "id": "ent_68e10db8e7732bf7"
+    },
+    {
+      "surface": "太祖武皇帝",
+      "entity_type": "人物",
+      "passage_id": "p_81fc340fa6d0fbe6",
+      "canonical_id": null,
+      "confidence": 0.99,
+      "id": "ent_7e9290bfa7c3a342"
+    },
+    {
+      "surface": "柴桑郡",
+      "entity_type": "地点",
+      "passage_id": "p_e651f1e99307e3a5",
+      "canonical_id": null,
+      "confidence": 1.0,
+      "id": "ent_8c373bf03fcda98d"
+    },
+    {
+      "surface": "鲁肃",
+      "entity_type": "人物",
+      "passage_id": "p_e651f1e99307e3a5",
+      "canonical_id": null,
+      "confidence": 1.0,
+      "id": "ent_8dc0bfe19c5d81dc"
+    },
+    {
+      "surface": "太尉",
+      "entity_type": "官职",
+      "passage_id": "p_4ad82257bf11d11d",
+      "canonical_id": null,
+      "confidence": 0.98,
+      "id": "ent_8fb6d39f80559606"
+    },
+    {
+      "surface": "桓帝",
+      "entity_type": "人物",
+      "passage_id": "p_145a5d45afaa46c1",
+      "canonical_id": null,
+      "confidence": 0.95,
+      "id": "ent_95f0a5d93393210b"
+    },
+    {
+      "surface": "孔明",
+      "entity_type": "人物",
+      "passage_id": "p_e651f1e99307e3a5",
+      "canonical_id": null,
+      "confidence": 1.0,
+      "id": "ent_968b5caa517e98be"
+    },
+    {
+      "surface": "玄德",
+      "entity_type": "人物",
+      "passage_id": "p_e651f1e99307e3a5",
+      "canonical_id": null,
+      "confidence": 1.0,
+      "id": "ent_a9f0bb97eed78ab7"
+    },
+    {
+      "surface": "天下",
+      "entity_type": "政治空间",
+      "passage_id": "p_84c2619bb8eac66d",
+      "canonical_id": null,
+      "confidence": 0.9,
+      "id": "ent_b3e7e6ec3920ca20"
+    },
+    {
+      "surface": "江夏",
+      "entity_type": "地点",
+      "passage_id": "p_46a32b6c143d19d0",
+      "canonical_id": null,
+      "confidence": 1.0,
+      "id": "ent_b9a153ed3cf56a7a"
+    },
+    {
+      "surface": "洛陽",
+      "entity_type": "地点",
+      "passage_id": "p_3d67bfd5eb6d0fa0",
+      "canonical_id": null,
+      "confidence": 0.98,
+      "id": "ent_d45710d544ea1807"
+    },
+    {
+      "surface": "費亭侯",
+      "entity_type": "爵位",
+      "passage_id": "p_145a5d45afaa46c1",
+      "canonical_id": null,
+      "confidence": 0.98,
+      "id": "ent_d5cd76add5d914d5"
+    },
+    {
+      "surface": "桓帝世",
+      "entity_type": "时间",
+      "passage_id": "p_145a5d45afaa46c1",
+      "canonical_id": null,
+      "confidence": 0.98,
+      "id": "ent_e6025c421452a927"
+    },
+    {
+      "surface": "操",
+      "entity_type": "人物",
+      "passage_id": "p_81fc340fa6d0fbe6",
+      "canonical_id": null,
+      "confidence": 0.99,
+      "id": "ent_e972c0298a043df0"
+    },
+    {
+      "surface": "年二十",
+      "entity_type": "时间",
+      "passage_id": "p_3d67bfd5eb6d0fa0",
+      "canonical_id": null,
+      "confidence": 0.98,
+      "id": "ent_eed93808d873e1d0"
+    },
+    {
+      "surface": "橋玄",
+      "entity_type": "人物",
+      "passage_id": "p_5a7fbf84e29d907e",
+      "canonical_id": null,
+      "confidence": 0.99,
+      "id": "ent_f182237893f0e929"
+    },
+    {
+      "surface": "子敬",
+      "entity_type": "人物称谓",
+      "passage_id": "p_29d2791fb7d55464",
+      "canonical_id": null,
+      "confidence": 1.0,
+      "id": "ent_f2e46139e69eb947"
+    },
+    {
+      "surface": "漢相國參",
+      "entity_type": "人物",
+      "passage_id": "p_81fc340fa6d0fbe6",
+      "canonical_id": null,
+      "confidence": 0.9,
+      "id": "ent_fd6fb0ab72649c00"
+    },
+    {
+      "surface": "孙将军",
+      "entity_type": "人物称谓",
+      "passage_id": "p_29d2791fb7d55464",
+      "canonical_id": null,
+      "confidence": 1.0,
+      "id": "ent_fe42f897281e8a74"
+    }
+  ],
+  "events": [
+    {
+      "event_type": "预言或劝说",
+      "label": "橋玄对太祖说天下将乱且太祖或能安定天下",
+      "date_start": null,
+      "date_end": null,
+      "place": null,
+      "participant_surfaces": [
+        "橋玄",
+        "太祖武皇帝",
+        "天下"
+      ],
+      "passage_id": "p_84c2619bb8eac66d",
+      "confidence": 0.93,
+      "id": "evt_07269e7f47c2cd78"
+    },
+    {
+      "event_type": "讨论",
+      "label": "鲁肃与孔明在船中共同商议",
+      "date_start": null,
+      "date_end": null,
+      "place": null,
+      "participant_surfaces": [
+        "鲁肃",
+        "孔明"
+      ],
+      "passage_id": "p_a10bcd15ee6b6d57",
+      "confidence": 1.0,
+      "id": "evt_0be1a35bfe14d5e6"
+    },
+    {
+      "event_type": "任官",
+      "label": "嵩官至太尉",
+      "date_start": null,
+      "date_end": null,
+      "place": null,
+      "participant_surfaces": [
+        "養子嵩",
+        "太尉"
+      ],
+      "passage_id": "p_4ad82257bf11d11d",
+      "confidence": 0.98,
+      "id": "evt_34b8d47f56eaa020"
+    },
+    {
+      "event_type": "继承",
+      "label": "養子嵩嗣",
+      "date_start": null,
+      "date_end": null,
+      "place": null,
+      "participant_surfaces": [
+        "養子嵩"
+      ],
+      "passage_id": "p_4ad82257bf11d11d",
+      "confidence": 0.98,
+      "id": "evt_3fe09cbcbfd51f4e"
+    },
+    {
+      "event_type": "抵达",
+      "label": "船抵达岸边",
+      "date_start": null,
+      "date_end": null,
+      "place": null,
+      "participant_surfaces": [
+        "鲁肃",
+        "孔明"
+      ],
+      "passage_id": "p_fd727b4a38b7b7b7",
+      "confidence": 0.95,
+      "id": "evt_4ce3e3cd055a2bf9"
+    },
+    {
+      "event_type": "会见",
+      "label": "鲁肃前往会见孙权",
+      "date_start": null,
+      "date_end": null,
+      "place": null,
+      "participant_surfaces": [
+        "鲁肃",
+        "孙权"
+      ],
+      "passage_id": "p_fd727b4a38b7b7b7",
+      "confidence": 1.0,
+      "id": "evt_6df88def430d49f9"
+    },
+    {
+      "event_type": "出行",
+      "label": "鲁肃、孔明辞别玄德、刘琦后乘船前往柴桑郡",
+      "date_start": null,
+      "date_end": null,
+      "place": "柴桑郡",
+      "participant_surfaces": [
+        "鲁肃",
+        "孔明",
+        "玄德",
+        "刘琦"
+      ],
+      "passage_id": "p_e651f1e99307e3a5",
+      "confidence": 1.0,
+      "id": "evt_997e1537d51edcad"
+    },
+    {
+      "event_type": "人物评价",
+      "label": "橋玄与何顒认为太祖不同寻常",
+      "date_start": null,
+      "date_end": null,
+      "place": null,
+      "participant_surfaces": [
+        "太祖武皇帝",
+        "橋玄",
+        "何顒"
+      ],
+      "passage_id": "p_5a7fbf84e29d907e",
+      "confidence": 0.96,
+      "id": "evt_ce5d3f5af46d9aad"
+    },
+    {
+      "event_type": "任官与封爵",
+      "label": "曹騰任中常侍大長秋并封費亭侯",
+      "date_start": "桓帝世",
+      "date_end": null,
+      "place": null,
+      "participant_surfaces": [
+        "曹騰",
+        "中常侍大長秋",
+        "費亭侯"
+      ],
+      "passage_id": "p_145a5d45afaa46c1",
+      "confidence": 0.99,
+      "id": "evt_d4105c454431cf44"
+    },
+    {
+      "event_type": "察举与任官",
+      "label": "太祖年二十举孝廉为郎，后任洛阳北部尉、顿丘令并征拜议郎",
+      "date_start": "年二十",
+      "date_end": null,
+      "place": "洛陽、頓丘",
+      "participant_surfaces": [
+        "太祖武皇帝",
+        "孝廉",
+        "郎",
+        "洛陽北部尉",
+        "頓丘令",
+        "議郎"
+      ],
+      "passage_id": "p_3d67bfd5eb6d0fa0",
+      "confidence": 0.99,
+      "id": "evt_df1f0ceea35d4784"
+    },
+    {
+      "event_type": "询问",
+      "label": "孙权询问鲁肃前往江夏探察虚实的情况",
+      "date_start": null,
+      "date_end": null,
+      "place": null,
+      "participant_surfaces": [
+        "孙权",
+        "鲁肃",
+        "江夏"
+      ],
+      "passage_id": "p_46a32b6c143d19d0",
+      "confidence": 1.0,
+      "id": "evt_f82755dca1a4a23c"
+    }
+  ],
+  "relations": [
+    {
+      "claim_id": "clm_0068f706d8a4964499ff",
+      "subject": "太祖武皇帝",
+      "predicate": "身份关系",
+      "object": "漢相國參之後"
+    },
+    {
+      "claim_id": "clm_07b29e519bff5e70cada",
+      "subject": "太祖武皇帝",
+      "predicate": "任职",
+      "object": "郎"
+    },
+    {
+      "claim_id": "clm_084266c1ee40e0d8f3d3",
+      "subject": "太祖武皇帝",
+      "predicate": "少年时具有",
+      "object": "機警、權數"
+    },
+    {
+      "claim_id": "clm_151fcf04cd360622d239",
+      "subject": "太祖武皇帝",
+      "predicate": "举为",
+      "object": "孝廉"
+    },
+    {
+      "claim_id": "clm_1645b4ad35cdf875e26e",
+      "subject": "橋玄",
+      "predicate": "判断",
+      "object": "天下將亂"
+    },
+    {
+      "claim_id": "clm_1f95587bf974f5a91b9e",
+      "subject": "太祖武皇帝",
+      "predicate": "字",
+      "object": "孟德"
+    },
+    {
+      "claim_id": "clm_24ce753e3ec4d8b44cd2",
+      "subject": "鲁肃与孔明",
+      "predicate": "辞别并乘船前往",
+      "object": "柴桑郡"
+    },
+    {
+      "claim_id": "clm_33e14785b64f2a6b2d89",
+      "subject": "世人",
+      "predicate": "对太祖的评价",
+      "object": "未之奇"
+    },
+    {
+      "claim_id": "clm_383ef1b9992d8338c03b",
+      "subject": "太祖武皇帝",
+      "predicate": "讳",
+      "object": "操"
+    },
+    {
+      "claim_id": "clm_40fdb98860d12114c6d5",
+      "subject": "曹騰",
+      "predicate": "任职",
+      "object": "中常侍大長秋"
+    },
+    {
+      "claim_id": "clm_4ecfe94df72efa620c52",
+      "subject": "橋玄",
+      "predicate": "判断",
+      "object": "非命世之才不能濟也"
+    },
+    {
+      "claim_id": "clm_5f53f1ac6c5b5820bff3",
+      "subject": "鲁肃",
+      "predicate": "请孔明暂歇",
+      "object": "馆驿"
+    },
+    {
+      "claim_id": "clm_60f9188e4120805024a0",
+      "subject": "孙权",
+      "predicate": "召见并询问鲁肃",
+      "object": "鲁肃探察江夏虚实的情况"
+    },
+    {
+      "claim_id": "clm_6e57234cb84edf711600",
+      "subject": "養子嵩",
+      "predicate": "生出本末",
+      "object": "莫能審"
+    },
+    {
+      "claim_id": "clm_6e7a866244c2d14ff0d9",
+      "subject": "孙权",
+      "predicate": "聚集文武议事",
+      "object": "堂上"
+    },
+    {
+      "claim_id": "clm_78532c1552283ebfd459",
+      "subject": "橋玄",
+      "predicate": "认为可能安定天下者",
+      "object": "太祖武皇帝"
+    },
+    {
+      "claim_id": "clm_93800c36fd040c20101d",
+      "subject": "鲁肃与孔明",
+      "predicate": "在船中共同商议",
+      "object": "未明确说明的事项"
+    },
+    {
+      "claim_id": "clm_a120f9f56327d2ced273",
+      "subject": "鲁肃",
+      "predicate": "劝告孔明不要如实说明",
+      "object": "曹操兵多将广之事"
+    },
+    {
+      "claim_id": "clm_af278e3c784dd2b49d2e",
+      "subject": "橋玄与何顒",
+      "predicate": "对太祖的评价",
+      "object": "异焉"
+    },
+    {
+      "claim_id": "clm_c90558dd7cea3959da91",
+      "subject": "太祖武皇帝",
+      "predicate": "籍贯是",
+      "object": "沛國譙"
+    },
+    {
+      "claim_id": "clm_cd698fd774aeb299c480",
+      "subject": "曹騰",
+      "predicate": "受封",
+      "object": "費亭侯"
+    },
+    {
+      "claim_id": "clm_d78365fa6e873ac2654e",
+      "subject": "養子嵩",
+      "predicate": "最高官职达到",
+      "object": "太尉"
+    },
+    {
+      "claim_id": "clm_e2ebf2972edc29ed564a",
+      "subject": "太祖武皇帝",
+      "predicate": "姓",
+      "object": "曹"
+    },
+    {
+      "claim_id": "clm_e3d1af652c1bba83453f",
+      "subject": "孔明",
+      "predicate": "表示已有应答之语",
+      "object": "对孙将军的询问"
+    },
+    {
+      "claim_id": "clm_e44a5ca909989459340e",
+      "subject": "太祖武皇帝",
+      "predicate": "少年时行为",
+      "object": "任俠放蕩、不治行業"
+    },
+    {
+      "claim_id": "clm_e8f0763a44483417462d",
+      "subject": "養子嵩",
+      "predicate": "继承",
+      "object": "未明确说明的对象"
+    }
+  ],
+  "timeline": [
+    {
+      "event_type": "任官与封爵",
+      "label": "曹騰任中常侍大長秋并封費亭侯",
+      "date_start": "桓帝世",
+      "date_end": null,
+      "place": null,
+      "participant_surfaces": [
+        "曹騰",
+        "中常侍大長秋",
+        "費亭侯"
+      ],
+      "passage_id": "p_145a5d45afaa46c1",
+      "confidence": 0.99,
+      "id": "evt_d4105c454431cf44"
+    },
+    {
+      "event_type": "察举与任官",
+      "label": "太祖年二十举孝廉为郎，后任洛阳北部尉、顿丘令并征拜议郎",
+      "date_start": "年二十",
+      "date_end": null,
+      "place": "洛陽、頓丘",
+      "participant_surfaces": [
+        "太祖武皇帝",
+        "孝廉",
+        "郎",
+        "洛陽北部尉",
+        "頓丘令",
+        "議郎"
+      ],
+      "passage_id": "p_3d67bfd5eb6d0fa0",
+      "confidence": 0.99,
+      "id": "evt_df1f0ceea35d4784"
+    }
+  ],
+  "places": [
+    {
+      "event_type": "出行",
+      "label": "鲁肃、孔明辞别玄德、刘琦后乘船前往柴桑郡",
+      "date_start": null,
+      "date_end": null,
+      "place": "柴桑郡",
+      "participant_surfaces": [
+        "鲁肃",
+        "孔明",
+        "玄德",
+        "刘琦"
+      ],
+      "passage_id": "p_e651f1e99307e3a5",
+      "confidence": 1.0,
+      "id": "evt_997e1537d51edcad"
+    },
+    {
+      "event_type": "察举与任官",
+      "label": "太祖年二十举孝廉为郎，后任洛阳北部尉、顿丘令并征拜议郎",
+      "date_start": "年二十",
+      "date_end": null,
+      "place": "洛陽、頓丘",
+      "participant_surfaces": [
+        "太祖武皇帝",
+        "孝廉",
+        "郎",
+        "洛陽北部尉",
+        "頓丘令",
+        "議郎"
+      ],
+      "passage_id": "p_3d67bfd5eb6d0fa0",
+      "confidence": 0.99,
+      "id": "evt_df1f0ceea35d4784"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_0068f706d8a4964499ff",
+      "subject": "太祖武皇帝",
+      "predicate": "身份关系",
+      "object": "漢相國參之後",
+      "statement": "太祖武皇帝是汉相国参的后代。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.95,
+        "resolution_quality": 0.95,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载“漢相國參之後”，直接支持太祖武皇帝是汉相国参后代这一主张。"
+      },
+      "passage_ids": [
+        "p_81fc340fa6d0fbe6"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c5"
+      }
+    },
+    {
+      "id": "clm_07b29e519bff5e70cada",
+      "subject": "太祖武皇帝",
+      "predicate": "任职",
+      "object": "郎",
+      "statement": "太祖武皇帝年二十时被任为郎。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.99,
+        "resolution_quality": 0.99,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载“年二十，舉孝廉爲郎”，直接支持太祖武皇帝二十岁时被任为郎的主张。"
+      },
+      "passage_ids": [
+        "p_3d67bfd5eb6d0fa0"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c19"
+      }
+    },
+    {
+      "id": "clm_084266c1ee40e0d8f3d3",
+      "subject": "太祖武皇帝",
+      "predicate": "少年时具有",
+      "object": "機警、權數",
+      "statement": "太祖武皇帝少年时机警而有权数。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.98,
+        "resolution_quality": 0.98,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载“太祖少機警，有權數”，直接支持太祖武皇帝少年时机警而有权数的主张。"
+      },
+      "passage_ids": [
+        "p_5a7fbf84e29d907e"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c11"
+      }
+    },
+    {
+      "id": "clm_151fcf04cd360622d239",
+      "subject": "太祖武皇帝",
+      "predicate": "举为",
+      "object": "孝廉",
+      "statement": "太祖武皇帝年二十时被举为孝廉。",
+      "status": "disputed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.99,
+        "resolution_quality": 0.99,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "引文支持“年二十，举孝廉”这一事件，但缺少能够将该事件明确归属于“太祖武皇帝”的上下文，因此不足以完整支持该主张。"
+      },
+      "passage_ids": [
+        "p_3d67bfd5eb6d0fa0"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c18"
+      }
+    },
+    {
+      "id": "clm_1645b4ad35cdf875e26e",
+      "subject": "橋玄",
+      "predicate": "判断",
+      "object": "天下將亂",
+      "statement": "橋玄说天下将要发生动乱。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.98,
+        "resolution_quality": 0.98,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "引文明确记载“天下將亂”，且“玄謂太祖曰”表明该判断由“玄”说出；结合主张主体为橋玄，原文直接支持橋玄判断天下将乱。"
+      },
+      "passage_ids": [
+        "p_84c2619bb8eac66d"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c15"
+      }
+    },
+    {
+      "id": "clm_1f95587bf974f5a91b9e",
+      "subject": "太祖武皇帝",
+      "predicate": "字",
+      "object": "孟德",
+      "statement": "太祖武皇帝字孟德。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.99,
+        "resolution_quality": 0.99,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载“姓曹，諱操，字孟德”，直接支持“太祖武皇帝字孟德”这一主张。"
+      },
+      "passage_ids": [
+        "p_81fc340fa6d0fbe6"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c4"
+      }
+    },
+    {
+      "id": "clm_24ce753e3ec4d8b44cd2",
+      "subject": "鲁肃与孔明",
+      "predicate": "辞别并乘船前往",
+      "object": "柴桑郡",
+      "statement": "鲁肃、孔明辞别玄德和刘琦，乘船前往柴桑郡。",
+      "status": "disputed",
+      "confidence": {
+        "score": 0.2975,
+        "source_reliability": 0.35,
+        "extraction_quality": 1.0,
+        "resolution_quality": 1.0,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载“魯肅、孔明辭了玄德、劉琦，登舟望柴桑郡來”，直接支持鲁肃、孔明辞别玄德和刘琦并乘船前往柴桑郡的主张。；来源属于野史/文学传统，必须寻找独立史料互证"
+      },
+      "passage_ids": [
+        "p_e651f1e99307e3a5"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c1"
+      }
+    },
+    {
+      "id": "clm_33e14785b64f2a6b2d89",
+      "subject": "世人",
+      "predicate": "对太祖的评价",
+      "object": "未之奇",
+      "statement": "世人因此没有认为太祖武皇帝奇异。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.94,
+        "resolution_quality": 0.94,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确说“故世人未之奇也”，直接支持世人没有认为太祖奇异的主张；后文所列桥玄、何顒属于明确例外。"
+      },
+      "passage_ids": [
+        "p_5a7fbf84e29d907e"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c13"
+      }
+    },
+    {
+      "id": "clm_383ef1b9992d8338c03b",
+      "subject": "太祖武皇帝",
+      "predicate": "讳",
+      "object": "操",
+      "statement": "太祖武皇帝讳操。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.99,
+        "resolution_quality": 0.99,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载“太祖武皇帝……姓曹，諱操”，直接支持“太祖武皇帝讳操”的主张。"
+      },
+      "passage_ids": [
+        "p_81fc340fa6d0fbe6"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c3"
+      }
+    },
+    {
+      "id": "clm_40fdb98860d12114c6d5",
+      "subject": "曹騰",
+      "predicate": "任职",
+      "object": "中常侍大長秋",
+      "statement": "桓帝时期，曹騰任中常侍大長秋。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.99,
+        "resolution_quality": 0.99,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载“桓帝世，曹騰爲中常侍大長秋”，直接支持曹騰在桓帝时期任中常侍大長秋。"
+      },
+      "passage_ids": [
+        "p_145a5d45afaa46c1"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c6"
+      }
+    },
+    {
+      "id": "clm_4ecfe94df72efa620c52",
+      "subject": "橋玄",
+      "predicate": "判断",
+      "object": "非命世之才不能濟也",
+      "statement": "橋玄说若非当世杰出的人才就不能挽救天下局势。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.95,
+        "resolution_quality": 0.95,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载桥玄对太祖说“天下将乱，非命世之才不能济也”，直接表达了若非当世杰出人才便不能挽救或安定天下局势，支持该主张。"
+      },
+      "passage_ids": [
+        "p_84c2619bb8eac66d"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c16"
+      }
+    },
+    {
+      "id": "clm_5f53f1ac6c5b5820bff3",
+      "subject": "鲁肃",
+      "predicate": "请孔明暂歇",
+      "object": "馆驿",
+      "statement": "船到岸后，鲁肃请孔明暂时在馆驿歇息。",
+      "status": "disputed",
+      "confidence": {
+        "score": 0.2975,
+        "source_reliability": 0.35,
+        "extraction_quality": 1.0,
+        "resolution_quality": 1.0,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载“船到岸，肃请孔明于馆驿中暂歇”，直接支持船到岸后鲁肃请孔明暂时在馆驿歇息这一主张。；来源属于野史/文学传统，必须寻找独立史料互证"
+      },
+      "passage_ids": [
+        "p_fd727b4a38b7b7b7"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c5"
+      }
+    },
+    {
+      "id": "clm_60f9188e4120805024a0",
+      "subject": "孙权",
+      "predicate": "召见并询问鲁肃",
+      "object": "鲁肃探察江夏虚实的情况",
+      "statement": "孙权听到鲁肃回来后，立即召入并询问他前往江夏探察虚实的情况。",
+      "status": "disputed",
+      "confidence": {
+        "score": 0.2975,
+        "source_reliability": 0.35,
+        "extraction_quality": 1.0,
+        "resolution_quality": 1.0,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文称“聞魯肅回，急召入問曰：‘子敬往江夏，體探虛實若何？’”，明确表明孙权听闻鲁肃返回后急召其入内，并询问其前往江夏探察虚实的情况，与主张直接一致。；来源属于野史/文学传统，必须寻找独立史料互证"
+      },
+      "passage_ids": [
+        "p_46a32b6c143d19d0"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c7"
+      }
+    },
+    {
+      "id": "clm_6e57234cb84edf711600",
+      "subject": "養子嵩",
+      "predicate": "生出本末",
+      "object": "莫能審",
+      "statement": "没有人能审知養子嵩的生出本末。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.96,
+        "resolution_quality": 0.96,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载“莫能審其生出本末”，直接表示没有人能审知養子嵩的出生及身世始末，支持该主张。"
+      },
+      "passage_ids": [
+        "p_4ad82257bf11d11d"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c10"
+      }
+    },
+    {
+      "id": "clm_6e7a866244c2d14ff0d9",
+      "subject": "孙权",
+      "predicate": "聚集文武议事",
+      "object": "堂上",
+      "statement": "孙权正在堂上聚集文武议事。",
+      "status": "disputed",
+      "confidence": {
+        "score": 0.2975,
+        "source_reliability": 0.35,
+        "extraction_quality": 1.0,
+        "resolution_quality": 1.0,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文直接写道“權正聚文武於堂上議事”，与主张“孙权正在堂上聚集文武议事”在主体、地点和行为上均一致。；来源属于野史/文学传统，必须寻找独立史料互证"
+      },
+      "passage_ids": [
+        "p_46a32b6c143d19d0"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c6"
+      }
+    },
+    {
+      "id": "clm_78532c1552283ebfd459",
+      "subject": "橋玄",
+      "predicate": "认为可能安定天下者",
+      "object": "太祖武皇帝",
+      "statement": "橋玄说能够安定天下的人或许就是太祖武皇帝。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.93,
+        "resolution_quality": 0.93,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载橋玄对太祖说“能安之者，其在君乎”，意为能够安定天下的人或许就是您。与主张中“橋玄说能够安定天下的人或许就是太祖武皇帝”相符。"
+      },
+      "passage_ids": [
+        "p_84c2619bb8eac66d"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c17"
+      }
+    },
+    {
+      "id": "clm_93800c36fd040c20101d",
+      "subject": "鲁肃与孔明",
+      "predicate": "在船中共同商议",
+      "object": "未明确说明的事项",
+      "statement": "鲁肃与孔明在船中共同商议，但段落未明确说明商议的具体内容。",
+      "status": "disputed",
+      "confidence": {
+        "score": 0.2975,
+        "source_reliability": 0.35,
+        "extraction_quality": 1.0,
+        "resolution_quality": 1.0,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文支持鲁肃与孔明在舟中共同商议，但紧接着明确记载鲁肃劝孔明见孙将军时不可实言曹操兵多将广，已提供了商议内容。因此，关于“商议具体内容未明确说明”的表述不受原文支持。；来源属于野史/文学传统，必须寻找独立史料互证"
+      },
+      "passage_ids": [
+        "p_a10bcd15ee6b6d57"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c2"
+      }
+    },
+    {
+      "id": "clm_a120f9f56327d2ced273",
+      "subject": "鲁肃",
+      "predicate": "劝告孔明不要如实说明",
+      "object": "曹操兵多将广之事",
+      "statement": "鲁肃告诉孔明，见孙将军时切不可实言曹操兵多将广。",
+      "status": "disputed",
+      "confidence": {
+        "score": 0.2975,
+        "source_reliability": 0.35,
+        "extraction_quality": 1.0,
+        "resolution_quality": 1.0,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载“魯肅謂孔明曰：『先生見孫將軍，切不可實言曹操兵多將廣。』”，与主张内容直接对应。；来源属于野史/文学传统，必须寻找独立史料互证"
+      },
+      "passage_ids": [
+        "p_a10bcd15ee6b6d57"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c3"
+      }
+    },
+    {
+      "id": "clm_af278e3c784dd2b49d2e",
+      "subject": "橋玄与何顒",
+      "predicate": "对太祖的评价",
+      "object": "异焉",
+      "statement": "梁国的橋玄和南阳的何顒认为太祖武皇帝不同寻常。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.98,
+        "resolution_quality": 0.98,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确称“惟梁國橋玄、南陽何顒異焉”，说明梁国桥玄和南阳何颙认为太祖与众不同、非同寻常，直接支持该主张。"
+      },
+      "passage_ids": [
+        "p_5a7fbf84e29d907e"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c14"
+      }
+    },
+    {
+      "id": "clm_c90558dd7cea3959da91",
+      "subject": "太祖武皇帝",
+      "predicate": "籍贯是",
+      "object": "沛國譙",
+      "statement": "太祖武皇帝是沛國譙人。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.99,
+        "resolution_quality": 0.99,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载“太祖武皇帝，沛國譙人也”，直接支持其籍贯为沛國譙。"
+      },
+      "passage_ids": [
+        "p_81fc340fa6d0fbe6"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c1"
+      }
+    },
+    {
+      "id": "clm_cd698fd774aeb299c480",
+      "subject": "曹騰",
+      "predicate": "受封",
+      "object": "費亭侯",
+      "statement": "桓帝时期，曹騰被封为費亭侯。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.99,
+        "resolution_quality": 0.99,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载“桓帝世”曹騰“封費亭侯”，直接支持曹騰在桓帝时期被封为費亭侯。"
+      },
+      "passage_ids": [
+        "p_145a5d45afaa46c1"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c7"
+      }
+    },
+    {
+      "id": "clm_d78365fa6e873ac2654e",
+      "subject": "養子嵩",
+      "predicate": "最高官职达到",
+      "object": "太尉",
+      "statement": "養子嵩官至太尉。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.99,
+        "resolution_quality": 0.99,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载“養子嵩嗣，官至太尉”，直接支持“養子嵩官至太尉”的主张。"
+      },
+      "passage_ids": [
+        "p_4ad82257bf11d11d"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c9"
+      }
+    },
+    {
+      "id": "clm_e2ebf2972edc29ed564a",
+      "subject": "太祖武皇帝",
+      "predicate": "姓",
+      "object": "曹",
+      "statement": "太祖武皇帝姓曹。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.99,
+        "resolution_quality": 0.99,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载“姓曹”，直接支持“太祖武皇帝姓曹”的主张。"
+      },
+      "passage_ids": [
+        "p_81fc340fa6d0fbe6"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c2"
+      }
+    },
+    {
+      "id": "clm_e3d1af652c1bba83453f",
+      "subject": "孔明",
+      "predicate": "表示已有应答之语",
+      "object": "对孙将军的询问",
+      "statement": "孔明表示不需要子敬叮嘱，自己已有应答之语。",
+      "status": "disputed",
+      "confidence": {
+        "score": 0.2975,
+        "source_reliability": 0.35,
+        "extraction_quality": 1.0,
+        "resolution_quality": 1.0,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "引文“孔明曰：‘不須子敬叮嚀，亮自有對答之語。’”直接支持孔明表示无需子敬叮嘱、自己已有应答之语；但所给原文未交代应答对象确为孙将军，也存在来源性质方面的限制，因此仅部分支持。；来源属于野史/文学传统，必须寻找独立史料互证"
+      },
+      "passage_ids": [
+        "p_29d2791fb7d55464"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c4"
+      }
+    },
+    {
+      "id": "clm_e44a5ca909989459340e",
+      "subject": "太祖武皇帝",
+      "predicate": "少年时行为",
+      "object": "任俠放蕩、不治行業",
+      "statement": "太祖武皇帝少年时任侠放荡，不治理自己的事业。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.95,
+        "resolution_quality": 0.95,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载“太祖少”时“任俠放蕩，不治行業”，与主张中的少年时期任侠放荡、不治理事业完全对应。"
+      },
+      "passage_ids": [
+        "p_5a7fbf84e29d907e"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c12"
+      }
+    },
+    {
+      "id": "clm_e8f0763a44483417462d",
+      "subject": "養子嵩",
+      "predicate": "继承",
+      "object": "未明确说明的对象",
+      "statement": "養子嵩嗣，但段落未明确说明其继承的具体对象。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.98,
+        "resolution_quality": 0.98,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文“養子嵩嗣”明确表明养子嵩承嗣，但后文未交代其继承的具体对象。因此，主张关于其承嗣且对象未明确的表述得到原文支持。"
+      },
+      "passage_ids": [
+        "p_4ad82257bf11d11d"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c8"
+      }
+    }
+  ]
+}

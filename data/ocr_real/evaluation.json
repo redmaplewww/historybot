@@ -1,0 +1,1149 @@
+[
+  {
+    "slug": "sanguozhi_buzhi_fragment",
+    "file_title": "File:A Fragment of Biography of Bu Zhi History Books of Three Kingdoms 01 2012-12.JPG",
+    "source_page": "https://commons.wikimedia.org/wiki/File:A_Fragment_of_Biography_of_Bu_Zhi_History_Books_of_Three_Kingdoms_01_2012-12.JPG",
+    "description": "东晋隶书《三国志·步骘传》残卷，敦煌研究院藏。",
+    "source_institution": "敦煌研究院",
+    "page_id": 30381286,
+    "source_file_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/A_Fragment_of_Biography_of_Bu_Zhi_History_Books_of_Three_Kingdoms_01_2012-12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 4320,
+    "height": 3240,
+    "size_bytes": 2411187,
+    "license": "CC BY-SA 3.0",
+    "creator": "猫猫的日记本 (Cat's diary)",
+    "commons_description": "The remnants of the Records of the Three Kingdoms, the manuscript of the official script of the Eastern Jin Dynasty, 24.2 cm high, 42 cm wide. There are 25 lines and 440 words in this section (pictured). Preserved the second half of the biography and the first half of the commentary, collected by Dunhuang Research Institute.",
+    "local_file": "data\\ocr_real\\sanguozhi_buzhi_fragment.jpg",
+    "downloaded_bytes": 2411187,
+    "image": "data\\ocr_real\\sanguozhi_buzhi_fragment.jpg",
+    "models": [
+      {
+        "model": "rapidocr",
+        "elapsed_seconds": 13.232,
+        "id": "rec_sanguozhi_buzhi_fragment",
+        "raw_asset_id": "sanguozhi_buzhi_fragment",
+        "text": "1門生手不穆書被服居處有如生然門向\n朝等世氏派斌唯瑪熟礼\n赴牧孫皓遣隆执西行沽等道是执隔城舍\n付部．命車将單羊祐洲判史楊承往\n待领江大守政街江陵集事中宣威将\n牧封宜都公璨江陵軍事无将軍加业常\n陵军事将軍儀月三司加侍中假莆交州\n冬音遣璨弟瑁活陽为任晋以為都西\n七羊卒子协厂統丽热軍将軍卒\n本被澈命自以失几又耀有於是城背阵\n野西亭侯皇元丰名为烧帐黑世在西\n子璞角物弟魅業为西陵加路武将軍\n吉多家脊顺未爲九佳\n汉信性和得無喜怒不刑务督色而内\n妄服套以此见在西陵廿年\n家余来有术会者堂世君子旅不杰六百汇育有\n二九重朋三也医敬速四也急刚傷人学\n其大锦想其常患四音万巳急一心爭名朝\n少帘暖诸葛瑾幼張承日古今士\n名势败交重明业则主秀敬速失后吧四音\n儿周晒字茶与章曜羊察莹迷吴书",
+        "spans": [
+          {
+            "text": "1門生手不穆書被服居處有如生然門向",
+            "page": null,
+            "block": null,
+            "bbox": [
+              4028.225830078125,
+              359.7606506347656,
+              4280.806640625,
+              2766.06396484375,
+              4137.0966796875,
+              2781.143798828125,
+              3884.516357421875,
+              374.8404235839844
+            ],
+            "confidence": 0.7368856686003068,
+            "source": "rapidocr"
+          },
+          {
+            "text": "朝等世氏派斌唯瑪熟礼",
+            "page": null,
+            "block": null,
+            "bbox": [
+              1639.5968017578125,
+              426.5425720214844,
+              1783.3065185546875,
+              439.4681091308594,
+              1665.725830078125,
+              1844.0426025390625,
+              1522.0162353515625,
+              1831.1170654296875
+            ],
+            "confidence": 0.5859152302145958,
+            "source": "rapidocr"
+          },
+          {
+            "text": "赴牧孫皓遣隆执西行沽等道是执隔城舍",
+            "page": null,
+            "block": null,
+            "bbox": [
+              1809.435546875,
+              420.0798034667969,
+              1953.145263671875,
+              428.6968078613281,
+              1815.9677734375,
+              2884.5478515625,
+              1672.258056640625,
+              2875.930908203125
+            ],
+            "confidence": 0.6436116861946443,
+            "source": "rapidocr"
+          },
+          {
+            "text": "付部．命車将單羊祐洲判史楊承往",
+            "page": null,
+            "block": null,
+            "bbox": [
+              1990.161376953125,
+              428.6968078613281,
+              2140.4033203125,
+              435.1595764160156,
+              2018.4677734375,
+              2912.55322265625,
+              1868.225830078125,
+              2906.090576171875
+            ],
+            "confidence": 0.5495056996742884,
+            "source": "rapidocr"
+          },
+          {
+            "text": "待领江大守政街江陵集事中宣威将",
+            "page": null,
+            "block": null,
+            "bbox": [
+              2157.82275390625,
+              422.23406982421875,
+              2308.064697265625,
+              426.5425720214844,
+              2231.85498046875,
+              2936.25,
+              2081.613037109375,
+              2931.941650390625
+            ],
+            "confidence": 0.8142640670140584,
+            "source": "rapidocr"
+          },
+          {
+            "text": "牧封宜都公璨江陵軍事无将軍加业常",
+            "page": null,
+            "block": null,
+            "bbox": [
+              2325.48388671875,
+              435.1595764160156,
+              2469.193603515625,
+              437.3138427734375,
+              2427.82275390625,
+              2921.17041015625,
+              2284.113037109375,
+              2919.01611328125
+            ],
+            "confidence": 0.7031604833900928,
+            "source": "rapidocr"
+          },
+          {
+            "text": "陵军事将軍儀月三司加侍中假莆交州",
+            "page": null,
+            "block": null,
+            "bbox": [
+              2510.564697265625,
+              433.0053405761719,
+              2667.3388671875,
+              433.0053405761719,
+              2656.45166015625,
+              2923.324462890625,
+              2499.677490234375,
+              2923.324462890625
+            ],
+            "confidence": 0.7753528859466314,
+            "source": "rapidocr"
+          },
+          {
+            "text": "冬音遣璨弟瑁活陽为任晋以為都西",
+            "page": null,
+            "block": null,
+            "bbox": [
+              2673.87109375,
+              435.1595764160156,
+              2830.645263671875,
+              433.0053405761719,
+              2858.95166015625,
+              2916.86181640625,
+              2702.177490234375,
+              2919.01611328125
+            ],
+            "confidence": 0.6364555716514587,
+            "source": "rapidocr"
+          },
+          {
+            "text": "七羊卒子协厂統丽热軍将軍卒",
+            "page": null,
+            "block": null,
+            "bbox": [
+              3533.95166015625,
+              415.77130126953125,
+              3703.79052734375,
+              2910.39892578125,
+              3540.48388671875,
+              2921.17041015625,
+              3370.645263671875,
+              426.5425720214844
+            ],
+            "confidence": 0.5429244843813089,
+            "source": "rapidocr"
+          },
+          {
+            "text": "本被澈命自以失几又耀有於是城背阵",
+            "page": null,
+            "block": null,
+            "bbox": [
+              2839.35498046875,
+              452.3936462402344,
+              3004.8388671875,
+              445.9308776855469,
+              3087.580810546875,
+              2921.17041015625,
+              2922.096923828125,
+              2927.633056640625
+            ],
+            "confidence": 0.7069588759914041,
+            "source": "rapidocr"
+          },
+          {
+            "text": "野西亭侯皇元丰名为烧帐黑世在西",
+            "page": null,
+            "block": null,
+            "bbox": [
+              3028.79052734375,
+              443.776611328125,
+              3179.032470703125,
+              437.3138427734375,
+              3272.661376953125,
+              2886.7021484375,
+              3122.41943359375,
+              2893.1650390625
+            ],
+            "confidence": 0.6323207636674245,
+            "source": "rapidocr"
+          },
+          {
+            "text": "子璞角物弟魅業为西陵加路武将軍",
+            "page": null,
+            "block": null,
+            "bbox": [
+              3202.98388671875,
+              450.2393798828125,
+              3344.51611328125,
+              443.776611328125,
+              3479.516357421875,
+              2923.324462890625,
+              3337.98388671875,
+              2929.787353515625
+            ],
+            "confidence": 0.7034825762112935,
+            "source": "rapidocr"
+          },
+          {
+            "text": "吉多家脊顺未爲九佳",
+            "page": null,
+            "block": null,
+            "bbox": [
+              4211.12939453125,
+              437.3138427734375,
+              4317.82275390625,
+              1551.0638427734375,
+              4237.25830078125,
+              1566.1436767578125,
+              4093.548583984375,
+              452.3936462402344
+            ],
+            "confidence": 0.5852409932348464,
+            "source": "rapidocr"
+          },
+          {
+            "text": "汉信性和得無喜怒不刑务督色而内",
+            "page": null,
+            "block": null,
+            "bbox": [
+              3716.85498046875,
+              467.4734191894531,
+              3891.048583984375,
+              2744.521484375,
+              3745.161376953125,
+              2755.292724609375,
+              3570.9677734375,
+              478.24468994140625
+            ],
+            "confidence": 0.7295289814472199,
+            "source": "rapidocr"
+          },
+          {
+            "text": "妄服套以此见在西陵廿年",
+            "page": null,
+            "block": null,
+            "bbox": [
+              3856.209716796875,
+              458.85638427734375,
+              4054.35498046875,
+              2423.537353515625,
+              3923.709716796875,
+              2436.462890625,
+              3725.564697265625,
+              471.78192138671875
+            ],
+            "confidence": 0.6048373187130148,
+            "source": "rapidocr"
+          },
+          {
+            "text": "家余来有术会者堂世君子旅不杰六百汇育有",
+            "page": null,
+            "block": null,
+            "bbox": [
+              10.887097358703613,
+              2850.079833984375,
+              317.9032287597656,
+              415.77130126953125,
+              455.0806579589844,
+              430.85107421875,
+              148.06451416015625,
+              2865.15966796875
+            ],
+            "confidence": 0.6251008541960466,
+            "source": "rapidocr"
+          },
+          {
+            "text": "二九重朋三也医敬速四也急刚傷人学",
+            "page": null,
+            "block": null,
+            "bbox": [
+              391.93548583984375,
+              2852.234130859375,
+              648.8709716796875,
+              420.0798034667969,
+              772.98388671875,
+              433.0053405761719,
+              516.0484008789062,
+              2865.15966796875
+            ],
+            "confidence": 0.756454311311245,
+            "source": "rapidocr"
+          },
+          {
+            "text": "其大锦想其常患四音万巳急一心爭名朝",
+            "page": null,
+            "block": null,
+            "bbox": [
+              579.1935424804688,
+              2852.234130859375,
+              812.1774291992188,
+              415.77130126953125,
+              971.1290893554688,
+              430.85107421875,
+              738.1452026367188,
+              2867.31396484375
+            ],
+            "confidence": 0.6748354601509431,
+            "source": "rapidocr"
+          },
+          {
+            "text": "少帘暖诸葛瑾幼張承日古今士",
+            "page": null,
+            "block": null,
+            "bbox": [
+              1019.0322875976562,
+              2845.771484375,
+              1219.3548583984375,
+              465.31915283203125,
+              1376.1290283203125,
+              478.24468994140625,
+              1175.8065185546875,
+              2858.697021484375
+            ],
+            "confidence": 0.7145603069892297,
+            "source": "rapidocr"
+          },
+          {
+            "text": "名势败交重明业则主秀敬速失后吧四音",
+            "page": null,
+            "block": null,
+            "bbox": [
+              174.1935577392578,
+              2886.7021484375,
+              465.9677429199219,
+              409.30853271484375,
+              622.741943359375,
+              428.6968078613281,
+              330.9677429199219,
+              2906.090576171875
+            ],
+            "confidence": 0.5057762335328495,
+            "source": "rapidocr"
+          },
+          {
+            "text": "儿周晒字茶与章曜羊察莹迷吴书",
+            "page": null,
+            "block": null,
+            "bbox": [
+              1258.5484619140625,
+              2927.633056640625,
+              1428.3870849609375,
+              441.6223449707031,
+              1565.5645751953125,
+              450.2393798828125,
+              1395.725830078125,
+              2936.25
+            ],
+            "confidence": 0.6046754951987948,
+            "source": "rapidocr"
+          }
+        ],
+        "language": "und",
+        "processor": "rapidocr",
+        "processor_version": "rapidocr-onnxruntime-1.4",
+        "confidence": 0.6586594260815094,
+        "needs_review": true,
+        "metadata": {
+          "elapsed": [
+            3.5491435999865644,
+            0.06799745559692383,
+            7.475345849990845
+          ],
+          "engine": "onnxruntime"
+        }
+      },
+      {
+        "model": "trocr-printed",
+        "elapsed_seconds": 18.787,
+        "id": "rec_sanguozhi_buzhi_fragment",
+        "raw_asset_id": "sanguozhi_buzhi_fragment",
+        "text": "AMOUNT",
+        "spans": [
+          {
+            "text": "AMOUNT",
+            "page": null,
+            "block": null,
+            "bbox": null,
+            "confidence": 0.6707850694656372,
+            "source": "microsoft/trocr-small-printed"
+          }
+        ],
+        "language": "und",
+        "processor": "trocr",
+        "processor_version": "transformers-trocr",
+        "confidence": 0.6707850694656372,
+        "needs_review": true,
+        "metadata": {
+          "model": "microsoft/trocr-small-printed",
+          "device": "cpu",
+          "note": "TrOCR is line-level OCR; layout detection remains separate",
+          "confidence_method": "mean generated-token probability"
+        }
+      },
+      {
+        "model": "trocr-handwritten",
+        "elapsed_seconds": 7.717,
+        "id": "rec_sanguozhi_buzhi_fragment",
+        "raw_asset_id": "sanguozhi_buzhi_fragment",
+        "text": "Add links",
+        "spans": [
+          {
+            "text": "Add links",
+            "page": null,
+            "block": null,
+            "bbox": null,
+            "confidence": 0.19652016460895538,
+            "source": "microsoft/trocr-small-handwritten"
+          }
+        ],
+        "language": "und",
+        "processor": "trocr",
+        "processor_version": "transformers-trocr",
+        "confidence": 0.19652016460895538,
+        "needs_review": true,
+        "metadata": {
+          "model": "microsoft/trocr-small-handwritten",
+          "device": "cpu",
+          "note": "TrOCR is line-level OCR; layout detection remains separate",
+          "confidence_method": "mean generated-token probability"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "zhu_yuanzhang_edict",
+    "file_title": "File:Manuscript of Zhu Yuanzhang, Collection of the Wuxi Museum.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Manuscript_of_Zhu_Yuanzhang,_Collection_of_the_Wuxi_Museum.jpg",
+    "description": "无锡博物院藏朱元璋吴王手谕卷。",
+    "source_institution": "无锡博物院",
+    "page_id": 95366559,
+    "source_file_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Manuscript_of_Zhu_Yuanzhang%2C_Collection_of_the_Wuxi_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 4032,
+    "height": 3024,
+    "size_bytes": 2643557,
+    "license": "CC BY-SA 4.0",
+    "creator": "(Zhu Yuanzhang) 朱元璋",
+    "commons_description": "Wuxi Museum Collection, Zhu Yuanzhang and King Wu's Hand Edict Scroll",
+    "local_file": "data\\ocr_real\\zhu_yuanzhang_edict.jpg",
+    "downloaded_bytes": 2643557,
+    "image": "data\\ocr_real\\zhu_yuanzhang_edict.jpg",
+    "models": [
+      {
+        "model": "rapidocr",
+        "elapsed_seconds": 4.436,
+        "id": "rec_zhu_yuanzhang_edict",
+        "raw_asset_id": "zhu_yuanzhang_edict",
+        "text": "灵王筝羌人至軍前\n断了宰内丽禁張首\n什五日二更二照都府\n第中典利业自十月二\n人等不解丰就帐\n就连礼到农军及首\n教庄相國達知會合\n公情一双解军书的\n特\n湾业快命根轩\n掌去随时很至\n二枣\n日",
+        "spans": [
+          {
+            "text": "灵王筝羌人至軍前",
+            "page": null,
+            "block": null,
+            "bbox": [
+              2680.54833984375,
+              854.521240234375,
+              2828.903076171875,
+              840.44677734375,
+              2952.870849609375,
+              2205.670166015625,
+              2804.51611328125,
+              2219.74462890625
+            ],
+            "confidence": 0.6731835938990116,
+            "source": "rapidocr"
+          },
+          {
+            "text": "断了宰内丽禁張首",
+            "page": null,
+            "block": null,
+            "bbox": [
+              1822.9354248046875,
+              918.8616943359375,
+              2011.9354248046875,
+              936.9573974609375,
+              1879.838623046875,
+              2247.8935546875,
+              1690.838623046875,
+              2229.7978515625
+            ],
+            "confidence": 0.7301807180047035,
+            "source": "rapidocr"
+          },
+          {
+            "text": "什五日二更二照都府",
+            "page": null,
+            "block": null,
+            "bbox": [
+              1948.9354248046875,
+              936.9573974609375,
+              2105.41943359375,
+              945.0,
+              2038.3548583984375,
+              2219.74462890625,
+              1881.8709716796875,
+              2211.7021484375
+            ],
+            "confidence": 0.9074917369418674,
+            "source": "rapidocr"
+          },
+          {
+            "text": "第中典利业自十月二",
+            "page": null,
+            "block": null,
+            "bbox": [
+              2072.903076171875,
+              949.021240234375,
+              2241.58056640625,
+              953.0425415039062,
+              2207.0322265625,
+              2221.75537109375,
+              2038.3548583984375,
+              2217.73388671875
+            ],
+            "confidence": 0.8824216392305162,
+            "source": "rapidocr"
+          },
+          {
+            "text": "人等不解丰就帐",
+            "page": null,
+            "block": null,
+            "bbox": [
+              2180.61279296875,
+              953.0425415039062,
+              2385.870849609375,
+              947.0106201171875,
+              2426.51611328125,
+              2227.787109375,
+              2221.258056640625,
+              2233.819091796875
+            ],
+            "confidence": 0.7079390393836158,
+            "source": "rapidocr"
+          },
+          {
+            "text": "就连礼到农军及首",
+            "page": null,
+            "block": null,
+            "bbox": [
+              2353.354736328125,
+              963.095703125,
+              2507.806396484375,
+              951.0318603515625,
+              2607.386962890625,
+              2131.276611328125,
+              2452.935546875,
+              2143.34033203125
+            ],
+            "confidence": 0.6455603018403053,
+            "source": "rapidocr"
+          },
+          {
+            "text": "教庄相國達知會合",
+            "page": null,
+            "block": null,
+            "bbox": [
+              2513.903076171875,
+              953.0425415039062,
+              2702.903076171875,
+              934.94677734375,
+              2826.870849609375,
+              2221.75537109375,
+              2637.870849609375,
+              2239.85107421875
+            ],
+            "confidence": 0.5199396833777428,
+            "source": "rapidocr"
+          },
+          {
+            "text": "公情一双解军书的",
+            "page": null,
+            "block": null,
+            "bbox": [
+              1402.258056640625,
+              997.2765502929688,
+              1562.806396484375,
+              1015.372314453125,
+              1434.774169921875,
+              2209.69140625,
+              1274.225830078125,
+              2191.595703125
+            ],
+            "confidence": 0.6647164523601532,
+            "source": "rapidocr"
+          },
+          {
+            "text": "特",
+            "page": null,
+            "block": null,
+            "bbox": [
+              1412.4193115234375,
+              981.1914672851562,
+              1524.1934814453125,
+              934.94677734375,
+              1570.9354248046875,
+              1045.5318603515625,
+              1459.1612548828125,
+              1091.776611328125
+            ],
+            "confidence": 0.9703719019889832,
+            "source": "rapidocr"
+          },
+          {
+            "text": "湾业快命根轩",
+            "page": null,
+            "block": null,
+            "bbox": [
+              1089.290283203125,
+              1031.4573974609375,
+              1294.54833984375,
+              1065.6383056640625,
+              1099.4515380859375,
+              2213.712646484375,
+              894.1935424804688,
+              2179.53173828125
+            ],
+            "confidence": 0.521616205573082,
+            "source": "rapidocr"
+          },
+          {
+            "text": "掌去随时很至",
+            "page": null,
+            "block": null,
+            "bbox": [
+              1247.806396484375,
+              1037.4893798828125,
+              1424.6129150390625,
+              1061.616943359375,
+              1266.0968017578125,
+              2211.7021484375,
+              1089.290283203125,
+              2187.574462890625
+            ],
+            "confidence": 0.6579138487577438,
+            "source": "rapidocr"
+          },
+          {
+            "text": "二枣",
+            "page": null,
+            "block": null,
+            "bbox": [
+              1446.9677734375,
+              1968.414794921875,
+              1538.4193115234375,
+              1970.4254150390625,
+              1532.322509765625,
+              2199.63818359375,
+              1440.8709716796875,
+              2197.627685546875
+            ],
+            "confidence": 0.7084234952926636,
+            "source": "rapidocr"
+          },
+          {
+            "text": "日",
+            "page": null,
+            "block": null,
+            "bbox": [
+              2493.58056640625,
+              2083.021240234375,
+              2560.64501953125,
+              2070.957275390625,
+              2583.0,
+              2209.69140625,
+              2517.9677734375,
+              2221.75537109375
+            ],
+            "confidence": 0.5772737860679626,
+            "source": "rapidocr"
+          }
+        ],
+        "language": "und",
+        "processor": "rapidocr",
+        "processor_version": "rapidocr-onnxruntime-1.4",
+        "confidence": 0.7051563386706424,
+        "needs_review": true,
+        "metadata": {
+          "elapsed": [
+            1.2759691000101157,
+            0.0290067195892334,
+            2.819059133529663
+          ],
+          "engine": "onnxruntime"
+        }
+      },
+      {
+        "model": "trocr-printed",
+        "elapsed_seconds": 0.952,
+        "id": "rec_zhu_yuanzhang_edict",
+        "raw_asset_id": "zhu_yuanzhang_edict",
+        "text": "PERMAN",
+        "spans": [
+          {
+            "text": "PERMAN",
+            "page": null,
+            "block": null,
+            "bbox": null,
+            "confidence": 0.34001168608665466,
+            "source": "microsoft/trocr-small-printed"
+          }
+        ],
+        "language": "und",
+        "processor": "trocr",
+        "processor_version": "transformers-trocr",
+        "confidence": 0.34001168608665466,
+        "needs_review": true,
+        "metadata": {
+          "model": "microsoft/trocr-small-printed",
+          "device": "cpu",
+          "note": "TrOCR is line-level OCR; layout detection remains separate",
+          "confidence_method": "mean generated-token probability"
+        }
+      },
+      {
+        "model": "trocr-handwritten",
+        "elapsed_seconds": 8.898,
+        "id": "rec_zhu_yuanzhang_edict",
+        "raw_asset_id": "zhu_yuanzhang_edict",
+        "text": "0 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000",
+        "spans": [
+          {
+            "text": "0 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000",
+            "page": null,
+            "block": null,
+            "bbox": null,
+            "confidence": 0.4764053523540497,
+            "source": "microsoft/trocr-small-handwritten"
+          }
+        ],
+        "language": "und",
+        "processor": "trocr",
+        "processor_version": "transformers-trocr",
+        "confidence": 0.4764053523540497,
+        "needs_review": true,
+        "metadata": {
+          "model": "microsoft/trocr-small-handwritten",
+          "device": "cpu",
+          "note": "TrOCR is line-level OCR; layout detection remains separate",
+          "confidence_method": "mean generated-token probability"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "pelliot_chinois_4646",
+    "file_title": "File:Pelliot chinois 4646.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Pelliot_chinois_4646.jpg",
+    "description": "Pelliot chinois 4646 敦煌写本图像。",
+    "source_institution": "法国国家图书馆（馆藏编号 Pelliot chinois 4646）",
+    "page_id": 26720635,
+    "source_file_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Pelliot_chinois_4646.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 5100,
+    "height": 6600,
+    "size_bytes": 3754797,
+    "license": "Public domain",
+    "creator": "Wang Xi; 前河西觀察判官、朝散大夫、殿中侍御史王錫",
+    "commons_description": "Page 129 of the manuscript Pelliot chinois 4646. This page is part of Dun wu da cheng zheng li jue(頓悟大乘正理決), which refers to an edict on Jan 15, 794 in which Trisong Detsen permits the doctrine of Moheyan",
+    "local_file": "data\\ocr_real\\pelliot_chinois_4646.jpg",
+    "downloaded_bytes": 3754797,
+    "image": "data\\ocr_real\\pelliot_chinois_4646.jpg",
+    "models": [
+      {
+        "model": "rapidocr",
+        "elapsed_seconds": 9.551,
+        "id": "rec_pelliot_chinois_4646",
+        "raw_asset_id": "pelliot_chinois_4646",
+        "text": "亮\n想妄想習乘開巫方大来經者何名大来聘加经日有妄想见\n金酬经及大無經清云一切安想習氣则为诸佛万人合看心除一切\n其万間\n畅经文一无羌錯後今已後任道浴依法循看小子非丰大師徐谓锡目公文墨者\n開日今看心除\n军看大兼旗楊然勇至戌年正月十五大宣，站命日季河行万開禅义家\n婆羅門莓万目暴看破瞻魂景循墙懷惠股既小来乱复\n餘人皆深悟真理同高奏日若禅法不行语茅詩畫脱装裟委命满\n解霜刀日吾\n方已摧锋猎思柜遂眩大后結用有吐眷僧乞奢弥尸磨\n之春霸枫遥天愉寶镜以臨轩明乡泉像婆阴业随言理压的义\n習氣出何经文，惟佛頂经云一根既及源六根威\n為题目燕制叙因目為情大来心理法\n不思见用童相结禅法遂而死美又有味蕃僧册\n聚诗契禅枝為法指何曾已或頭燃大身",
+        "spans": [
+          {
+            "text": "亮",
+            "page": null,
+            "block": null,
+            "bbox": [
+              1716.6015625,
+              249.4959716796875,
+              1866.015625,
+              249.4959716796875,
+              1866.015625,
+              439.1129150390625,
+              1716.6015625,
+              439.1129150390625
+            ],
+            "confidence": 0.8253860473632812,
+            "source": "rapidocr"
+          },
+          {
+            "text": "想妄想習乘開巫方大来經者何名大来聘加经日有妄想见",
+            "page": null,
+            "block": null,
+            "bbox": [
+              547.8515625,
+              465.7257995605469,
+              820.1171875,
+              465.7257995605469,
+              859.9609375,
+              6147.58056640625,
+              587.6953125,
+              6147.58056640625
+            ],
+            "confidence": 0.717752285922567,
+            "source": "rapidocr"
+          },
+          {
+            "text": "金酬经及大無經清云一切安想習氣则为诸佛万人合看心除一切",
+            "page": null,
+            "block": null,
+            "bbox": [
+              873.2421875,
+              495.66534423828125,
+              1135.546875,
+              495.66534423828125,
+              1175.390625,
+              6097.681640625,
+              913.0859375,
+              6097.681640625
+            ],
+            "confidence": 0.6996392729105773,
+            "source": "rapidocr"
+          },
+          {
+            "text": "其万間",
+            "page": null,
+            "block": null,
+            "bbox": [
+              1527.34375,
+              482.35888671875,
+              1763.0859375,
+              472.3790283203125,
+              1796.2890625,
+              1480.3427734375,
+              1560.546875,
+              1490.3226318359375
+            ],
+            "confidence": 0.514954666296641,
+            "source": "rapidocr"
+          },
+          {
+            "text": "畅经文一无羌錯後今已後任道浴依法循看小子非丰大師徐谓锡目公文墨者",
+            "page": null,
+            "block": null,
+            "bbox": [
+              1852.734375,
+              475.7056579589844,
+              2134.9609375,
+              475.7056579589844,
+              2161.5234375,
+              6177.52001953125,
+              1879.296875,
+              6177.52001953125
+            ],
+            "confidence": 0.7599806990474463,
+            "source": "rapidocr"
+          },
+          {
+            "text": "開日今看心除",
+            "page": null,
+            "block": null,
+            "bbox": [
+              1195.3125,
+              522.2782592773438,
+              1431.0546875,
+              512.2984008789062,
+              1477.5390625,
+              1566.834716796875,
+              1241.796875,
+              1576.8145751953125
+            ],
+            "confidence": 0.7345740993817648,
+            "source": "rapidocr"
+          },
+          {
+            "text": "军看大兼旗楊然勇至戌年正月十五大宣，站命日季河行万開禅义家",
+            "page": null,
+            "block": null,
+            "bbox": [
+              2168.1640625,
+              498.991943359375,
+              2410.546875,
+              498.991943359375,
+              2417.1875,
+              6157.560546875,
+              2174.8046875,
+              6157.560546875
+            ],
+            "confidence": 0.8020476143935631,
+            "source": "rapidocr"
+          },
+          {
+            "text": "婆羅門莓万目暴看破瞻魂景循墙懷惠股既小来乱复",
+            "page": null,
+            "block": null,
+            "bbox": [
+              2682.8125,
+              498.991943359375,
+              2975.0,
+              498.991943359375,
+              3018.1640625,
+              6134.2744140625,
+              2725.9765625,
+              6134.2744140625
+            ],
+            "confidence": 0.6840782924131914,
+            "source": "rapidocr"
+          },
+          {
+            "text": "餘人皆深悟真理同高奏日若禅法不行语茅詩畫脱装裟委命满",
+            "page": null,
+            "block": null,
+            "bbox": [
+              3024.8046875,
+              522.2782592773438,
+              3287.109375,
+              522.2782592773438,
+              3297.0703125,
+              6087.70166015625,
+              3034.765625,
+              6087.70166015625
+            ],
+            "confidence": 0.6915613516018941,
+            "source": "rapidocr"
+          },
+          {
+            "text": "解霜刀日吾",
+            "page": null,
+            "block": null,
+            "bbox": [
+              3336.9140625,
+              545.5645141601562,
+              3562.6953125,
+              532.258056640625,
+              3625.78125,
+              1510.2822265625,
+              3400.0,
+              1523.5887451171875
+            ],
+            "confidence": 0.8630748391151428,
+            "source": "rapidocr"
+          },
+          {
+            "text": "方已摧锋猎思柜遂眩大后結用有吐眷僧乞奢弥尸磨",
+            "page": null,
+            "block": null,
+            "bbox": [
+              3971.09375,
+              515.625,
+              4220.1171875,
+              515.625,
+              4170.3125,
+              6107.6611328125,
+              3921.2890625,
+              6107.6611328125
+            ],
+            "confidence": 0.6733819273385134,
+            "source": "rapidocr"
+          },
+          {
+            "text": "之春霸枫遥天愉寶镜以臨轩明乡泉像婆阴业随言理压的义",
+            "page": null,
+            "block": null,
+            "bbox": [
+              4283.203125,
+              532.258056640625,
+              4555.46875,
+              532.258056640625,
+              4518.9453125,
+              6114.314453125,
+              4246.6796875,
+              6114.314453125
+            ],
+            "confidence": 0.6846732145547867,
+            "source": "rapidocr"
+          },
+          {
+            "text": "習氣出何经文，惟佛頂经云一根既及源六根威",
+            "page": null,
+            "block": null,
+            "bbox": [
+              1218.5546875,
+              1942.741943359375,
+              1460.9375,
+              1942.741943359375,
+              1484.1796875,
+              6127.62109375,
+              1241.796875,
+              6127.62109375
+            ],
+            "confidence": 0.808077035844326,
+            "source": "rapidocr"
+          },
+          {
+            "text": "為题目燕制叙因目為情大来心理法",
+            "page": null,
+            "block": null,
+            "bbox": [
+              1527.34375,
+              1929.435546875,
+              1776.3671875,
+              1926.10888671875,
+              1822.8515625,
+              5222.7822265625,
+              1573.828125,
+              5226.10888671875
+            ],
+            "confidence": 0.7536396086215973,
+            "source": "rapidocr"
+          },
+          {
+            "text": "不思见用童相结禅法遂而死美又有味蕃僧册",
+            "page": null,
+            "block": null,
+            "bbox": [
+              3363.4765625,
+              1939.4154052734375,
+              3602.5390625,
+              1939.4154052734375,
+              3566.015625,
+              6047.7822265625,
+              3326.953125,
+              6047.7822265625
+            ],
+            "confidence": 0.7534861807760439,
+            "source": "rapidocr"
+          },
+          {
+            "text": "聚诗契禅枝為法指何曾已或頭燃大身",
+            "page": null,
+            "block": null,
+            "bbox": [
+              3652.34375,
+              1936.0887451171875,
+              3904.6875,
+              1939.4154052734375,
+              3848.2421875,
+              6134.2744140625,
+              3595.8984375,
+              6130.94775390625
+            ],
+            "confidence": 0.6900856029242277,
+            "source": "rapidocr"
+          }
+        ],
+        "language": "und",
+        "processor": "rapidocr",
+        "processor_version": "rapidocr-onnxruntime-1.4",
+        "confidence": 0.7285245461565978,
+        "needs_review": true,
+        "metadata": {
+          "elapsed": [
+            3.3536808000062592,
+            0.08500194549560547,
+            5.423978090286255
+          ],
+          "engine": "onnxruntime"
+        }
+      },
+      {
+        "model": "trocr-printed",
+        "elapsed_seconds": 1.727,
+        "id": "rec_pelliot_chinois_4646",
+        "raw_asset_id": "pelliot_chinois_4646",
+        "text": "TAX",
+        "spans": [
+          {
+            "text": "TAX",
+            "page": null,
+            "block": null,
+            "bbox": null,
+            "confidence": 0.7794912457466125,
+            "source": "microsoft/trocr-small-printed"
+          }
+        ],
+        "language": "und",
+        "processor": "trocr",
+        "processor_version": "transformers-trocr",
+        "confidence": 0.7794912457466125,
+        "needs_review": true,
+        "metadata": {
+          "model": "microsoft/trocr-small-printed",
+          "device": "cpu",
+          "note": "TrOCR is line-level OCR; layout detection remains separate",
+          "confidence_method": "mean generated-token probability"
+        }
+      },
+      {
+        "model": "trocr-handwritten",
+        "elapsed_seconds": 11.943,
+        "id": "rec_pelliot_chinois_4646",
+        "raw_asset_id": "pelliot_chinois_4646",
+        "text": "4 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000",
+        "spans": [
+          {
+            "text": "4 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000",
+            "page": null,
+            "block": null,
+            "bbox": null,
+            "confidence": 0.18539689481258392,
+            "source": "microsoft/trocr-small-handwritten"
+          }
+        ],
+        "language": "und",
+        "processor": "trocr",
+        "processor_version": "transformers-trocr",
+        "confidence": 0.18539689481258392,
+        "needs_review": true,
+        "metadata": {
+          "model": "microsoft/trocr-small-handwritten",
+          "device": "cpu",
+          "note": "TrOCR is line-level OCR; layout detection remains separate",
+          "confidence_method": "mean generated-token probability"
+        }
+      }
+    ]
+  }
+]

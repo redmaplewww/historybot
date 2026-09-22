@@ -1,0 +1,587 @@
+{
+  "mode": "codex-manual-replay",
+  "source_note": "真实《三国志》段落；外部模型网关未参与本次成功运行。",
+  "runs": [
+    {
+      "run_id": "read_91f3fa1f0bd84fca9f95",
+      "status": "verified",
+      "read_units": 9,
+      "total_units": 9,
+      "verification": {
+        "items": [
+          {
+            "unit_id": "unit_p_81fc340fa6d0fbe6",
+            "supported": true,
+            "missing": [],
+            "errors": [],
+            "rationale": "引文与原段逐字匹配，结构化主张未超出原文。"
+          },
+          {
+            "unit_id": "unit_p_145a5d45afaa46c1",
+            "supported": true,
+            "missing": [],
+            "errors": [],
+            "rationale": "引文与原段逐字匹配，结构化主张未超出原文。"
+          },
+          {
+            "unit_id": "unit_p_4ad82257bf11d11d",
+            "supported": true,
+            "missing": [],
+            "errors": [],
+            "rationale": "引文与原段逐字匹配，结构化主张未超出原文。"
+          },
+          {
+            "unit_id": "unit_p_5a7fbf84e29d907e",
+            "supported": true,
+            "missing": [],
+            "errors": [],
+            "rationale": "引文与原段逐字匹配，结构化主张未超出原文。"
+          },
+          {
+            "unit_id": "unit_p_84c2619bb8eac66d",
+            "supported": true,
+            "missing": [],
+            "errors": [],
+            "rationale": "引文与原段逐字匹配，结构化主张未超出原文。"
+          },
+          {
+            "unit_id": "unit_p_3d67bfd5eb6d0fa0",
+            "supported": true,
+            "missing": [],
+            "errors": [],
+            "rationale": "引文与原段逐字匹配，结构化主张未超出原文。"
+          },
+          {
+            "unit_id": "unit_p_8f14109733a594cd",
+            "supported": true,
+            "missing": [],
+            "errors": [],
+            "rationale": "引文与原段逐字匹配，结构化主张未超出原文。"
+          },
+          {
+            "unit_id": "unit_p_53bb20a56f810492",
+            "supported": true,
+            "missing": [],
+            "errors": [],
+            "rationale": "引文与原段逐字匹配，结构化主张未超出原文。"
+          },
+          {
+            "unit_id": "unit_p_5288e05bcd6d4d6c",
+            "supported": true,
+            "missing": [],
+            "errors": [],
+            "rationale": "引文与原段逐字匹配，结构化主张未超出原文。"
+          }
+        ],
+        "overall_supported": true,
+        "summary": "逐段复核通过。"
+      },
+      "draft_ids": [
+        "draft_read_91f3fa1f0bd84fca9f95_unit_p_81fc340fa6d0fbe6",
+        "draft_read_91f3fa1f0bd84fca9f95_unit_p_145a5d45afaa46c1",
+        "draft_read_91f3fa1f0bd84fca9f95_unit_p_4ad82257bf11d11d",
+        "draft_read_91f3fa1f0bd84fca9f95_unit_p_5a7fbf84e29d907e",
+        "draft_read_91f3fa1f0bd84fca9f95_unit_p_84c2619bb8eac66d",
+        "draft_read_91f3fa1f0bd84fca9f95_unit_p_3d67bfd5eb6d0fa0",
+        "draft_read_91f3fa1f0bd84fca9f95_unit_p_8f14109733a594cd",
+        "draft_read_91f3fa1f0bd84fca9f95_unit_p_53bb20a56f810492",
+        "draft_read_91f3fa1f0bd84fca9f95_unit_p_5288e05bcd6d4d6c"
+      ],
+      "graph": {
+        "entities": 10,
+        "aliases": 2,
+        "events": 9,
+        "claims": 9,
+        "evidence": 9
+      }
+    },
+    {
+      "run_id": "read_cc607961509a4b7eb409",
+      "status": "verified",
+      "read_units": 9,
+      "total_units": 9,
+      "verification": {
+        "items": [
+          {
+            "unit_id": "unit_p_8c5c70ed757468bd",
+            "supported": true,
+            "missing": [],
+            "errors": [],
+            "rationale": "引文与原段逐字匹配，结构化主张未超出原文。"
+          },
+          {
+            "unit_id": "unit_p_60eda70ab150f349",
+            "supported": true,
+            "missing": [],
+            "errors": [],
+            "rationale": "引文与原段逐字匹配，结构化主张未超出原文。"
+          },
+          {
+            "unit_id": "unit_p_3f451cfbf50a895a",
+            "supported": true,
+            "missing": [],
+            "errors": [],
+            "rationale": "引文与原段逐字匹配，结构化主张未超出原文。"
+          },
+          {
+            "unit_id": "unit_p_165f0c265428cf68",
+            "supported": true,
+            "missing": [],
+            "errors": [],
+            "rationale": "引文与原段逐字匹配，结构化主张未超出原文。"
+          },
+          {
+            "unit_id": "unit_p_2b4023c41b1b2e44",
+            "supported": true,
+            "missing": [],
+            "errors": [],
+            "rationale": "引文与原段逐字匹配，结构化主张未超出原文。"
+          },
+          {
+            "unit_id": "unit_p_b7443c992302d880",
+            "supported": true,
+            "missing": [],
+            "errors": [],
+            "rationale": "引文与原段逐字匹配，结构化主张未超出原文。"
+          },
+          {
+            "unit_id": "unit_p_159d80fd25f2f2db",
+            "supported": true,
+            "missing": [],
+            "errors": [],
+            "rationale": "引文与原段逐字匹配，结构化主张未超出原文。"
+          },
+          {
+            "unit_id": "unit_p_b2db335c81ffddd4",
+            "supported": true,
+            "missing": [],
+            "errors": [],
+            "rationale": "引文与原段逐字匹配，结构化主张未超出原文。"
+          },
+          {
+            "unit_id": "unit_p_b8ed31dd1cbe135b",
+            "supported": true,
+            "missing": [],
+            "errors": [],
+            "rationale": "引文与原段逐字匹配，结构化主张未超出原文。"
+          }
+        ],
+        "overall_supported": true,
+        "summary": "逐段复核通过。"
+      },
+      "draft_ids": [
+        "draft_read_cc607961509a4b7eb409_unit_p_8c5c70ed757468bd",
+        "draft_read_cc607961509a4b7eb409_unit_p_60eda70ab150f349",
+        "draft_read_cc607961509a4b7eb409_unit_p_3f451cfbf50a895a",
+        "draft_read_cc607961509a4b7eb409_unit_p_165f0c265428cf68",
+        "draft_read_cc607961509a4b7eb409_unit_p_2b4023c41b1b2e44",
+        "draft_read_cc607961509a4b7eb409_unit_p_b7443c992302d880",
+        "draft_read_cc607961509a4b7eb409_unit_p_159d80fd25f2f2db",
+        "draft_read_cc607961509a4b7eb409_unit_p_b2db335c81ffddd4",
+        "draft_read_cc607961509a4b7eb409_unit_p_b8ed31dd1cbe135b"
+      ],
+      "graph": {
+        "entities": 10,
+        "aliases": 1,
+        "events": 9,
+        "claims": 9,
+        "evidence": 9
+      }
+    }
+  ],
+  "database_counts": {
+    "sources": 2,
+    "passages": 18,
+    "entities": 18,
+    "entity_aliases": 3,
+    "events": 18,
+    "relations": 18,
+    "timeline_entries": 1,
+    "place_assertions": 8,
+    "claims": 18,
+    "evidence": 18,
+    "conflicts": 0,
+    "conflict_candidates": 0,
+    "review_feedback": 0,
+    "evolution_snapshots": 0,
+    "audit_log": 115
+  },
+  "graph_counts": {
+    "nodes": 31,
+    "edges": 49
+  },
+  "integrity": {
+    "relations_missing_claim": 0,
+    "claims_without_evidence": 0,
+    "evidence_missing_passage": 0,
+    "passages_without_claim_evidence": 0
+  },
+  "evidence_coverage": 1.0,
+  "aliases": [
+    {
+      "canonical_surface": "曹操",
+      "alias_surface": "太祖",
+      "relation": "简称",
+      "passage_id": "p_81fc340fa6d0fbe6",
+      "confidence": 0.99,
+      "id": "alias_v2_528f8d6b735b14778b6b",
+      "status": "verified",
+      "run_id": "read_91f3fa1f0bd84fca9f95",
+      "unit_id": "unit_p_81fc340fa6d0fbe6"
+    },
+    {
+      "canonical_surface": "董卓",
+      "alias_surface": "卓",
+      "relation": "简称",
+      "passage_id": "p_3f451cfbf50a895a",
+      "confidence": 0.99,
+      "id": "alias_v2_6e1d54d51778897547e4",
+      "status": "verified",
+      "run_id": "read_cc607961509a4b7eb409",
+      "unit_id": "unit_p_3f451cfbf50a895a"
+    },
+    {
+      "canonical_surface": "曹操",
+      "alias_surface": "孟德",
+      "relation": "字",
+      "passage_id": "p_81fc340fa6d0fbe6",
+      "confidence": 0.99,
+      "id": "alias_v2_9c64da4b1a8306485861",
+      "status": "verified",
+      "run_id": "read_91f3fa1f0bd84fca9f95",
+      "unit_id": "unit_p_81fc340fa6d0fbe6"
+    }
+  ],
+  "sample_claims": [
+    {
+      "id": "clm_v2_14466a243f033cba29c5",
+      "subject": "曹操",
+      "predicate": "获释地点",
+      "object": "中牟",
+      "statement": "曹操经过中牟时被亭长怀疑并押往县衙，后经人求情获释。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.96,
+        "source_reliability": 0.96,
+        "extraction_quality": 0.96,
+        "resolution_quality": 0.96,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "引文与原段逐字匹配，结构化主张未超出原文。"
+      },
+      "passage_ids": [
+        "p_159d80fd25f2f2db"
+      ],
+      "event_id": "evt_v2_e369c3234de37e5c2520",
+      "time_from": null,
+      "time_to": null,
+      "time_precision": null,
+      "time_expression": null,
+      "inference_method": "explicit",
+      "metadata": {
+        "run_id": "read_cc607961509a4b7eb409",
+        "unit_id": "unit_p_159d80fd25f2f2db",
+        "ai_reading": true
+      },
+      "evidence": [
+        {
+          "id": "ev_v2_b57098e1b3fbbfdf",
+          "claim_id": "clm_v2_14466a243f033cba29c5",
+          "passage_id": "p_159d80fd25f2f2db",
+          "polarity": "supports",
+          "quote": "出關，過中牟，爲亭長所疑，執詣縣，邑中或竊識之，爲請得解。",
+          "reasoning": "引文与原段逐字匹配，结构化主张未超出原文。",
+          "independent_source": false,
+          "confidence": 0.96,
+          "passage_text": "出關，過中牟，爲亭長所疑，執詣縣，邑中或竊識之，爲請得解。",
+          "locator": {
+            "source_ordinal": 16
+          },
+          "source": {
+            "id": "src_live_dongzhuo",
+            "title": "三国志·武帝纪·董卓之乱",
+            "author": "陈寿",
+            "kind": "compilation",
+            "url": null,
+            "assessment": {}
+          }
+        }
+      ]
+    },
+    {
+      "id": "clm_v2_350c8e318603809104d2",
+      "subject": "何进",
+      "predicate": "与袁绍谋划",
+      "object": "诛杀宦官",
+      "statement": "何进与袁绍谋划诛杀宦官，太后不接受。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.96,
+        "source_reliability": 0.96,
+        "extraction_quality": 0.96,
+        "resolution_quality": 0.96,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "引文与原段逐字匹配，结构化主张未超出原文。"
+      },
+      "passage_ids": [
+        "p_60eda70ab150f349"
+      ],
+      "event_id": "evt_v2_7726647b6edad9bc7f63",
+      "time_from": null,
+      "time_to": null,
+      "time_precision": null,
+      "time_expression": null,
+      "inference_method": "explicit",
+      "metadata": {
+        "run_id": "read_cc607961509a4b7eb409",
+        "unit_id": "unit_p_60eda70ab150f349",
+        "ai_reading": true
+      },
+      "evidence": [
+        {
+          "id": "ev_v2_44684936979dc514",
+          "claim_id": "clm_v2_350c8e318603809104d2",
+          "passage_id": "p_60eda70ab150f349",
+          "polarity": "supports",
+          "quote": "大將軍何進與袁紹謀誅宦官，太后不聽。",
+          "reasoning": "引文与原段逐字匹配，结构化主张未超出原文。",
+          "independent_source": false,
+          "confidence": 0.96,
+          "passage_text": "大將軍何進與袁紹謀誅宦官，太后不聽。",
+          "locator": {
+            "source_ordinal": 11
+          },
+          "source": {
+            "id": "src_live_dongzhuo",
+            "title": "三国志·武帝纪·董卓之乱",
+            "author": "陈寿",
+            "kind": "compilation",
+            "url": null,
+            "assessment": {}
+          }
+        }
+      ]
+    },
+    {
+      "id": "clm_v2_4670c5248fde77c95c35",
+      "subject": "董卓",
+      "predicate": "拥立",
+      "object": "汉献帝",
+      "statement": "董卓到京后废帝为弘农王，另立献帝，京都大乱。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.96,
+        "source_reliability": 0.96,
+        "extraction_quality": 0.96,
+        "resolution_quality": 0.96,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "引文与原段逐字匹配，结构化主张未超出原文。"
+      },
+      "passage_ids": [
+        "p_165f0c265428cf68"
+      ],
+      "event_id": "evt_v2_ec7ef2425a591a75a8c7",
+      "time_from": null,
+      "time_to": null,
+      "time_precision": null,
+      "time_expression": null,
+      "inference_method": "explicit",
+      "metadata": {
+        "run_id": "read_cc607961509a4b7eb409",
+        "unit_id": "unit_p_165f0c265428cf68",
+        "ai_reading": true
+      },
+      "evidence": [
+        {
+          "id": "ev_v2_52dbe71ecf824b0d",
+          "claim_id": "clm_v2_4670c5248fde77c95c35",
+          "passage_id": "p_165f0c265428cf68",
+          "polarity": "supports",
+          "quote": "卓到，廢帝爲弘農王而立獻帝，京都大亂。",
+          "reasoning": "引文与原段逐字匹配，结构化主张未超出原文。",
+          "independent_source": false,
+          "confidence": 0.96,
+          "passage_text": "卓到，廢帝爲弘農王而立獻帝，京都大亂。",
+          "locator": {
+            "source_ordinal": 13
+          },
+          "source": {
+            "id": "src_live_dongzhuo",
+            "title": "三国志·武帝纪·董卓之乱",
+            "author": "陈寿",
+            "kind": "compilation",
+            "url": null,
+            "assessment": {}
+          }
+        }
+      ]
+    },
+    {
+      "id": "clm_v2_4938e475a1808b33a56f",
+      "subject": "曹操",
+      "predicate": "拒绝参与",
+      "object": "废灵帝立合肥侯之谋",
+      "statement": "王芬、许攸、周旌等谋废灵帝、立合肥侯；曹操拒绝参与。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.96,
+        "source_reliability": 0.96,
+        "extraction_quality": 0.96,
+        "resolution_quality": 0.96,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "引文与原段逐字匹配，结构化主张未超出原文。"
+      },
+      "passage_ids": [
+        "p_5288e05bcd6d4d6c"
+      ],
+      "event_id": "evt_v2_3fb1fb4d73bb8d6b1928",
+      "time_from": null,
+      "time_to": null,
+      "time_precision": null,
+      "time_expression": null,
+      "inference_method": "explicit",
+      "metadata": {
+        "run_id": "read_91f3fa1f0bd84fca9f95",
+        "unit_id": "unit_p_5288e05bcd6d4d6c",
+        "ai_reading": true
+      },
+      "evidence": [
+        {
+          "id": "ev_v2_53fab806ba7b4856",
+          "claim_id": "clm_v2_4938e475a1808b33a56f",
+          "passage_id": "p_5288e05bcd6d4d6c",
+          "polarity": "supports",
+          "quote": "頃之，冀州刺史王芬、南陽許攸、沛國周旌等連結豪傑，謀廢靈帝，立合肥侯，以告太祖，太祖拒之。",
+          "reasoning": "引文与原段逐字匹配，结构化主张未超出原文。",
+          "independent_source": false,
+          "confidence": 0.96,
+          "passage_text": "頃之，冀州刺史王芬、南陽許攸、沛國周旌等連結豪傑，謀廢靈帝，立合肥侯，以告太祖，太祖拒之。",
+          "locator": {
+            "source_ordinal": 8
+          },
+          "source": {
+            "id": "src_live_caocao_identity",
+            "title": "三国志·武帝纪·家世与早年",
+            "author": "陈寿",
+            "kind": "compilation",
+            "url": null,
+            "assessment": {}
+          }
+        }
+      ]
+    },
+    {
+      "id": "clm_v2_540384cd8456c38cadc1",
+      "subject": "曹操",
+      "predicate": "治理",
+      "object": "济南",
+      "statement": "曹操任济南相时奏免八名贪污长吏并禁断淫祀。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.96,
+        "source_reliability": 0.96,
+        "extraction_quality": 0.96,
+        "resolution_quality": 0.96,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "引文与原段逐字匹配，结构化主张未超出原文。"
+      },
+      "passage_ids": [
+        "p_8f14109733a594cd"
+      ],
+      "event_id": "evt_v2_a989cdc220ebe81971dd",
+      "time_from": null,
+      "time_to": null,
+      "time_precision": null,
+      "time_expression": null,
+      "inference_method": "explicit",
+      "metadata": {
+        "run_id": "read_91f3fa1f0bd84fca9f95",
+        "unit_id": "unit_p_8f14109733a594cd",
+        "ai_reading": true
+      },
+      "evidence": [
+        {
+          "id": "ev_v2_50b69bbb8ee0401f",
+          "claim_id": "clm_v2_540384cd8456c38cadc1",
+          "passage_id": "p_8f14109733a594cd",
+          "polarity": "supports",
+          "quote": "遷爲濟南相，國有十餘縣，長吏多阿附貴戚，贓污狼藉，於是奏免其八；禁斷淫祀，姦宄逃竄，郡界肅然。",
+          "reasoning": "引文与原段逐字匹配，结构化主张未超出原文。",
+          "independent_source": false,
+          "confidence": 0.96,
+          "passage_text": "遷爲濟南相，國有十餘縣，長吏多阿附貴戚，贓污狼藉，於是奏免其八；禁斷淫祀，姦宄逃竄，郡界肅然。",
+          "locator": {
+            "source_ordinal": 6
+          },
+          "source": {
+            "id": "src_live_caocao_identity",
+            "title": "三国志·武帝纪·家世与早年",
+            "author": "陈寿",
+            "kind": "compilation",
+            "url": null,
+            "assessment": {}
+          }
+        }
+      ]
+    },
+    {
+      "id": "clm_v2_5e06a90aa1c5096a064d",
+      "subject": "曹操",
+      "predicate": "拒任",
+      "object": "东郡太守",
+      "statement": "曹操被征为东郡太守，但未赴任，以病归乡。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.96,
+        "source_reliability": 0.96,
+        "extraction_quality": 0.96,
+        "resolution_quality": 0.96,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "引文与原段逐字匹配，结构化主张未超出原文。"
+      },
+      "passage_ids": [
+        "p_53bb20a56f810492"
+      ],
+      "event_id": "evt_v2_029f6153118d2d8711c0",
+      "time_from": null,
+      "time_to": null,
+      "time_precision": null,
+      "time_expression": null,
+      "inference_method": "explicit",
+      "metadata": {
+        "run_id": "read_91f3fa1f0bd84fca9f95",
+        "unit_id": "unit_p_53bb20a56f810492",
+        "ai_reading": true
+      },
+      "evidence": [
+        {
+          "id": "ev_v2_20fe74cd349fe3ce",
+          "claim_id": "clm_v2_5e06a90aa1c5096a064d",
+          "passage_id": "p_53bb20a56f810492",
+          "polarity": "supports",
+          "quote": "久之，徵還爲東郡太守；不就，稱疾歸鄉里。",
+          "reasoning": "引文与原段逐字匹配，结构化主张未超出原文。",
+          "independent_source": false,
+          "confidence": 0.96,
+          "passage_text": "久之，徵還爲東郡太守；不就，稱疾歸鄉里。",
+          "locator": {
+            "source_ordinal": 7
+          },
+          "source": {
+            "id": "src_live_caocao_identity",
+            "title": "三国志·武帝纪·家世与早年",
+            "author": "陈寿",
+            "kind": "compilation",
+            "url": null,
+            "assessment": {}
+          }
+        }
+      ]
+    }
+  ]
+}

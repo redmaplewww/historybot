@@ -1,0 +1,56 @@
+{
+  "task_id": "382cc04a-e31e-4ba7-b898-1e9fe0e55a16",
+  "status": "complete",
+  "conflicts": 0,
+  "counts": {
+    "sources": 2,
+    "passages": 888,
+    "entities": 2,
+    "events": 0,
+    "relations": 0,
+    "timeline_entries": 0,
+    "place_assertions": 0,
+    "claims": 0,
+    "evidence": 0,
+    "conflicts": 0,
+    "audit_log": 893
+  },
+  "sources": [
+    {
+      "id": "src_7f92d6e30f35d47b",
+      "title": "三国志",
+      "author": "陈寿",
+      "url": "https://ctext.org/sanguozhi",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-11T15:43:53.278870Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        }
+      }
+    },
+    {
+      "id": "src_a6b26fa7d47d68f8",
+      "title": "三国演义",
+      "author": "罗贯中",
+      "url": "https://ctext.org/sanguo-yanyi",
+      "kind": "folk",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-11T15:44:04.251162Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.35,
+          "rationale": "文学或民间传统，适合研究叙事传播，不能直接当作史实",
+          "requires_corroboration": true
+        }
+      }
+    }
+  ]
+}

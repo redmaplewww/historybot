@@ -1,0 +1,42 @@
+{
+  "YL": {
+    "sample": "{{YL|興平元年|194年}}春",
+    "rendered": ".mw-parser-output .nianhao-link a,.mw-parser-output .nianhao-link a:visited,.mw-parser-output .nianhao-link a:hover,.mw-parser-output .nianhao-link a:focus,.mw-parser-output .nianhao-link a.new{color:inherit;text-decoration:none}.mw-parser-output .nianhao-link a:hover .nianhao,.mw-parser-output .nianhao-link a:focus .nianhao{border-block-end-style:solid}興平元年春"
+  },
+  "star": {
+    "sample": "{{*|《英雄記》曰：馥字文節。}}",
+    "rendered": "〈《英雄記》曰：馥字文節。〉"
+  },
+  "ProperNoun": {
+    "sample": "{{ProperNoun|曹操}}",
+    "rendered": "曹操"
+  },
+  "quote": {
+    "sample": "{{quote|孟子曰}}",
+    "rendered": "孟子曰"
+  },
+  "gap": {
+    "sample": "前{{gap}}後",
+    "rendered": "前後"
+  },
+  "另": {
+    "sample": "{{另|一作某}}",
+    "rendered": ".mw-parser-output .variant-text{color:light-dark(black,white);border-bottom:1px dotted red;background:light-dark(linen,#311);cursor:pointer;position:relative}.mw-parser-output .variant-tooltip{display:none;position:absolute;bottom:100%;left:50%;transform:translateX(-50%);background:#333;color:#fff;padding:3px 8px;border-radius:4px;white-space:nowrap;font-size:0.9em;z-index:100}.mw-parser-output .variant-text:hover .variant-tooltip,.mw-parser-output .variant-text:focus .variant-tooltip,.mw-parser-output .variant-text:active .variant-tooltip{display:block}一作某一作「{{{2}}}」"
+  },
+  "langconv_simple": {
+    "sample": "王佐-{才}-也。",
+    "rendered": "王佐才也。"
+  },
+  "langconv_variant": {
+    "sample": "-{zh-hans:后;zh-hant:後}-主",
+    "rendered": "后主"
+  },
+  "langconv_pipe": {
+    "sample": "-{甲|乙}-丙",
+    "rendered": "乙丙"
+  },
+  "forcetoc": {
+    "sample": "__FORCETOC__太祖武皇帝",
+    "rendered": "太祖武皇帝"
+  }
+}

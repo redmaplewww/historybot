@@ -1,0 +1,69 @@
+{
+  "results": [
+    {
+      "ordinal": 61,
+      "text": "是歲，孫策受袁術使渡江，數年閒遂有江東。",
+      "has_anchor": true,
+      "anchor_first_line": "前文锚点：初平元年，对应公元约190年。注意：锚点只说明该前文位置的纪年；目标是否承接该纪年必须由原文关系判断。",
+      "target_count": 5,
+      "context_summary": "前文锚点显示初平元年为公元190年，随后的省略纪年片段依次为初平二年春、三年春，目标前段为初平三年秋太祖征陶谦，目标段以“是岁”承接，应指同一初平三年，即公元192年。",
+      "references": [
+        {
+          "id": "clm_v2_8a7dd05ce0193bc84305",
+          "statement": "孫策 受使於 袁術",
+          "time_expression": "是岁",
+          "year": 192,
+          "era_name": "初平",
+          "era_year": 3,
+          "time_from": "192-01-01",
+          "time_precision": "year",
+          "context_basis": "前文锚点“初平元年”对应公元190年；省略纪年片段依次为“二年春”“三年春”，且目标前有“秋，太祖征陶謙”系于初平三年。目标段以“是岁”承接前文，故为初平三年，即公元192年。"
+        },
+        {
+          "id": "clm_v2_0512bfd3cfe3b9d08b38",
+          "statement": "孫策 渡 江",
+          "time_expression": "是岁",
+          "year": 192,
+          "era_name": "初平",
+          "era_year": 3,
+          "time_from": "192-01-01",
+          "time_precision": "year",
+          "context_basis": "前文锚点“初平元年”对应公元190年；省略纪年片段依次为“二年春”“三年春”，且目标前有“秋，太祖征陶謙”系于初平三年。目标段以“是岁”承接前文，故为初平三年，即公元192年。"
+        },
+        {
+          "id": "clm_v2_e3185a473b7bf5af725d",
+          "statement": "孫策 有 江東",
+          "time_expression": "数年间遂有江东",
+          "year": null,
+          "era_name": null,
+          "era_year": null,
+          "time_from": null,
+          "time_precision": "uncertain",
+          "context_basis": "原文“是岁，孙策受袁术使渡江，数年间遂有江东”。“是岁”可定为初平三年即公元192年，但“数年间遂有江东”表示此后数年方成，具体年份无明确纪年，故不确定。"
+        },
+        {
+          "id": "evt_v2_d3641afcae73c3d41db4",
+          "statement": "",
+          "time_expression": "是岁",
+          "year": 192,
+          "era_name": "初平",
+          "era_year": 3,
+          "time_from": "192-01-01",
+          "time_precision": "year",
+          "context_basis": "前文锚点“初平元年”对应公元190年；省略纪年片段依次为“二年春”“三年春”，且目标前有“秋，太祖征陶謙”系于初平三年。目标段以“是岁”承接前文，故为初平三年，即公元192年。"
+        },
+        {
+          "id": "evt_v2_7fac81da60045b056177",
+          "statement": "",
+          "time_expression": "数年间遂有江东",
+          "year": null,
+          "era_name": null,
+          "era_year": null,
+          "time_from": null,
+          "time_precision": "uncertain",
+          "context_basis": "原文“是岁，孙策受袁术使渡江，数年间遂有江东”。“是岁”为初平三年即公元192年，但“数年间遂有江东”表示此后数年，无法依上下文确定绝对年份。"
+        }
+      ]
+    }
+  ]
+}

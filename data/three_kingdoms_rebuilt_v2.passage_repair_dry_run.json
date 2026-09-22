@@ -1,0 +1,289 @@
+{
+  "db": "data/three_kingdoms_rebuilt_v2.db",
+  "started_at": "2026-09-18T11:55:46.580999+00:00",
+  "dry_run": true,
+  "sources": 81,
+  "updated_sources": 2,
+  "updated_passages": 3,
+  "skipped_sources": [],
+  "insertion_skipped_sources": [
+    {
+      "source": "三国志·卷01",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷02",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷03",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷04",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷05",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷06",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷07",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷08",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷09",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷10",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷11",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷12",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷13",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷14",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷15",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷16",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷17",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷18",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷19",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷20",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷21",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷22",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷23",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷24",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷25",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷26",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷27",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷28",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷29",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷30",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷31",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷32",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷33",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷34",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷35",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷36",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷37",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷38",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷39",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷40",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷41",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷42",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷43",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷44",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷45",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷46",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷47",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷48",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷49",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷50",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷51",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷52",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷53",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷54",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷55",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷56",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷57",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷58",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷59",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷60",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷61",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷62",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷63",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷64",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国志·卷65",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    },
+    {
+      "source": "三国演义·第085回",
+      "reason": "stored rows are not reproducible from the legacy cleaning"
+    }
+  ],
+  "proper_noun_templates": 2550,
+  "era_year_templates": 790,
+  "changed_sources": [
+    {
+      "source": "三国演义·第001回",
+      "changed_passages": 1
+    },
+    {
+      "source": "三国演义·第085回",
+      "changed_passages": 2
+    }
+  ],
+  "invalidated_people_passages": 0,
+  "finished_at": "2026-09-18T11:55:48.755302+00:00"
+}

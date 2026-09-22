@@ -1,0 +1,1346 @@
+{
+  "sources": [
+    {
+      "id": "src_2197752c9a5f8c3d",
+      "title": "三国志·魏书武帝纪",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&page=三國志%2F卷01&prop=wikitext&format=json",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-11T17:25:04.582541Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        }
+      }
+    },
+    {
+      "id": "src_2770e2c3965761e5",
+      "title": "三国演义·第四十四回",
+      "author": "罗贯中",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&page=三國演義%2F第044回&prop=wikitext&format=json",
+      "kind": "folk",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-11T17:25:22.523508Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.35,
+          "rationale": "文学或民间传统，适合研究叙事传播，不能直接当作史实",
+          "requires_corroboration": true
+        }
+      }
+    },
+    {
+      "id": "src_694c9f86098b5b47",
+      "title": "三国志·蜀书先主传",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&page=三國志%2F卷32&prop=wikitext&format=json",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-11T17:25:14.565258Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        }
+      }
+    },
+    {
+      "id": "src_d7903db5227fa551",
+      "title": "三国演义·第四十三回",
+      "author": "罗贯中",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&page=三國演義%2F第043回&prop=wikitext&format=json",
+      "kind": "folk",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-11T17:25:18.327568Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.35,
+          "rationale": "文学或民间传统，适合研究叙事传播，不能直接当作史实",
+          "requires_corroboration": true
+        }
+      }
+    }
+  ],
+  "entities": [
+    {
+      "surface": "刘琦",
+      "entity_type": "人物",
+      "passage_id": "p_7403b9abfc867f1e",
+      "canonical_id": null,
+      "confidence": 1.0,
+      "id": "ent_05e7b4186cb5c3a7"
+    },
+    {
+      "surface": "梁國",
+      "entity_type": "地点",
+      "passage_id": "p_84af3127ef972602",
+      "canonical_id": null,
+      "confidence": 0.95,
+      "id": "ent_0bd2936eee33305f"
+    },
+    {
+      "surface": "孟德",
+      "entity_type": "人物",
+      "passage_id": "p_386f66c79dac901b",
+      "canonical_id": null,
+      "confidence": 0.99,
+      "id": "ent_1294c2775d94c2de"
+    },
+    {
+      "surface": "何顒",
+      "entity_type": "人物",
+      "passage_id": "p_84af3127ef972602",
+      "canonical_id": null,
+      "confidence": 0.99,
+      "id": "ent_1a39b1c1bedcccfc"
+    },
+    {
+      "surface": "孙权",
+      "entity_type": "人物",
+      "passage_id": "p_253246fcfb79fa23",
+      "canonical_id": null,
+      "confidence": 1.0,
+      "id": "ent_2d0b5eef66094510"
+    },
+    {
+      "surface": "曹",
+      "entity_type": "姓氏",
+      "passage_id": "p_386f66c79dac901b",
+      "canonical_id": null,
+      "confidence": 0.99,
+      "id": "ent_3e1efbe39a5bd512"
+    },
+    {
+      "surface": "沛國譙",
+      "entity_type": "地点",
+      "passage_id": "p_386f66c79dac901b",
+      "canonical_id": null,
+      "confidence": 0.98,
+      "id": "ent_438b42470fc23f52"
+    },
+    {
+      "surface": "頓丘",
+      "entity_type": "地点",
+      "passage_id": "p_409c2a9ff36ee5ed",
+      "canonical_id": null,
+      "confidence": 0.98,
+      "id": "ent_4bd0bf05759041d3"
+    },
+    {
+      "surface": "曹操",
+      "entity_type": "人物",
+      "passage_id": "p_2561ca83ed4df1b5",
+      "canonical_id": null,
+      "confidence": 1.0,
+      "id": "ent_4fbe01ab8d14bc66"
+    },
+    {
+      "surface": "曹騰",
+      "entity_type": "人物",
+      "passage_id": "p_740b91f9abd619b9",
+      "canonical_id": null,
+      "confidence": 0.99,
+      "id": "ent_52d66aeaaaf92cab"
+    },
+    {
+      "surface": "養子嵩",
+      "entity_type": "人物",
+      "passage_id": "p_f808d52d3e62acf3",
+      "canonical_id": null,
+      "confidence": 0.98,
+      "id": "ent_5ec5b89441a978aa"
+    },
+    {
+      "surface": "中常侍大長秋",
+      "entity_type": "官职",
+      "passage_id": "p_740b91f9abd619b9",
+      "canonical_id": null,
+      "confidence": 0.98,
+      "id": "ent_6324a80d062b5e56"
+    },
+    {
+      "surface": "南陽",
+      "entity_type": "地点",
+      "passage_id": "p_84af3127ef972602",
+      "canonical_id": null,
+      "confidence": 0.95,
+      "id": "ent_68e10db8e7732bf7"
+    },
+    {
+      "surface": "太祖武皇帝",
+      "entity_type": "人物",
+      "passage_id": "p_386f66c79dac901b",
+      "canonical_id": null,
+      "confidence": 0.99,
+      "id": "ent_7e9290bfa7c3a342"
+    },
+    {
+      "surface": "柴桑郡",
+      "entity_type": "地点",
+      "passage_id": "p_7403b9abfc867f1e",
+      "canonical_id": null,
+      "confidence": 1.0,
+      "id": "ent_8c373bf03fcda98d"
+    },
+    {
+      "surface": "鲁肃",
+      "entity_type": "人物",
+      "passage_id": "p_7403b9abfc867f1e",
+      "canonical_id": null,
+      "confidence": 1.0,
+      "id": "ent_8dc0bfe19c5d81dc"
+    },
+    {
+      "surface": "太尉",
+      "entity_type": "官职",
+      "passage_id": "p_f808d52d3e62acf3",
+      "canonical_id": null,
+      "confidence": 0.98,
+      "id": "ent_8fb6d39f80559606"
+    },
+    {
+      "surface": "桓帝",
+      "entity_type": "人物",
+      "passage_id": "p_740b91f9abd619b9",
+      "canonical_id": null,
+      "confidence": 0.95,
+      "id": "ent_95f0a5d93393210b"
+    },
+    {
+      "surface": "孔明",
+      "entity_type": "人物",
+      "passage_id": "p_7403b9abfc867f1e",
+      "canonical_id": null,
+      "confidence": 1.0,
+      "id": "ent_968b5caa517e98be"
+    },
+    {
+      "surface": "玄德",
+      "entity_type": "人物",
+      "passage_id": "p_7403b9abfc867f1e",
+      "canonical_id": null,
+      "confidence": 1.0,
+      "id": "ent_a9f0bb97eed78ab7"
+    },
+    {
+      "surface": "天下",
+      "entity_type": "政治空间",
+      "passage_id": "p_e828a03ac0fe8bfb",
+      "canonical_id": null,
+      "confidence": 0.9,
+      "id": "ent_b3e7e6ec3920ca20"
+    },
+    {
+      "surface": "江夏",
+      "entity_type": "地点",
+      "passage_id": "p_258b752278677cd4",
+      "canonical_id": null,
+      "confidence": 1.0,
+      "id": "ent_b9a153ed3cf56a7a"
+    },
+    {
+      "surface": "洛陽",
+      "entity_type": "地点",
+      "passage_id": "p_409c2a9ff36ee5ed",
+      "canonical_id": null,
+      "confidence": 0.98,
+      "id": "ent_d45710d544ea1807"
+    },
+    {
+      "surface": "費亭侯",
+      "entity_type": "爵位",
+      "passage_id": "p_740b91f9abd619b9",
+      "canonical_id": null,
+      "confidence": 0.98,
+      "id": "ent_d5cd76add5d914d5"
+    },
+    {
+      "surface": "桓帝世",
+      "entity_type": "时间",
+      "passage_id": "p_740b91f9abd619b9",
+      "canonical_id": null,
+      "confidence": 0.98,
+      "id": "ent_e6025c421452a927"
+    },
+    {
+      "surface": "操",
+      "entity_type": "人物",
+      "passage_id": "p_386f66c79dac901b",
+      "canonical_id": null,
+      "confidence": 0.99,
+      "id": "ent_e972c0298a043df0"
+    },
+    {
+      "surface": "年二十",
+      "entity_type": "时间",
+      "passage_id": "p_409c2a9ff36ee5ed",
+      "canonical_id": null,
+      "confidence": 0.98,
+      "id": "ent_eed93808d873e1d0"
+    },
+    {
+      "surface": "橋玄",
+      "entity_type": "人物",
+      "passage_id": "p_84af3127ef972602",
+      "canonical_id": null,
+      "confidence": 0.99,
+      "id": "ent_f182237893f0e929"
+    },
+    {
+      "surface": "子敬",
+      "entity_type": "人物称谓",
+      "passage_id": "p_2561ca83ed4df1b5",
+      "canonical_id": null,
+      "confidence": 1.0,
+      "id": "ent_f2e46139e69eb947"
+    },
+    {
+      "surface": "漢相國參",
+      "entity_type": "人物",
+      "passage_id": "p_386f66c79dac901b",
+      "canonical_id": null,
+      "confidence": 0.9,
+      "id": "ent_fd6fb0ab72649c00"
+    },
+    {
+      "surface": "孙将军",
+      "entity_type": "人物称谓",
+      "passage_id": "p_2561ca83ed4df1b5",
+      "canonical_id": null,
+      "confidence": 1.0,
+      "id": "ent_fe42f897281e8a74"
+    }
+  ],
+  "events": [
+    {
+      "event_type": "抵达",
+      "label": "船抵达岸边",
+      "date_start": null,
+      "date_end": null,
+      "place": null,
+      "participant_surfaces": [
+        "鲁肃",
+        "孔明"
+      ],
+      "passage_id": "p_253246fcfb79fa23",
+      "confidence": 0.95,
+      "id": "evt_145407ebe0a52672"
+    },
+    {
+      "event_type": "讨论",
+      "label": "鲁肃与孔明在船中共同商议",
+      "date_start": null,
+      "date_end": null,
+      "place": null,
+      "participant_surfaces": [
+        "鲁肃",
+        "孔明"
+      ],
+      "passage_id": "p_f753cc27d7450136",
+      "confidence": 1.0,
+      "id": "evt_17a97d4b3f842f06"
+    },
+    {
+      "event_type": "任官",
+      "label": "嵩官至太尉",
+      "date_start": null,
+      "date_end": null,
+      "place": null,
+      "participant_surfaces": [
+        "養子嵩",
+        "太尉"
+      ],
+      "passage_id": "p_f808d52d3e62acf3",
+      "confidence": 0.98,
+      "id": "evt_31ac0dbc59b05eb6"
+    },
+    {
+      "event_type": "人物评价",
+      "label": "橋玄与何顒认为太祖不同寻常",
+      "date_start": null,
+      "date_end": null,
+      "place": null,
+      "participant_surfaces": [
+        "太祖武皇帝",
+        "橋玄",
+        "何顒"
+      ],
+      "passage_id": "p_84af3127ef972602",
+      "confidence": 0.96,
+      "id": "evt_596720f96de79d00"
+    },
+    {
+      "event_type": "询问",
+      "label": "孙权询问鲁肃前往江夏探察虚实的情况",
+      "date_start": null,
+      "date_end": null,
+      "place": null,
+      "participant_surfaces": [
+        "孙权",
+        "鲁肃",
+        "江夏"
+      ],
+      "passage_id": "p_258b752278677cd4",
+      "confidence": 1.0,
+      "id": "evt_700271a587178175"
+    },
+    {
+      "event_type": "继承",
+      "label": "養子嵩嗣",
+      "date_start": null,
+      "date_end": null,
+      "place": null,
+      "participant_surfaces": [
+        "養子嵩"
+      ],
+      "passage_id": "p_f808d52d3e62acf3",
+      "confidence": 0.98,
+      "id": "evt_7df9638e68bd4808"
+    },
+    {
+      "event_type": "预言或劝说",
+      "label": "橋玄对太祖说天下将乱且太祖或能安定天下",
+      "date_start": null,
+      "date_end": null,
+      "place": null,
+      "participant_surfaces": [
+        "橋玄",
+        "太祖武皇帝",
+        "天下"
+      ],
+      "passage_id": "p_e828a03ac0fe8bfb",
+      "confidence": 0.93,
+      "id": "evt_85d98680bc12fb31"
+    },
+    {
+      "event_type": "任官与封爵",
+      "label": "曹騰任中常侍大長秋并封費亭侯",
+      "date_start": "桓帝世",
+      "date_end": null,
+      "place": null,
+      "participant_surfaces": [
+        "曹騰",
+        "中常侍大長秋",
+        "費亭侯"
+      ],
+      "passage_id": "p_740b91f9abd619b9",
+      "confidence": 0.99,
+      "id": "evt_96e73656dcb1fedd"
+    },
+    {
+      "event_type": "会见",
+      "label": "鲁肃前往会见孙权",
+      "date_start": null,
+      "date_end": null,
+      "place": null,
+      "participant_surfaces": [
+        "鲁肃",
+        "孙权"
+      ],
+      "passage_id": "p_253246fcfb79fa23",
+      "confidence": 1.0,
+      "id": "evt_bdc483591ce042f5"
+    },
+    {
+      "event_type": "出行",
+      "label": "鲁肃、孔明辞别玄德、刘琦后乘船前往柴桑郡",
+      "date_start": null,
+      "date_end": null,
+      "place": "柴桑郡",
+      "participant_surfaces": [
+        "鲁肃",
+        "孔明",
+        "玄德",
+        "刘琦"
+      ],
+      "passage_id": "p_7403b9abfc867f1e",
+      "confidence": 1.0,
+      "id": "evt_ee624bd053730fc4"
+    },
+    {
+      "event_type": "察举与任官",
+      "label": "太祖年二十举孝廉为郎，后任洛阳北部尉、顿丘令并征拜议郎",
+      "date_start": "年二十",
+      "date_end": null,
+      "place": "洛陽、頓丘",
+      "participant_surfaces": [
+        "太祖武皇帝",
+        "孝廉",
+        "郎",
+        "洛陽北部尉",
+        "頓丘令",
+        "議郎"
+      ],
+      "passage_id": "p_409c2a9ff36ee5ed",
+      "confidence": 0.99,
+      "id": "evt_f03b58e10ff82fc3"
+    }
+  ],
+  "relations": [
+    {
+      "claim_id": "clm_03705cfbab5a00083689",
+      "subject": "曹騰",
+      "predicate": "受封",
+      "object": "費亭侯"
+    },
+    {
+      "claim_id": "clm_115312db501a1599c6af",
+      "subject": "鲁肃与孔明",
+      "predicate": "辞别并乘船前往",
+      "object": "柴桑郡"
+    },
+    {
+      "claim_id": "clm_209d42640f02dd9ad709",
+      "subject": "太祖武皇帝",
+      "predicate": "少年时行为",
+      "object": "任俠放蕩、不治行業"
+    },
+    {
+      "claim_id": "clm_273f3efb61117da5f9af",
+      "subject": "橋玄与何顒",
+      "predicate": "对太祖的评价",
+      "object": "异焉"
+    },
+    {
+      "claim_id": "clm_2f7a6aedbb60194bdbe3",
+      "subject": "橋玄",
+      "predicate": "认为可能安定天下者",
+      "object": "太祖武皇帝"
+    },
+    {
+      "claim_id": "clm_44b400118ef8502627ff",
+      "subject": "太祖武皇帝",
+      "predicate": "籍贯是",
+      "object": "沛國譙"
+    },
+    {
+      "claim_id": "clm_4ab6d7d379796246b29c",
+      "subject": "養子嵩",
+      "predicate": "生出本末",
+      "object": "莫能審"
+    },
+    {
+      "claim_id": "clm_4cf0e068bd4845b1ce30",
+      "subject": "鲁肃",
+      "predicate": "请孔明暂歇",
+      "object": "馆驿"
+    },
+    {
+      "claim_id": "clm_4e33f8ef12794b435902",
+      "subject": "太祖武皇帝",
+      "predicate": "少年时具有",
+      "object": "機警、權數"
+    },
+    {
+      "claim_id": "clm_66d70a85c4f028364e26",
+      "subject": "孙权",
+      "predicate": "聚集文武议事",
+      "object": "堂上"
+    },
+    {
+      "claim_id": "clm_672e7f59b4fd4550f774",
+      "subject": "世人",
+      "predicate": "对太祖的评价",
+      "object": "未之奇"
+    },
+    {
+      "claim_id": "clm_6ba2692bb83c51b0dee2",
+      "subject": "橋玄",
+      "predicate": "判断",
+      "object": "天下將亂"
+    },
+    {
+      "claim_id": "clm_72b70d4a4bd2c33aba67",
+      "subject": "太祖武皇帝",
+      "predicate": "举为",
+      "object": "孝廉"
+    },
+    {
+      "claim_id": "clm_76605ded00983211586c",
+      "subject": "養子嵩",
+      "predicate": "继承",
+      "object": "未明确说明的对象"
+    },
+    {
+      "claim_id": "clm_8b9592af8d4162ff16c2",
+      "subject": "鲁肃",
+      "predicate": "劝告孔明不要如实说明",
+      "object": "曹操兵多将广之事"
+    },
+    {
+      "claim_id": "clm_8e05a29b3c332bfd5ad8",
+      "subject": "橋玄",
+      "predicate": "判断",
+      "object": "非命世之才不能濟也"
+    },
+    {
+      "claim_id": "clm_8fd048b98451878d3b6a",
+      "subject": "養子嵩",
+      "predicate": "最高官职达到",
+      "object": "太尉"
+    },
+    {
+      "claim_id": "clm_90971675f296d01f3603",
+      "subject": "太祖武皇帝",
+      "predicate": "讳",
+      "object": "操"
+    },
+    {
+      "claim_id": "clm_a4e0435b40015def07cd",
+      "subject": "太祖武皇帝",
+      "predicate": "身份关系",
+      "object": "漢相國參之後"
+    },
+    {
+      "claim_id": "clm_a62e4dd74cd0566d8b19",
+      "subject": "孔明",
+      "predicate": "表示已有应答之语",
+      "object": "对孙将军的询问"
+    },
+    {
+      "claim_id": "clm_bb000e71912cca4ad35f",
+      "subject": "曹騰",
+      "predicate": "任职",
+      "object": "中常侍大長秋"
+    },
+    {
+      "claim_id": "clm_c513225e985ca6a50dfa",
+      "subject": "鲁肃与孔明",
+      "predicate": "在船中共同商议",
+      "object": "未明确说明的事项"
+    },
+    {
+      "claim_id": "clm_d375f67c2250b90624af",
+      "subject": "太祖武皇帝",
+      "predicate": "任职",
+      "object": "郎"
+    },
+    {
+      "claim_id": "clm_d7d5115db85249edaf62",
+      "subject": "太祖武皇帝",
+      "predicate": "字",
+      "object": "孟德"
+    },
+    {
+      "claim_id": "clm_eb65c954f3f04d68eea7",
+      "subject": "孙权",
+      "predicate": "召见并询问鲁肃",
+      "object": "鲁肃探察江夏虚实的情况"
+    },
+    {
+      "claim_id": "clm_ef49bb5109262526d85e",
+      "subject": "太祖武皇帝",
+      "predicate": "姓",
+      "object": "曹"
+    }
+  ],
+  "timeline": [
+    {
+      "event_type": "任官与封爵",
+      "label": "曹騰任中常侍大長秋并封費亭侯",
+      "date_start": "桓帝世",
+      "date_end": null,
+      "place": null,
+      "participant_surfaces": [
+        "曹騰",
+        "中常侍大長秋",
+        "費亭侯"
+      ],
+      "passage_id": "p_740b91f9abd619b9",
+      "confidence": 0.99,
+      "id": "evt_96e73656dcb1fedd"
+    },
+    {
+      "event_type": "察举与任官",
+      "label": "太祖年二十举孝廉为郎，后任洛阳北部尉、顿丘令并征拜议郎",
+      "date_start": "年二十",
+      "date_end": null,
+      "place": "洛陽、頓丘",
+      "participant_surfaces": [
+        "太祖武皇帝",
+        "孝廉",
+        "郎",
+        "洛陽北部尉",
+        "頓丘令",
+        "議郎"
+      ],
+      "passage_id": "p_409c2a9ff36ee5ed",
+      "confidence": 0.99,
+      "id": "evt_f03b58e10ff82fc3"
+    }
+  ],
+  "places": [
+    {
+      "event_type": "出行",
+      "label": "鲁肃、孔明辞别玄德、刘琦后乘船前往柴桑郡",
+      "date_start": null,
+      "date_end": null,
+      "place": "柴桑郡",
+      "participant_surfaces": [
+        "鲁肃",
+        "孔明",
+        "玄德",
+        "刘琦"
+      ],
+      "passage_id": "p_7403b9abfc867f1e",
+      "confidence": 1.0,
+      "id": "evt_ee624bd053730fc4"
+    },
+    {
+      "event_type": "察举与任官",
+      "label": "太祖年二十举孝廉为郎，后任洛阳北部尉、顿丘令并征拜议郎",
+      "date_start": "年二十",
+      "date_end": null,
+      "place": "洛陽、頓丘",
+      "participant_surfaces": [
+        "太祖武皇帝",
+        "孝廉",
+        "郎",
+        "洛陽北部尉",
+        "頓丘令",
+        "議郎"
+      ],
+      "passage_id": "p_409c2a9ff36ee5ed",
+      "confidence": 0.99,
+      "id": "evt_f03b58e10ff82fc3"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm_03705cfbab5a00083689",
+      "subject": "曹騰",
+      "predicate": "受封",
+      "object": "費亭侯",
+      "statement": "桓帝时期，曹騰被封为費亭侯。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.99,
+        "resolution_quality": 0.99,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载“桓帝世”曹騰“封費亭侯”，直接支持曹騰在桓帝时期被封为費亭侯。"
+      },
+      "passage_ids": [
+        "p_740b91f9abd619b9"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c7"
+      }
+    },
+    {
+      "id": "clm_115312db501a1599c6af",
+      "subject": "鲁肃与孔明",
+      "predicate": "辞别并乘船前往",
+      "object": "柴桑郡",
+      "statement": "鲁肃、孔明辞别玄德和刘琦，乘船前往柴桑郡。",
+      "status": "disputed",
+      "confidence": {
+        "score": 0.2975,
+        "source_reliability": 0.35,
+        "extraction_quality": 1.0,
+        "resolution_quality": 1.0,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载“魯肅、孔明辭了玄德、劉琦，登舟望柴桑郡來”，直接支持鲁肃、孔明辞别玄德和刘琦并乘船前往柴桑郡的主张。；来源属于野史/文学传统，必须寻找独立史料互证"
+      },
+      "passage_ids": [
+        "p_7403b9abfc867f1e"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c1"
+      }
+    },
+    {
+      "id": "clm_209d42640f02dd9ad709",
+      "subject": "太祖武皇帝",
+      "predicate": "少年时行为",
+      "object": "任俠放蕩、不治行業",
+      "statement": "太祖武皇帝少年时任侠放荡，不治理自己的事业。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.95,
+        "resolution_quality": 0.95,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载“太祖少”时“任俠放蕩，不治行業”，与主张中的少年时期任侠放荡、不治理事业完全对应。"
+      },
+      "passage_ids": [
+        "p_84af3127ef972602"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c12"
+      }
+    },
+    {
+      "id": "clm_273f3efb61117da5f9af",
+      "subject": "橋玄与何顒",
+      "predicate": "对太祖的评价",
+      "object": "异焉",
+      "statement": "梁国的橋玄和南阳的何顒认为太祖武皇帝不同寻常。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.98,
+        "resolution_quality": 0.98,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确称“惟梁國橋玄、南陽何顒異焉”，说明梁国桥玄和南阳何颙认为太祖与众不同、非同寻常，直接支持该主张。"
+      },
+      "passage_ids": [
+        "p_84af3127ef972602"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c14"
+      }
+    },
+    {
+      "id": "clm_2f7a6aedbb60194bdbe3",
+      "subject": "橋玄",
+      "predicate": "认为可能安定天下者",
+      "object": "太祖武皇帝",
+      "statement": "橋玄说能够安定天下的人或许就是太祖武皇帝。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.93,
+        "resolution_quality": 0.93,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载橋玄对太祖说“能安之者，其在君乎”，意为能够安定天下的人或许就是您。与主张中“橋玄说能够安定天下的人或许就是太祖武皇帝”相符。"
+      },
+      "passage_ids": [
+        "p_e828a03ac0fe8bfb"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c17"
+      }
+    },
+    {
+      "id": "clm_44b400118ef8502627ff",
+      "subject": "太祖武皇帝",
+      "predicate": "籍贯是",
+      "object": "沛國譙",
+      "statement": "太祖武皇帝是沛國譙人。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.99,
+        "resolution_quality": 0.99,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载“太祖武皇帝，沛國譙人也”，直接支持其籍贯为沛國譙。"
+      },
+      "passage_ids": [
+        "p_386f66c79dac901b"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c1"
+      }
+    },
+    {
+      "id": "clm_4ab6d7d379796246b29c",
+      "subject": "養子嵩",
+      "predicate": "生出本末",
+      "object": "莫能審",
+      "statement": "没有人能审知養子嵩的生出本末。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.96,
+        "resolution_quality": 0.96,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载“莫能審其生出本末”，直接表示没有人能审知養子嵩的出生及身世始末，支持该主张。"
+      },
+      "passage_ids": [
+        "p_f808d52d3e62acf3"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c10"
+      }
+    },
+    {
+      "id": "clm_4cf0e068bd4845b1ce30",
+      "subject": "鲁肃",
+      "predicate": "请孔明暂歇",
+      "object": "馆驿",
+      "statement": "船到岸后，鲁肃请孔明暂时在馆驿歇息。",
+      "status": "disputed",
+      "confidence": {
+        "score": 0.2975,
+        "source_reliability": 0.35,
+        "extraction_quality": 1.0,
+        "resolution_quality": 1.0,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载“船到岸，肃请孔明于馆驿中暂歇”，直接支持船到岸后鲁肃请孔明暂时在馆驿歇息这一主张。；来源属于野史/文学传统，必须寻找独立史料互证"
+      },
+      "passage_ids": [
+        "p_253246fcfb79fa23"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c5"
+      }
+    },
+    {
+      "id": "clm_4e33f8ef12794b435902",
+      "subject": "太祖武皇帝",
+      "predicate": "少年时具有",
+      "object": "機警、權數",
+      "statement": "太祖武皇帝少年时机警而有权数。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.98,
+        "resolution_quality": 0.98,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载“太祖少機警，有權數”，直接支持太祖武皇帝少年时机警而有权数的主张。"
+      },
+      "passage_ids": [
+        "p_84af3127ef972602"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c11"
+      }
+    },
+    {
+      "id": "clm_66d70a85c4f028364e26",
+      "subject": "孙权",
+      "predicate": "聚集文武议事",
+      "object": "堂上",
+      "statement": "孙权正在堂上聚集文武议事。",
+      "status": "disputed",
+      "confidence": {
+        "score": 0.2975,
+        "source_reliability": 0.35,
+        "extraction_quality": 1.0,
+        "resolution_quality": 1.0,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文直接写道“權正聚文武於堂上議事”，与主张“孙权正在堂上聚集文武议事”在主体、地点和行为上均一致。；来源属于野史/文学传统，必须寻找独立史料互证"
+      },
+      "passage_ids": [
+        "p_258b752278677cd4"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c6"
+      }
+    },
+    {
+      "id": "clm_672e7f59b4fd4550f774",
+      "subject": "世人",
+      "predicate": "对太祖的评价",
+      "object": "未之奇",
+      "statement": "世人因此没有认为太祖武皇帝奇异。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.94,
+        "resolution_quality": 0.94,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确说“故世人未之奇也”，直接支持世人没有认为太祖奇异的主张；后文所列桥玄、何顒属于明确例外。"
+      },
+      "passage_ids": [
+        "p_84af3127ef972602"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c13"
+      }
+    },
+    {
+      "id": "clm_6ba2692bb83c51b0dee2",
+      "subject": "橋玄",
+      "predicate": "判断",
+      "object": "天下將亂",
+      "statement": "橋玄说天下将要发生动乱。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.98,
+        "resolution_quality": 0.98,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "引文明确记载“天下將亂”，且“玄謂太祖曰”表明该判断由“玄”说出；结合主张主体为橋玄，原文直接支持橋玄判断天下将乱。"
+      },
+      "passage_ids": [
+        "p_e828a03ac0fe8bfb"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c15"
+      }
+    },
+    {
+      "id": "clm_72b70d4a4bd2c33aba67",
+      "subject": "太祖武皇帝",
+      "predicate": "举为",
+      "object": "孝廉",
+      "statement": "太祖武皇帝年二十时被举为孝廉。",
+      "status": "disputed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.99,
+        "resolution_quality": 0.99,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "引文支持“年二十，举孝廉”这一事件，但缺少能够将该事件明确归属于“太祖武皇帝”的上下文，因此不足以完整支持该主张。"
+      },
+      "passage_ids": [
+        "p_409c2a9ff36ee5ed"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c18"
+      }
+    },
+    {
+      "id": "clm_76605ded00983211586c",
+      "subject": "養子嵩",
+      "predicate": "继承",
+      "object": "未明确说明的对象",
+      "statement": "養子嵩嗣，但段落未明确说明其继承的具体对象。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.98,
+        "resolution_quality": 0.98,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文“養子嵩嗣”明确表明养子嵩承嗣，但后文未交代其继承的具体对象。因此，主张关于其承嗣且对象未明确的表述得到原文支持。"
+      },
+      "passage_ids": [
+        "p_f808d52d3e62acf3"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c8"
+      }
+    },
+    {
+      "id": "clm_8b9592af8d4162ff16c2",
+      "subject": "鲁肃",
+      "predicate": "劝告孔明不要如实说明",
+      "object": "曹操兵多将广之事",
+      "statement": "鲁肃告诉孔明，见孙将军时切不可实言曹操兵多将广。",
+      "status": "disputed",
+      "confidence": {
+        "score": 0.2975,
+        "source_reliability": 0.35,
+        "extraction_quality": 1.0,
+        "resolution_quality": 1.0,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载“魯肅謂孔明曰：『先生見孫將軍，切不可實言曹操兵多將廣。』”，与主张内容直接对应。；来源属于野史/文学传统，必须寻找独立史料互证"
+      },
+      "passage_ids": [
+        "p_f753cc27d7450136"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c3"
+      }
+    },
+    {
+      "id": "clm_8e05a29b3c332bfd5ad8",
+      "subject": "橋玄",
+      "predicate": "判断",
+      "object": "非命世之才不能濟也",
+      "statement": "橋玄说若非当世杰出的人才就不能挽救天下局势。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.95,
+        "resolution_quality": 0.95,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载桥玄对太祖说“天下将乱，非命世之才不能济也”，直接表达了若非当世杰出人才便不能挽救或安定天下局势，支持该主张。"
+      },
+      "passage_ids": [
+        "p_e828a03ac0fe8bfb"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c16"
+      }
+    },
+    {
+      "id": "clm_8fd048b98451878d3b6a",
+      "subject": "養子嵩",
+      "predicate": "最高官职达到",
+      "object": "太尉",
+      "statement": "養子嵩官至太尉。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.99,
+        "resolution_quality": 0.99,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载“養子嵩嗣，官至太尉”，直接支持“養子嵩官至太尉”的主张。"
+      },
+      "passage_ids": [
+        "p_f808d52d3e62acf3"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c9"
+      }
+    },
+    {
+      "id": "clm_90971675f296d01f3603",
+      "subject": "太祖武皇帝",
+      "predicate": "讳",
+      "object": "操",
+      "statement": "太祖武皇帝讳操。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.99,
+        "resolution_quality": 0.99,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载“太祖武皇帝……姓曹，諱操”，直接支持“太祖武皇帝讳操”的主张。"
+      },
+      "passage_ids": [
+        "p_386f66c79dac901b"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c3"
+      }
+    },
+    {
+      "id": "clm_a4e0435b40015def07cd",
+      "subject": "太祖武皇帝",
+      "predicate": "身份关系",
+      "object": "漢相國參之後",
+      "statement": "太祖武皇帝是汉相国参的后代。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.95,
+        "resolution_quality": 0.95,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载“漢相國參之後”，直接支持太祖武皇帝是汉相国参后代这一主张。"
+      },
+      "passage_ids": [
+        "p_386f66c79dac901b"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c5"
+      }
+    },
+    {
+      "id": "clm_a62e4dd74cd0566d8b19",
+      "subject": "孔明",
+      "predicate": "表示已有应答之语",
+      "object": "对孙将军的询问",
+      "statement": "孔明表示不需要子敬叮嘱，自己已有应答之语。",
+      "status": "disputed",
+      "confidence": {
+        "score": 0.2975,
+        "source_reliability": 0.35,
+        "extraction_quality": 1.0,
+        "resolution_quality": 1.0,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "引文“孔明曰：‘不須子敬叮嚀，亮自有對答之語。’”直接支持孔明表示无需子敬叮嘱、自己已有应答之语；但所给原文未交代应答对象确为孙将军，也存在来源性质方面的限制，因此仅部分支持。；来源属于野史/文学传统，必须寻找独立史料互证"
+      },
+      "passage_ids": [
+        "p_2561ca83ed4df1b5"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c4"
+      }
+    },
+    {
+      "id": "clm_bb000e71912cca4ad35f",
+      "subject": "曹騰",
+      "predicate": "任职",
+      "object": "中常侍大長秋",
+      "statement": "桓帝时期，曹騰任中常侍大長秋。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.99,
+        "resolution_quality": 0.99,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载“桓帝世，曹騰爲中常侍大長秋”，直接支持曹騰在桓帝时期任中常侍大長秋。"
+      },
+      "passage_ids": [
+        "p_740b91f9abd619b9"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c6"
+      }
+    },
+    {
+      "id": "clm_c513225e985ca6a50dfa",
+      "subject": "鲁肃与孔明",
+      "predicate": "在船中共同商议",
+      "object": "未明确说明的事项",
+      "statement": "鲁肃与孔明在船中共同商议，但段落未明确说明商议的具体内容。",
+      "status": "disputed",
+      "confidence": {
+        "score": 0.2975,
+        "source_reliability": 0.35,
+        "extraction_quality": 1.0,
+        "resolution_quality": 1.0,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文支持鲁肃与孔明在舟中共同商议，但紧接着明确记载鲁肃劝孔明见孙将军时不可实言曹操兵多将广，已提供了商议内容。因此，关于“商议具体内容未明确说明”的表述不受原文支持。；来源属于野史/文学传统，必须寻找独立史料互证"
+      },
+      "passage_ids": [
+        "p_f753cc27d7450136"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c2"
+      }
+    },
+    {
+      "id": "clm_d375f67c2250b90624af",
+      "subject": "太祖武皇帝",
+      "predicate": "任职",
+      "object": "郎",
+      "statement": "太祖武皇帝年二十时被任为郎。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.99,
+        "resolution_quality": 0.99,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载“年二十，舉孝廉爲郎”，直接支持太祖武皇帝二十岁时被任为郎的主张。"
+      },
+      "passage_ids": [
+        "p_409c2a9ff36ee5ed"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c19"
+      }
+    },
+    {
+      "id": "clm_d7d5115db85249edaf62",
+      "subject": "太祖武皇帝",
+      "predicate": "字",
+      "object": "孟德",
+      "statement": "太祖武皇帝字孟德。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.99,
+        "resolution_quality": 0.99,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载“姓曹，諱操，字孟德”，直接支持“太祖武皇帝字孟德”这一主张。"
+      },
+      "passage_ids": [
+        "p_386f66c79dac901b"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c4"
+      }
+    },
+    {
+      "id": "clm_eb65c954f3f04d68eea7",
+      "subject": "孙权",
+      "predicate": "召见并询问鲁肃",
+      "object": "鲁肃探察江夏虚实的情况",
+      "statement": "孙权听到鲁肃回来后，立即召入并询问他前往江夏探察虚实的情况。",
+      "status": "disputed",
+      "confidence": {
+        "score": 0.2975,
+        "source_reliability": 0.35,
+        "extraction_quality": 1.0,
+        "resolution_quality": 1.0,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文称“聞魯肅回，急召入問曰：‘子敬往江夏，體探虛實若何？’”，明确表明孙权听闻鲁肃返回后急召其入内，并询问其前往江夏探察虚实的情况，与主张直接一致。；来源属于野史/文学传统，必须寻找独立史料互证"
+      },
+      "passage_ids": [
+        "p_258b752278677cd4"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c7"
+      }
+    },
+    {
+      "id": "clm_ef49bb5109262526d85e",
+      "subject": "太祖武皇帝",
+      "predicate": "姓",
+      "object": "曹",
+      "statement": "太祖武皇帝姓曹。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.99,
+        "resolution_quality": 0.99,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载“姓曹”，直接支持“太祖武皇帝姓曹”的主张。"
+      },
+      "passage_ids": [
+        "p_386f66c79dac901b"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c2"
+      }
+    }
+  ]
+}

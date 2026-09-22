@@ -1,0 +1,20 @@
+{
+  "pages": [
+    {
+      "page": "三國志/卷01",
+      "wikitext_chars": 34377,
+      "cleaned_chars": 13467,
+      "rendered_chars": 32441,
+      "cleaned_passages": 501,
+      "missing_vs_rendered_chars": 18974
+    },
+    {
+      "page": "三國志/卷32",
+      "wikitext_chars": 13452,
+      "cleaned_chars": 4870,
+      "rendered_chars": 12645,
+      "cleaned_passages": 190,
+      "missing_vs_rendered_chars": 7775
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "snapshot_at": "2026-09-13 02:04",
+  "database": "data/three_kingdoms_rebuilt_v2.db",
+  "figures": [
+    {
+      "file": "01_relations.png",
+      "claim_ids": [
+        "clm_d7f8213c44fc5f0a1c6a",
+        "clm_1bb2e2f85f23a17b3712",
+        "clm_da6481cddc48cc3e99e2",
+        "clm_1bf62e8f7b578cc44a17",
+        "clm_3be333f1e565ad4d9216",
+        "clm_d813bcbbe79c0834221b",
+        "clm_e1b7a7610d333179ed8e"
+      ]
+    },
+    {
+      "file": "02_events.png",
+      "event_ids": [
+        "evt_436a5c22d9e483b16ce1",
+        "evt_b6855b7d3a7eeb72e2d6",
+        "evt_0386f107a682e06fceb3"
+      ]
+    },
+    {
+      "file": "03_provenance.png",
+      "claim_ids": [
+        "clm_a93243a9e8620bd123ea"
+      ],
+      "evidence_ids": [
+        "ev_f73764eaaf800067"
+      ],
+      "passage_ids": [
+        "p_35b45e45849e78fb"
+      ],
+      "source_ids": [
+        "src_033e5925db32e682"
+      ]
+    }
+  ]
+}

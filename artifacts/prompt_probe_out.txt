@@ -1,0 +1,28 @@
+==========================================================================================
+TARGET p_7b1d9e137635df38
+按卷内原文顺序提供上下文；最后一个 passage_id 是当前解析对象。
+上下文原文：
+[p_fe13afe1f2a8afe0] 術退保封丘，遂圍之，未合，術走襄邑，追到太壽，決渠水灌城。
+[p_b9dbe680de63ca2c] 走寧陵，又追之，走九江。
+[p_619784e0e3613e2a] 下邳闕宣聚衆數千人，自稱天子；徐州牧陶謙與共舉兵，取泰山華、費，略任城。
+[p_da1be7a03f77c7d5] 秋，太祖征陶謙，下十餘城，謙守城不敢出。
+[p_7b1d9e137635df38] 是歲，孫策受袁術使渡江，數年閒遂有江東。
+
+需要解析的目标：
+{"passage_id": "p_7b1d9e137635df38", "items": [{"claim_id": "clm_v2_8a7dd05ce0193bc84305", "statement": "孫策 受使於 袁術"}, {"claim_id": "clm_v2_0512bfd3cfe3b9d08b38", "statement": "孫策 渡 江"}, {"claim_id": "clm_v2_e3185a473b7bf5af725d", "statement": "孫策 有 江東"}, {"event_id": "evt_v2_d3641afcae73c3d41db4", "label": "孫策受袁術使渡江", "event_type": "MILITARY_CAMPAIGN"}, {"event_id": "evt_v2_7fac81da60045b056177", "label": "孫策有江東", "event_type": "TERRITORIAL_ACQUISITION"}]}
+
+对每个目标返回 references。字段含义：year=公元年；era_name/era_year=年号纪年；month/day 仅在有月日时填写；time_from/time_to 可直接填 ISO 字符串或留空；time_precision 取 day/month/year/range/decade/era_only/uncertain；context_basis 必须说明取哪个上下文。
+==========================================================================================
+TARGET p_f7b5b878fafe5067
+按卷内原文顺序提供上下文；最后一个 passage_id 是当前解析对象。
+上下文原文：
+[p_5daba33f61c8b3b5] 蝗蟲起，百姓大餓，布糧食亦盡，各引去。
+[p_bba894354df4689f] 布到乘氏，爲其縣人李進所破，東屯山陽。
+[p_1af4ee0de8a9c53d] 於是紹使人說太祖，欲連和。
+[p_4bf2492495a2cc14] 太祖新失兖州，軍食盡，將許之。
+[p_f7b5b878fafe5067] 是歲穀一斛五十餘萬錢，人相食，乃罷吏兵新募者。
+
+需要解析的目标：
+{"passage_id": "p_f7b5b878fafe5067", "items": [{"claim_id": "clm_v2_43c290b052c1adf12c88", "statement": "是岁 穀一斛值 五十餘萬錢"}, {"claim_id": "clm_v2_fc3f77232b607a301f2d", "statement": "是岁 发生 人相食"}, {"claim_id": "clm_v2_6811988dc3e18a0a475b", "statement": "当局 罢 吏兵新募者"}, {"event_id": "evt_v2_de64c0421ea294b7d8b9", "label": "是岁谷贵，人相食", "event_type": "famine"}, {"event_id": "evt_v2_e5d5bf945445a6031142", "label": "罢吏兵新募者", "event_type": "policy_action"}]}
+
+对每个目标返回 references。字段含义：year=公元年；era_name/era_year=年号纪年；month/day 仅在有月日时填写；time_from/time_to 可直接填 ISO 字符串或留空；time_precision 取 day/month/year/range/decade/era_only/uncertain；context_basis 必须说明取哪个上下文。

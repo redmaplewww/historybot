@@ -1,0 +1,991 @@
+{
+  "nodes": [
+    {
+      "id": "东郡太守",
+      "label": "东郡太守",
+      "kind": "concept",
+      "entity_types": [],
+      "aliases": [],
+      "mention_count": 0,
+      "claim_ids": [
+        "clm_v2_5e06a90aa1c5096a064d"
+      ],
+      "event_ids": [],
+      "confidence": null
+    },
+    {
+      "id": "中牟",
+      "label": "中牟",
+      "kind": "concept",
+      "entity_types": [],
+      "aliases": [],
+      "mention_count": 0,
+      "claim_ids": [
+        "clm_v2_14466a243f033cba29c5"
+      ],
+      "event_ids": [],
+      "confidence": null
+    },
+    {
+      "id": "亭长",
+      "label": "亭长",
+      "kind": "person",
+      "entity_types": [
+        "人物"
+      ],
+      "aliases": [],
+      "mention_count": 1,
+      "claim_ids": [],
+      "event_ids": [
+        "evt_v2_e369c3234de37e5c2520"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "何进",
+      "label": "何进",
+      "kind": "person",
+      "entity_types": [
+        "人物"
+      ],
+      "aliases": [],
+      "mention_count": 1,
+      "claim_ids": [
+        "clm_v2_350c8e318603809104d2",
+        "clm_v2_928a87a0ba6ab8b6a443"
+      ],
+      "event_ids": [
+        "evt_v2_7726647b6edad9bc7f63",
+        "evt_v2_7cc866cb32e44f6d7751"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "何颙",
+      "label": "何颙",
+      "kind": "person",
+      "entity_types": [
+        "人物"
+      ],
+      "aliases": [],
+      "mention_count": 1,
+      "claim_ids": [],
+      "event_ids": [
+        "evt_v2_16dc6248ba03a8edd6fd"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "周旌",
+      "label": "周旌",
+      "kind": "person",
+      "entity_types": [
+        "人物"
+      ],
+      "aliases": [],
+      "mention_count": 1,
+      "claim_ids": [],
+      "event_ids": [
+        "evt_v2_3fb1fb4d73bb8d6b1928"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "太后",
+      "label": "太后",
+      "kind": "concept",
+      "entity_types": [
+        "人物"
+      ],
+      "aliases": [],
+      "mention_count": 1,
+      "claim_ids": [
+        "clm_v2_ce96b97fc2aa272ebd46"
+      ],
+      "event_ids": [
+        "evt_v2_7726647b6edad9bc7f63",
+        "evt_v2_7cc866cb32e44f6d7751",
+        "evt_v2_e4765a19b4d3f47f4f9e"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "太子",
+      "label": "太子",
+      "kind": "concept",
+      "entity_types": [
+        "人物"
+      ],
+      "aliases": [],
+      "mention_count": 1,
+      "claim_ids": [],
+      "event_ids": [
+        "evt_v2_e4765a19b4d3f47f4f9e"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "太子即位之后",
+      "label": "太子即位之后",
+      "kind": "concept",
+      "entity_types": [],
+      "aliases": [],
+      "mention_count": 0,
+      "claim_ids": [
+        "clm_v2_ce96b97fc2aa272ebd46"
+      ],
+      "event_ids": [],
+      "confidence": null
+    },
+    {
+      "id": "己吾",
+      "label": "己吾",
+      "kind": "concept",
+      "entity_types": [],
+      "aliases": [],
+      "mention_count": 0,
+      "claim_ids": [
+        "clm_v2_868cdeced023c817d385"
+      ],
+      "event_ids": [],
+      "confidence": null
+    },
+    {
+      "id": "废灵帝立合肥侯之谋",
+      "label": "废灵帝立合肥侯之谋",
+      "kind": "concept",
+      "entity_types": [],
+      "aliases": [],
+      "mention_count": 0,
+      "claim_ids": [
+        "clm_v2_4938e475a1808b33a56f"
+      ],
+      "event_ids": [],
+      "confidence": null
+    },
+    {
+      "id": "弘农王",
+      "label": "弘农王",
+      "kind": "concept",
+      "entity_types": [
+        "人物"
+      ],
+      "aliases": [],
+      "mention_count": 1,
+      "claim_ids": [],
+      "event_ids": [
+        "evt_v2_ec7ef2425a591a75a8c7"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "改名东归",
+      "label": "改名东归",
+      "kind": "concept",
+      "entity_types": [],
+      "aliases": [],
+      "mention_count": 0,
+      "claim_ids": [
+        "clm_v2_6631eebcfbe9a757d59c"
+      ],
+      "event_ids": [],
+      "confidence": null
+    },
+    {
+      "id": "曹参",
+      "label": "曹参",
+      "kind": "person",
+      "entity_types": [
+        "人物"
+      ],
+      "aliases": [],
+      "mention_count": 1,
+      "claim_ids": [],
+      "event_ids": [
+        "evt_v2_c7e527b917db61616b6c"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "曹嵩",
+      "label": "曹嵩",
+      "kind": "person",
+      "entity_types": [
+        "人物"
+      ],
+      "aliases": [],
+      "mention_count": 1,
+      "claim_ids": [
+        "clm_v2_f75f87c7d170593ac0d1"
+      ],
+      "event_ids": [
+        "evt_v2_37a8d2c35d57ad20becf"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "曹操",
+      "label": "曹操",
+      "kind": "person",
+      "entity_types": [
+        "人物"
+      ],
+      "aliases": [
+        "太祖",
+        "孟德"
+      ],
+      "mention_count": 1,
+      "claim_ids": [
+        "clm_v2_14466a243f033cba29c5",
+        "clm_v2_4938e475a1808b33a56f",
+        "clm_v2_540384cd8456c38cadc1",
+        "clm_v2_5e06a90aa1c5096a064d",
+        "clm_v2_6631eebcfbe9a757d59c",
+        "clm_v2_868cdeced023c817d385",
+        "clm_v2_993b1eb403b306614a32",
+        "clm_v2_beeefacb14da693be28f",
+        "clm_v2_d1cd7b3a6be396106794",
+        "clm_v2_f6e415b9b8c209115db2"
+      ],
+      "event_ids": [
+        "evt_v2_029f6153118d2d8711c0",
+        "evt_v2_16dc6248ba03a8edd6fd",
+        "evt_v2_3e4a27e27459d90a1488",
+        "evt_v2_3fb1fb4d73bb8d6b1928",
+        "evt_v2_5f19b3597db1bb872b4d",
+        "evt_v2_8aa260ceeec63ef5e5a6",
+        "evt_v2_a989cdc220ebe81971dd",
+        "evt_v2_b57a73a5b70aee695d9a",
+        "evt_v2_c7e527b917db61616b6c",
+        "evt_v2_cc1b1d94e9d2d387206f",
+        "evt_v2_dee71a6b91a761f6333c",
+        "evt_v2_e369c3234de37e5c2520"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "曹操不同寻常",
+      "label": "曹操不同寻常",
+      "kind": "concept",
+      "entity_types": [],
+      "aliases": [],
+      "mention_count": 0,
+      "claim_ids": [
+        "clm_v2_6983cf707b4376a8a9b5"
+      ],
+      "event_ids": [],
+      "confidence": null
+    },
+    {
+      "id": "曹操为骁骑校尉",
+      "label": "曹操为骁骑校尉",
+      "kind": "concept",
+      "entity_types": [],
+      "aliases": [],
+      "mention_count": 0,
+      "claim_ids": [
+        "clm_v2_96bb8122825d72837572"
+      ],
+      "event_ids": [],
+      "confidence": null
+    },
+    {
+      "id": "曹腾",
+      "label": "曹腾",
+      "kind": "person",
+      "entity_types": [
+        "人物"
+      ],
+      "aliases": [],
+      "mention_count": 1,
+      "claim_ids": [
+        "clm_v2_cb1080e81d29e3ad5a50",
+        "clm_v2_f75f87c7d170593ac0d1"
+      ],
+      "event_ids": [
+        "evt_v2_37a8d2c35d57ad20becf",
+        "evt_v2_a3d9326fa877b7e8abde"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "桥玄",
+      "label": "桥玄",
+      "kind": "person",
+      "entity_types": [
+        "人物"
+      ],
+      "aliases": [],
+      "mention_count": 1,
+      "claim_ids": [
+        "clm_v2_6983cf707b4376a8a9b5",
+        "clm_v2_f6e415b9b8c209115db2"
+      ],
+      "event_ids": [
+        "evt_v2_16dc6248ba03a8edd6fd",
+        "evt_v2_cc1b1d94e9d2d387206f"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "汉灵帝",
+      "label": "汉灵帝",
+      "kind": "concept",
+      "entity_types": [
+        "人物"
+      ],
+      "aliases": [],
+      "mention_count": 1,
+      "claim_ids": [],
+      "event_ids": [
+        "evt_v2_3fb1fb4d73bb8d6b1928",
+        "evt_v2_e4765a19b4d3f47f4f9e"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "汉献帝",
+      "label": "汉献帝",
+      "kind": "concept",
+      "entity_types": [
+        "人物"
+      ],
+      "aliases": [],
+      "mention_count": 1,
+      "claim_ids": [
+        "clm_v2_4670c5248fde77c95c35"
+      ],
+      "event_ids": [
+        "evt_v2_ec7ef2425a591a75a8c7"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "沛国谯县",
+      "label": "沛国谯县",
+      "kind": "concept",
+      "entity_types": [],
+      "aliases": [],
+      "mention_count": 0,
+      "claim_ids": [
+        "clm_v2_993b1eb403b306614a32"
+      ],
+      "event_ids": [],
+      "confidence": null
+    },
+    {
+      "id": "济南",
+      "label": "济南",
+      "kind": "concept",
+      "entity_types": [],
+      "aliases": [],
+      "mention_count": 0,
+      "claim_ids": [
+        "clm_v2_540384cd8456c38cadc1"
+      ],
+      "event_ids": [],
+      "confidence": null
+    },
+    {
+      "id": "王芬",
+      "label": "王芬",
+      "kind": "person",
+      "entity_types": [
+        "人物"
+      ],
+      "aliases": [],
+      "mention_count": 1,
+      "claim_ids": [],
+      "event_ids": [
+        "evt_v2_3fb1fb4d73bb8d6b1928"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "董卓",
+      "label": "董卓",
+      "kind": "person",
+      "entity_types": [
+        "人物"
+      ],
+      "aliases": [
+        "卓"
+      ],
+      "mention_count": 1,
+      "claim_ids": [
+        "clm_v2_4670c5248fde77c95c35",
+        "clm_v2_928a87a0ba6ab8b6a443",
+        "clm_v2_96bb8122825d72837572",
+        "clm_v2_d1cd7b3a6be396106794"
+      ],
+      "event_ids": [
+        "evt_v2_5f19b3597db1bb872b4d",
+        "evt_v2_7cc866cb32e44f6d7751",
+        "evt_v2_b57a73a5b70aee695d9a",
+        "evt_v2_ec7ef2425a591a75a8c7"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "袁绍",
+      "label": "袁绍",
+      "kind": "person",
+      "entity_types": [
+        "人物"
+      ],
+      "aliases": [],
+      "mention_count": 1,
+      "claim_ids": [],
+      "event_ids": [
+        "evt_v2_7726647b6edad9bc7f63"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "议郎",
+      "label": "议郎",
+      "kind": "concept",
+      "entity_types": [],
+      "aliases": [],
+      "mention_count": 0,
+      "claim_ids": [
+        "clm_v2_beeefacb14da693be28f"
+      ],
+      "event_ids": [],
+      "confidence": null
+    },
+    {
+      "id": "许攸",
+      "label": "许攸",
+      "kind": "person",
+      "entity_types": [
+        "人物"
+      ],
+      "aliases": [],
+      "mention_count": 1,
+      "claim_ids": [],
+      "event_ids": [
+        "evt_v2_3fb1fb4d73bb8d6b1928"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "诛杀宦官",
+      "label": "诛杀宦官",
+      "kind": "concept",
+      "entity_types": [],
+      "aliases": [],
+      "mention_count": 0,
+      "claim_ids": [
+        "clm_v2_350c8e318603809104d2"
+      ],
+      "event_ids": [],
+      "confidence": null
+    },
+    {
+      "id": "费亭侯",
+      "label": "费亭侯",
+      "kind": "concept",
+      "entity_types": [],
+      "aliases": [],
+      "mention_count": 0,
+      "claim_ids": [
+        "clm_v2_cb1080e81d29e3ad5a50"
+      ],
+      "event_ids": [],
+      "confidence": null
+    }
+  ],
+  "edges": [
+    {
+      "id": "claim:clm_v2_14466a243f033cba29c5",
+      "source": "曹操",
+      "target": "中牟",
+      "label": "获释地点",
+      "edge_type": "claim",
+      "claim_id": "clm_v2_14466a243f033cba29c5",
+      "status": "machine_reviewed",
+      "confidence": 0.96
+    },
+    {
+      "id": "claim:clm_v2_350c8e318603809104d2",
+      "source": "何进",
+      "target": "诛杀宦官",
+      "label": "与袁绍谋划",
+      "edge_type": "claim",
+      "claim_id": "clm_v2_350c8e318603809104d2",
+      "status": "machine_reviewed",
+      "confidence": 0.96
+    },
+    {
+      "id": "claim:clm_v2_4670c5248fde77c95c35",
+      "source": "董卓",
+      "target": "汉献帝",
+      "label": "拥立",
+      "edge_type": "claim",
+      "claim_id": "clm_v2_4670c5248fde77c95c35",
+      "status": "machine_reviewed",
+      "confidence": 0.96
+    },
+    {
+      "id": "claim:clm_v2_4938e475a1808b33a56f",
+      "source": "曹操",
+      "target": "废灵帝立合肥侯之谋",
+      "label": "拒绝参与",
+      "edge_type": "claim",
+      "claim_id": "clm_v2_4938e475a1808b33a56f",
+      "status": "machine_reviewed",
+      "confidence": 0.96
+    },
+    {
+      "id": "claim:clm_v2_540384cd8456c38cadc1",
+      "source": "曹操",
+      "target": "济南",
+      "label": "治理",
+      "edge_type": "claim",
+      "claim_id": "clm_v2_540384cd8456c38cadc1",
+      "status": "machine_reviewed",
+      "confidence": 0.96
+    },
+    {
+      "id": "claim:clm_v2_5e06a90aa1c5096a064d",
+      "source": "曹操",
+      "target": "东郡太守",
+      "label": "拒任",
+      "edge_type": "claim",
+      "claim_id": "clm_v2_5e06a90aa1c5096a064d",
+      "status": "machine_reviewed",
+      "confidence": 0.96
+    },
+    {
+      "id": "claim:clm_v2_6631eebcfbe9a757d59c",
+      "source": "曹操",
+      "target": "改名东归",
+      "label": "行动",
+      "edge_type": "claim",
+      "claim_id": "clm_v2_6631eebcfbe9a757d59c",
+      "status": "machine_reviewed",
+      "confidence": 0.96
+    },
+    {
+      "id": "claim:clm_v2_6983cf707b4376a8a9b5",
+      "source": "桥玄",
+      "target": "曹操不同寻常",
+      "label": "评价",
+      "edge_type": "claim",
+      "claim_id": "clm_v2_6983cf707b4376a8a9b5",
+      "status": "machine_reviewed",
+      "confidence": 0.96
+    },
+    {
+      "id": "claim:clm_v2_868cdeced023c817d385",
+      "source": "曹操",
+      "target": "己吾",
+      "label": "起兵地点",
+      "edge_type": "claim",
+      "claim_id": "clm_v2_868cdeced023c817d385",
+      "status": "machine_reviewed",
+      "confidence": 0.96
+    },
+    {
+      "id": "claim:clm_v2_928a87a0ba6ab8b6a443",
+      "source": "何进",
+      "target": "董卓",
+      "label": "召",
+      "edge_type": "claim",
+      "claim_id": "clm_v2_928a87a0ba6ab8b6a443",
+      "status": "machine_reviewed",
+      "confidence": 0.96
+    },
+    {
+      "id": "claim:clm_v2_96bb8122825d72837572",
+      "source": "董卓",
+      "target": "曹操为骁骑校尉",
+      "label": "表任",
+      "edge_type": "claim",
+      "claim_id": "clm_v2_96bb8122825d72837572",
+      "status": "machine_reviewed",
+      "confidence": 0.96
+    },
+    {
+      "id": "claim:clm_v2_993b1eb403b306614a32",
+      "source": "曹操",
+      "target": "沛国谯县",
+      "label": "籍贯",
+      "edge_type": "claim",
+      "claim_id": "clm_v2_993b1eb403b306614a32",
+      "status": "machine_reviewed",
+      "confidence": 0.96
+    },
+    {
+      "id": "claim:clm_v2_beeefacb14da693be28f",
+      "source": "曹操",
+      "target": "议郎",
+      "label": "征拜",
+      "edge_type": "claim",
+      "claim_id": "clm_v2_beeefacb14da693be28f",
+      "status": "machine_reviewed",
+      "confidence": 0.96
+    },
+    {
+      "id": "claim:clm_v2_cb1080e81d29e3ad5a50",
+      "source": "曹腾",
+      "target": "费亭侯",
+      "label": "封爵",
+      "edge_type": "claim",
+      "claim_id": "clm_v2_cb1080e81d29e3ad5a50",
+      "status": "machine_reviewed",
+      "confidence": 0.96
+    },
+    {
+      "id": "claim:clm_v2_ce96b97fc2aa272ebd46",
+      "source": "太后",
+      "target": "太子即位之后",
+      "label": "临朝",
+      "edge_type": "claim",
+      "claim_id": "clm_v2_ce96b97fc2aa272ebd46",
+      "status": "machine_reviewed",
+      "confidence": 0.96
+    },
+    {
+      "id": "claim:clm_v2_d1cd7b3a6be396106794",
+      "source": "曹操",
+      "target": "董卓",
+      "label": "起兵讨伐",
+      "edge_type": "claim",
+      "claim_id": "clm_v2_d1cd7b3a6be396106794",
+      "status": "machine_reviewed",
+      "confidence": 0.96
+    },
+    {
+      "id": "claim:clm_v2_f6e415b9b8c209115db2",
+      "source": "桥玄",
+      "target": "曹操",
+      "label": "预言安定天下者",
+      "edge_type": "claim",
+      "claim_id": "clm_v2_f6e415b9b8c209115db2",
+      "status": "machine_reviewed",
+      "confidence": 0.96
+    },
+    {
+      "id": "claim:clm_v2_f75f87c7d170593ac0d1",
+      "source": "曹嵩",
+      "target": "曹腾",
+      "label": "养父",
+      "edge_type": "claim",
+      "claim_id": "clm_v2_f75f87c7d170593ac0d1",
+      "status": "machine_reviewed",
+      "confidence": 0.96
+    },
+    {
+      "id": "event:evt_v2_16dc6248ba03a8edd6fd:曹操:桥玄",
+      "source": "曹操",
+      "target": "桥玄",
+      "label": "人物评价",
+      "edge_type": "event",
+      "event_id": "evt_v2_16dc6248ba03a8edd6fd",
+      "status": "event",
+      "confidence": 0.96
+    },
+    {
+      "id": "event:evt_v2_16dc6248ba03a8edd6fd:曹操:何颙",
+      "source": "曹操",
+      "target": "何颙",
+      "label": "人物评价",
+      "edge_type": "event",
+      "event_id": "evt_v2_16dc6248ba03a8edd6fd",
+      "status": "event",
+      "confidence": 0.96
+    },
+    {
+      "id": "event:evt_v2_16dc6248ba03a8edd6fd:桥玄:何颙",
+      "source": "桥玄",
+      "target": "何颙",
+      "label": "人物评价",
+      "edge_type": "event",
+      "event_id": "evt_v2_16dc6248ba03a8edd6fd",
+      "status": "event",
+      "confidence": 0.96
+    },
+    {
+      "id": "event:evt_v2_37a8d2c35d57ad20becf:曹嵩:曹腾",
+      "source": "曹嵩",
+      "target": "曹腾",
+      "label": "身份不确定性",
+      "edge_type": "event",
+      "event_id": "evt_v2_37a8d2c35d57ad20becf",
+      "status": "event",
+      "confidence": 0.96
+    },
+    {
+      "id": "event:evt_v2_3fb1fb4d73bb8d6b1928:王芬:许攸",
+      "source": "王芬",
+      "target": "许攸",
+      "label": "政治事件",
+      "edge_type": "event",
+      "event_id": "evt_v2_3fb1fb4d73bb8d6b1928",
+      "status": "event",
+      "confidence": 0.96
+    },
+    {
+      "id": "event:evt_v2_3fb1fb4d73bb8d6b1928:王芬:周旌",
+      "source": "王芬",
+      "target": "周旌",
+      "label": "政治事件",
+      "edge_type": "event",
+      "event_id": "evt_v2_3fb1fb4d73bb8d6b1928",
+      "status": "event",
+      "confidence": 0.96
+    },
+    {
+      "id": "event:evt_v2_3fb1fb4d73bb8d6b1928:王芬:曹操",
+      "source": "王芬",
+      "target": "曹操",
+      "label": "政治事件",
+      "edge_type": "event",
+      "event_id": "evt_v2_3fb1fb4d73bb8d6b1928",
+      "status": "event",
+      "confidence": 0.96
+    },
+    {
+      "id": "event:evt_v2_3fb1fb4d73bb8d6b1928:王芬:汉灵帝",
+      "source": "王芬",
+      "target": "汉灵帝",
+      "label": "政治事件",
+      "edge_type": "event",
+      "event_id": "evt_v2_3fb1fb4d73bb8d6b1928",
+      "status": "event",
+      "confidence": 0.96
+    },
+    {
+      "id": "event:evt_v2_3fb1fb4d73bb8d6b1928:许攸:周旌",
+      "source": "许攸",
+      "target": "周旌",
+      "label": "政治事件",
+      "edge_type": "event",
+      "event_id": "evt_v2_3fb1fb4d73bb8d6b1928",
+      "status": "event",
+      "confidence": 0.96
+    },
+    {
+      "id": "event:evt_v2_3fb1fb4d73bb8d6b1928:许攸:曹操",
+      "source": "许攸",
+      "target": "曹操",
+      "label": "政治事件",
+      "edge_type": "event",
+      "event_id": "evt_v2_3fb1fb4d73bb8d6b1928",
+      "status": "event",
+      "confidence": 0.96
+    },
+    {
+      "id": "event:evt_v2_3fb1fb4d73bb8d6b1928:许攸:汉灵帝",
+      "source": "许攸",
+      "target": "汉灵帝",
+      "label": "政治事件",
+      "edge_type": "event",
+      "event_id": "evt_v2_3fb1fb4d73bb8d6b1928",
+      "status": "event",
+      "confidence": 0.96
+    },
+    {
+      "id": "event:evt_v2_3fb1fb4d73bb8d6b1928:周旌:曹操",
+      "source": "周旌",
+      "target": "曹操",
+      "label": "政治事件",
+      "edge_type": "event",
+      "event_id": "evt_v2_3fb1fb4d73bb8d6b1928",
+      "status": "event",
+      "confidence": 0.96
+    },
+    {
+      "id": "event:evt_v2_3fb1fb4d73bb8d6b1928:周旌:汉灵帝",
+      "source": "周旌",
+      "target": "汉灵帝",
+      "label": "政治事件",
+      "edge_type": "event",
+      "event_id": "evt_v2_3fb1fb4d73bb8d6b1928",
+      "status": "event",
+      "confidence": 0.96
+    },
+    {
+      "id": "event:evt_v2_3fb1fb4d73bb8d6b1928:曹操:汉灵帝",
+      "source": "曹操",
+      "target": "汉灵帝",
+      "label": "政治事件",
+      "edge_type": "event",
+      "event_id": "evt_v2_3fb1fb4d73bb8d6b1928",
+      "status": "event",
+      "confidence": 0.96
+    },
+    {
+      "id": "event:evt_v2_5f19b3597db1bb872b4d:曹操:董卓",
+      "source": "曹操",
+      "target": "董卓",
+      "label": "起兵讨董",
+      "edge_type": "event",
+      "event_id": "evt_v2_5f19b3597db1bb872b4d",
+      "status": "event",
+      "confidence": 0.96
+    },
+    {
+      "id": "event:evt_v2_7726647b6edad9bc7f63:何进:袁绍",
+      "source": "何进",
+      "target": "袁绍",
+      "label": "政治谋划",
+      "edge_type": "event",
+      "event_id": "evt_v2_7726647b6edad9bc7f63",
+      "status": "event",
+      "confidence": 0.96
+    },
+    {
+      "id": "event:evt_v2_7726647b6edad9bc7f63:何进:太后",
+      "source": "何进",
+      "target": "太后",
+      "label": "政治谋划",
+      "edge_type": "event",
+      "event_id": "evt_v2_7726647b6edad9bc7f63",
+      "status": "event",
+      "confidence": 0.96
+    },
+    {
+      "id": "event:evt_v2_7726647b6edad9bc7f63:袁绍:太后",
+      "source": "袁绍",
+      "target": "太后",
+      "label": "政治谋划",
+      "edge_type": "event",
+      "event_id": "evt_v2_7726647b6edad9bc7f63",
+      "status": "event",
+      "confidence": 0.96
+    },
+    {
+      "id": "event:evt_v2_7cc866cb32e44f6d7751:何进:董卓",
+      "source": "何进",
+      "target": "董卓",
+      "label": "何进被杀",
+      "edge_type": "event",
+      "event_id": "evt_v2_7cc866cb32e44f6d7751",
+      "status": "event",
+      "confidence": 0.96
+    },
+    {
+      "id": "event:evt_v2_7cc866cb32e44f6d7751:何进:太后",
+      "source": "何进",
+      "target": "太后",
+      "label": "何进被杀",
+      "edge_type": "event",
+      "event_id": "evt_v2_7cc866cb32e44f6d7751",
+      "status": "event",
+      "confidence": 0.96
+    },
+    {
+      "id": "event:evt_v2_7cc866cb32e44f6d7751:董卓:太后",
+      "source": "董卓",
+      "target": "太后",
+      "label": "何进被杀",
+      "edge_type": "event",
+      "event_id": "evt_v2_7cc866cb32e44f6d7751",
+      "status": "event",
+      "confidence": 0.96
+    },
+    {
+      "id": "event:evt_v2_b57a73a5b70aee695d9a:董卓:曹操",
+      "source": "董卓",
+      "target": "曹操",
+      "label": "任官邀约",
+      "edge_type": "event",
+      "event_id": "evt_v2_b57a73a5b70aee695d9a",
+      "status": "event",
+      "confidence": 0.96
+    },
+    {
+      "id": "event:evt_v2_c7e527b917db61616b6c:曹操:曹参",
+      "source": "曹操",
+      "target": "曹参",
+      "label": "身份与家世",
+      "edge_type": "event",
+      "event_id": "evt_v2_c7e527b917db61616b6c",
+      "status": "event",
+      "confidence": 0.96
+    },
+    {
+      "id": "event:evt_v2_cc1b1d94e9d2d387206f:桥玄:曹操",
+      "source": "桥玄",
+      "target": "曹操",
+      "label": "人物评价",
+      "edge_type": "event",
+      "event_id": "evt_v2_cc1b1d94e9d2d387206f",
+      "status": "event",
+      "confidence": 0.96
+    },
+    {
+      "id": "event:evt_v2_e369c3234de37e5c2520:曹操:亭长",
+      "source": "曹操",
+      "target": "亭长",
+      "label": "中牟被捕获释",
+      "edge_type": "event",
+      "event_id": "evt_v2_e369c3234de37e5c2520",
+      "status": "event",
+      "confidence": 0.96
+    },
+    {
+      "id": "event:evt_v2_e4765a19b4d3f47f4f9e:汉灵帝:太子",
+      "source": "汉灵帝",
+      "target": "太子",
+      "label": "帝位更替",
+      "edge_type": "event",
+      "event_id": "evt_v2_e4765a19b4d3f47f4f9e",
+      "status": "event",
+      "confidence": 0.96
+    },
+    {
+      "id": "event:evt_v2_e4765a19b4d3f47f4f9e:汉灵帝:太后",
+      "source": "汉灵帝",
+      "target": "太后",
+      "label": "帝位更替",
+      "edge_type": "event",
+      "event_id": "evt_v2_e4765a19b4d3f47f4f9e",
+      "status": "event",
+      "confidence": 0.96
+    },
+    {
+      "id": "event:evt_v2_e4765a19b4d3f47f4f9e:太子:太后",
+      "source": "太子",
+      "target": "太后",
+      "label": "帝位更替",
+      "edge_type": "event",
+      "event_id": "evt_v2_e4765a19b4d3f47f4f9e",
+      "status": "event",
+      "confidence": 0.96
+    },
+    {
+      "id": "event:evt_v2_ec7ef2425a591a75a8c7:董卓:弘农王",
+      "source": "董卓",
+      "target": "弘农王",
+      "label": "废立事件",
+      "edge_type": "event",
+      "event_id": "evt_v2_ec7ef2425a591a75a8c7",
+      "status": "event",
+      "confidence": 0.96
+    },
+    {
+      "id": "event:evt_v2_ec7ef2425a591a75a8c7:董卓:汉献帝",
+      "source": "董卓",
+      "target": "汉献帝",
+      "label": "废立事件",
+      "edge_type": "event",
+      "event_id": "evt_v2_ec7ef2425a591a75a8c7",
+      "status": "event",
+      "confidence": 0.96
+    },
+    {
+      "id": "event:evt_v2_ec7ef2425a591a75a8c7:弘农王:汉献帝",
+      "source": "弘农王",
+      "target": "汉献帝",
+      "label": "废立事件",
+      "edge_type": "event",
+      "event_id": "evt_v2_ec7ef2425a591a75a8c7",
+      "status": "event",
+      "confidence": 0.96
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "image": "data\\ocr_samples\\printed.png",
+  "models": [
+    {
+      "model": "rapidocr",
+      "elapsed_seconds": 6.242,
+      "id": "rec_printed",
+      "raw_asset_id": "printed",
+      "text": "Cao Cao crossed the river in 208 AD.",
+      "spans": [
+        {
+          "text": "Cao Cao crossed the river in 208 AD.",
+          "page": null,
+          "block": null,
+          "bbox": [
+            38.0,
+            97.0,
+            1232.0,
+            98.0,
+            1232.0,
+            167.0,
+            38.0,
+            166.0
+          ],
+          "confidence": 0.9785359104474386,
+          "source": "rapidocr"
+        }
+      ],
+      "language": "und",
+      "processor": "rapidocr",
+      "processor_version": "rapidocr-onnxruntime-1.4",
+      "confidence": 0.9785359104474386,
+      "needs_review": false,
+      "metadata": {
+        "elapsed": [
+          3.51142890000483,
+          0.0069997310638427734,
+          0.7355170249938965
+        ],
+        "engine": "onnxruntime"
+      }
+    },
+    {
+      "model": "trocr-printed",
+      "elapsed_seconds": 20.659,
+      "id": "rec_printed",
+      "raw_asset_id": "printed",
+      "text": "CAD CAR CROSSED THE RIVER IN 208 AD.",
+      "spans": [
+        {
+          "text": "CAD CAR CROSSED THE RIVER IN 208 AD.",
+          "page": null,
+          "block": null,
+          "bbox": null,
+          "confidence": 0.75,
+          "source": "microsoft/trocr-small-printed"
+        }
+      ],
+      "language": "und",
+      "processor": "trocr",
+      "processor_version": "transformers-trocr",
+      "confidence": 0.75,
+      "needs_review": true,
+      "metadata": {
+        "model": "microsoft/trocr-small-printed",
+        "device": "cpu",
+        "note": "TrOCR is line-level OCR; layout detection remains separate"
+      }
+    },
+    {
+      "model": "trocr-handwritten",
+      "elapsed_seconds": 7.726,
+      "id": "rec_printed",
+      "raw_asset_id": "printed",
+      "text": "can decomposed the river in 208 AD .",
+      "spans": [
+        {
+          "text": "can decomposed the river in 208 AD .",
+          "page": null,
+          "block": null,
+          "bbox": null,
+          "confidence": 0.75,
+          "source": "microsoft/trocr-small-handwritten"
+        }
+      ],
+      "language": "und",
+      "processor": "trocr",
+      "processor_version": "transformers-trocr",
+      "confidence": 0.75,
+      "needs_review": true,
+      "metadata": {
+        "model": "microsoft/trocr-small-handwritten",
+        "device": "cpu",
+        "note": "TrOCR is line-level OCR; layout detection remains separate"
+      }
+    }
+  ]
+}

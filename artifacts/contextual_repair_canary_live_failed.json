@@ -1,0 +1,37 @@
+{
+  "run_id": "context_canary_20260920_115347",
+  "status": "failed",
+  "main_database_modified": false,
+  "canary_database": "data\\contextual_repair_canary.db",
+  "corpus_version_id": "corpus_5dedfbabde74b7611800",
+  "corpus": {
+    "old_passages": 501,
+    "new_passages": 653,
+    "mapped_exact": 501,
+    "restored_passages": 152
+  },
+  "targets": [
+    {
+      "name": "初平四年显式省略年号",
+      "prefix": "四年春，軍鄄城。",
+      "expected_year": 193,
+      "target_passage_id": "pv_4dfcf0738f1458f3d158",
+      "context_hash": "154e43ecd434214f0ba49e985661c6e302e0f81883aff3a6bee51dfb995930a7",
+      "context_passages": 55,
+      "status": "failed",
+      "error": "HTTPStatusError: 401 from https://codeflow.asia/v1/messages for task='historical_contextual_canary_reading' model='claude-3-5-sonnet-latest': {\"error\":{\"code\":\"unauthorized\",\"message\":\"Invalid API token\",\"requestId\":\"08b11c33-fbf9-473d-8a18-31e50670b2dc\"}}"
+    },
+    {
+      "name": "是岁承接初平四年",
+      "prefix": "是歲，孫策受袁術使渡江",
+      "expected_year": 193,
+      "target_passage_id": "pv_d6e6adf00e12bdcaf454",
+      "context_hash": "93e026bd12378c9c4c0dcc0e697c666672db4439e0745009b5b25a95759a66b0",
+      "context_passages": 64,
+      "status": "failed",
+      "error": "HTTPStatusError: 401 from https://codeflow.asia/v1/messages for task='historical_contextual_canary_reading' model='claude-3-5-sonnet-latest': {\"error\":{\"code\":\"unauthorized\",\"message\":\"Invalid API token\",\"requestId\":\"e69d4c09-aebc-49cf-91ac-434405f3e083\"}}"
+    }
+  ],
+  "full_reading_started": false,
+  "approval_required_for_expansion": true
+}

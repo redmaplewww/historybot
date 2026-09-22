@@ -1,0 +1,315 @@
+{
+  "database": "data/three_kingdoms_final_live.db",
+  "tables": [
+    "annotations",
+    "audit_log",
+    "claims",
+    "clarification_questions",
+    "completeness_assessments",
+    "conflicts",
+    "entities",
+    "entity_aliases",
+    "events",
+    "evidence",
+    "evolution_snapshots",
+    "extraction_passages",
+    "ingestion_artifacts",
+    "ingestion_jobs",
+    "normalized_documents",
+    "passages",
+    "people_extraction_passages",
+    "place_assertions",
+    "processing_errors",
+    "raw_assets",
+    "recognition_results",
+    "relations",
+    "review_feedback",
+    "review_tasks",
+    "sources",
+    "sqlite_sequence",
+    "timeline_entries"
+  ],
+  "counts": {
+    "sources": 4,
+    "passages": 1071,
+    "entities": 31,
+    "entity_aliases": 0,
+    "events": 11,
+    "relations": 26,
+    "timeline_entries": 2,
+    "place_assertions": 2,
+    "claims": 26,
+    "evidence": 26,
+    "conflicts": 0,
+    "review_feedback": 0,
+    "evolution_snapshots": 1,
+    "audit_log": 2250
+  },
+  "indexes": [
+    {
+      "name": "idx_claims_object",
+      "tbl_name": "claims",
+      "sql": "CREATE INDEX idx_claims_object ON claims(json_extract(payload, '$.object'))"
+    },
+    {
+      "name": "idx_claims_status",
+      "tbl_name": "claims",
+      "sql": "CREATE INDEX idx_claims_status ON claims(status)"
+    },
+    {
+      "name": "idx_claims_subject_predicate",
+      "tbl_name": "claims",
+      "sql": "CREATE INDEX idx_claims_subject_predicate ON claims(json_extract(payload, '$.subject'), json_extract(payload, '$.predicate'))"
+    },
+    {
+      "name": "idx_entities_surface",
+      "tbl_name": "entities",
+      "sql": "CREATE INDEX idx_entities_surface ON entities(json_extract(payload, '$.surface'))"
+    },
+    {
+      "name": "idx_entities_type",
+      "tbl_name": "entities",
+      "sql": "CREATE INDEX idx_entities_type ON entities(json_extract(payload, '$.entity_type'))"
+    },
+    {
+      "name": "idx_entity_aliases_alias",
+      "tbl_name": "entity_aliases",
+      "sql": "CREATE INDEX idx_entity_aliases_alias ON entity_aliases(alias_surface)"
+    },
+    {
+      "name": "idx_events_dates",
+      "tbl_name": "events",
+      "sql": "CREATE INDEX idx_events_dates ON events(json_extract(payload, '$.date_start'), json_extract(payload, '$.date_end'))"
+    },
+    {
+      "name": "idx_events_place",
+      "tbl_name": "events",
+      "sql": "CREATE INDEX idx_events_place ON events(json_extract(payload, '$.place'))"
+    },
+    {
+      "name": "idx_evidence_claim",
+      "tbl_name": "evidence",
+      "sql": "CREATE INDEX idx_evidence_claim ON evidence(claim_id)"
+    },
+    {
+      "name": "idx_evidence_passage",
+      "tbl_name": "evidence",
+      "sql": "CREATE INDEX idx_evidence_passage ON evidence(passage_id)"
+    },
+    {
+      "name": "idx_passages_source",
+      "tbl_name": "passages",
+      "sql": "CREATE INDEX idx_passages_source ON passages(source_id)"
+    },
+    {
+      "name": "idx_places_place",
+      "tbl_name": "place_assertions",
+      "sql": "CREATE INDEX idx_places_place ON place_assertions(place)"
+    },
+    {
+      "name": "idx_relations_object",
+      "tbl_name": "relations",
+      "sql": "CREATE INDEX idx_relations_object ON relations(object)"
+    },
+    {
+      "name": "idx_relations_subject_predicate",
+      "tbl_name": "relations",
+      "sql": "CREATE INDEX idx_relations_subject_predicate ON relations(subject, predicate)"
+    },
+    {
+      "name": "idx_timeline_dates",
+      "tbl_name": "timeline_entries",
+      "sql": "CREATE INDEX idx_timeline_dates ON timeline_entries(start_date, end_date)"
+    }
+  ],
+  "selected_person": "太祖武皇帝",
+  "person_timeline": [
+    {
+      "event_type": "人物评价",
+      "label": "橋玄与何顒认为太祖不同寻常",
+      "date_start": null,
+      "date_end": null,
+      "place": null,
+      "participant_surfaces": [
+        "太祖武皇帝",
+        "橋玄",
+        "何顒"
+      ],
+      "passage_id": "p_84af3127ef972602",
+      "confidence": 0.96,
+      "id": "evt_596720f96de79d00"
+    },
+    {
+      "event_type": "预言或劝说",
+      "label": "橋玄对太祖说天下将乱且太祖或能安定天下",
+      "date_start": null,
+      "date_end": null,
+      "place": null,
+      "participant_surfaces": [
+        "橋玄",
+        "太祖武皇帝",
+        "天下"
+      ],
+      "passage_id": "p_e828a03ac0fe8bfb",
+      "confidence": 0.93,
+      "id": "evt_85d98680bc12fb31"
+    },
+    {
+      "event_type": "察举与任官",
+      "label": "太祖年二十举孝廉为郎，后任洛阳北部尉、顿丘令并征拜议郎",
+      "date_start": "年二十",
+      "date_end": null,
+      "place": "洛陽、頓丘",
+      "participant_surfaces": [
+        "太祖武皇帝",
+        "孝廉",
+        "郎",
+        "洛陽北部尉",
+        "頓丘令",
+        "議郎"
+      ],
+      "passage_id": "p_409c2a9ff36ee5ed",
+      "confidence": 0.99,
+      "id": "evt_f03b58e10ff82fc3"
+    }
+  ],
+  "person_relations": [
+    {
+      "claim_id": "clm_72b70d4a4bd2c33aba67",
+      "subject": "太祖武皇帝",
+      "predicate": "举为",
+      "object": "孝廉"
+    },
+    {
+      "claim_id": "clm_d375f67c2250b90624af",
+      "subject": "太祖武皇帝",
+      "predicate": "任职",
+      "object": "郎"
+    },
+    {
+      "claim_id": "clm_ef49bb5109262526d85e",
+      "subject": "太祖武皇帝",
+      "predicate": "姓",
+      "object": "曹"
+    },
+    {
+      "claim_id": "clm_d7d5115db85249edaf62",
+      "subject": "太祖武皇帝",
+      "predicate": "字",
+      "object": "孟德"
+    },
+    {
+      "claim_id": "clm_4e33f8ef12794b435902",
+      "subject": "太祖武皇帝",
+      "predicate": "少年时具有",
+      "object": "機警、權數"
+    },
+    {
+      "claim_id": "clm_209d42640f02dd9ad709",
+      "subject": "太祖武皇帝",
+      "predicate": "少年时行为",
+      "object": "任俠放蕩、不治行業"
+    },
+    {
+      "claim_id": "clm_44b400118ef8502627ff",
+      "subject": "太祖武皇帝",
+      "predicate": "籍贯是",
+      "object": "沛國譙"
+    },
+    {
+      "claim_id": "clm_2f7a6aedbb60194bdbe3",
+      "subject": "橋玄",
+      "predicate": "认为可能安定天下者",
+      "object": "太祖武皇帝"
+    },
+    {
+      "claim_id": "clm_90971675f296d01f3603",
+      "subject": "太祖武皇帝",
+      "predicate": "讳",
+      "object": "操"
+    },
+    {
+      "claim_id": "clm_a4e0435b40015def07cd",
+      "subject": "太祖武皇帝",
+      "predicate": "身份关系",
+      "object": "漢相國參之後"
+    }
+  ],
+  "conflicts_for_person": [],
+  "provenance_checks": {
+    "claims_with_passage_ids": 26,
+    "claims_total": 26,
+    "evidence_with_existing_passage": 26,
+    "evidence_total": 26,
+    "relations_with_provenance": 0,
+    "relations_total": 26,
+    "events_with_passage_id": 11,
+    "events_total": 11
+  },
+  "example_chain": {
+    "claim": {
+      "id": "clm_03705cfbab5a00083689",
+      "subject": "曹騰",
+      "predicate": "受封",
+      "object": "費亭侯",
+      "statement": "桓帝时期，曹騰被封为費亭侯。",
+      "status": "machine_reviewed",
+      "confidence": {
+        "score": 0.5780000000000001,
+        "source_reliability": 0.68,
+        "extraction_quality": 0.99,
+        "resolution_quality": 0.99,
+        "corroboration": 0.0,
+        "contradiction_penalty": 0.0,
+        "rationale": "原文明确记载“桓帝世”曹騰“封費亭侯”，直接支持曹騰在桓帝时期被封为費亭侯。"
+      },
+      "passage_ids": [
+        "p_740b91f9abd619b9"
+      ],
+      "event_id": null,
+      "metadata": {
+        "model_claim_id": "c7"
+      }
+    },
+    "evidence": [
+      {
+        "id": "ev_531ba4026d37a5c8",
+        "claim_id": "clm_03705cfbab5a00083689",
+        "passage_id": "p_740b91f9abd619b9",
+        "polarity": "supports",
+        "quote": "桓帝世，曹騰爲中常侍大長秋，封費亭侯。",
+        "reasoning": "原文明确记载“桓帝世”曹騰“封費亭侯”，直接支持曹騰在桓帝时期被封为費亭侯。",
+        "independent_source": false,
+        "confidence": 0.5780000000000001
+      }
+    ],
+    "passage": {
+      "id": "p_740b91f9abd619b9",
+      "source_id": "src_2197752c9a5f8c3d",
+      "ordinal": 1,
+      "text": "桓帝世，曹騰爲中常侍大長秋，封費亭侯。",
+      "locator": {
+        "ordinal": 1
+      },
+      "text_hash": "bb6fdd48584e20e314abca7c027cd310bab69efe41146c3b04989aa2263de96b"
+    },
+    "source": {
+      "id": "src_2197752c9a5f8c3d",
+      "title": "三国志·魏书武帝纪",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&page=三國志%2F卷01&prop=wikitext&format=json",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-11T17:25:04.582541Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        }
+      }
+    }
+  }
+}

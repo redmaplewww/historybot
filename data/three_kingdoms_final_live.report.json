@@ -1,0 +1,93 @@
+{
+  "status": "complete",
+  "error": null,
+  "counts": {
+    "sources": 4,
+    "passages": 1071,
+    "entities": 31,
+    "events": 11,
+    "relations": 26,
+    "timeline_entries": 2,
+    "place_assertions": 2,
+    "claims": 26,
+    "evidence": 26,
+    "conflicts": 0,
+    "review_feedback": 0,
+    "evolution_snapshots": 1,
+    "audit_log": 2250
+  },
+  "sources": [
+    {
+      "id": "src_2197752c9a5f8c3d",
+      "title": "三国志·魏书武帝纪",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&page=三國志%2F卷01&prop=wikitext&format=json",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-11T17:25:04.582541Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        }
+      }
+    },
+    {
+      "id": "src_2770e2c3965761e5",
+      "title": "三国演义·第四十四回",
+      "author": "罗贯中",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&page=三國演義%2F第044回&prop=wikitext&format=json",
+      "kind": "folk",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-11T17:25:22.523508Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.35,
+          "rationale": "文学或民间传统，适合研究叙事传播，不能直接当作史实",
+          "requires_corroboration": true
+        }
+      }
+    },
+    {
+      "id": "src_694c9f86098b5b47",
+      "title": "三国志·蜀书先主传",
+      "author": "陈寿",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&page=三國志%2F卷32&prop=wikitext&format=json",
+      "kind": "compilation",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-11T17:25:14.565258Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.68,
+          "rationale": "后世编纂或正史，具有史料价值但受编纂取舍影响",
+          "requires_corroboration": true
+        }
+      }
+    },
+    {
+      "id": "src_d7903db5227fa551",
+      "title": "三国演义·第四十三回",
+      "author": "罗贯中",
+      "url": "https://zh.wikisource.org/w/api.php?action=parse&page=三國演義%2F第043回&prop=wikitext&format=json",
+      "kind": "folk",
+      "composition_date": null,
+      "edition": null,
+      "access_date": "2026-09-11T17:25:18.327568Z",
+      "metadata": {
+        "assessment": {
+          "policy_version": "source-policy-v1",
+          "baseline_score": 0.35,
+          "rationale": "文学或民间传统，适合研究叙事传播，不能直接当作史实",
+          "requires_corroboration": true
+        }
+      }
+    }
+  ]
+}

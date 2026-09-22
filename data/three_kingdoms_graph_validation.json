@@ -1,0 +1,39 @@
+{
+  "database": "data/three_kingdoms_final_live.db",
+  "counts": {
+    "sources": 4,
+    "passages": 1071,
+    "entities": 31,
+    "events": 11,
+    "relations": 26,
+    "timeline_entries": 2,
+    "place_assertions": 2,
+    "claims": 26,
+    "evidence": 26,
+    "conflicts": 0,
+    "review_feedback": 0,
+    "evolution_snapshots": 1,
+    "audit_log": 2250
+  },
+  "person": "刘琦",
+  "timeline": [
+    {
+      "event_type": "出行",
+      "label": "鲁肃、孔明辞别玄德、刘琦后乘船前往柴桑郡",
+      "date_start": null,
+      "date_end": null,
+      "place": "柴桑郡",
+      "participant_surfaces": [
+        "鲁肃",
+        "孔明",
+        "玄德",
+        "刘琦"
+      ],
+      "passage_id": "p_7403b9abfc867f1e",
+      "confidence": 1.0,
+      "id": "evt_ee624bd053730fc4"
+    }
+  ],
+  "relations": [],
+  "conflicts": []
+}

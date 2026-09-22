@@ -1,0 +1,15 @@
+=== ALL chunks shorter than 12 chars ===
+  idx=12 len=9 \u590f\u56db\u6708\uff0c\u5353\u9084\u9577\u5b89\u3002
+  idx=79 len=9 \u51ac\u5341\u6708\uff0c\u516c\u5f81\u5b6b\u6b0a\u3002
+  idx=91 len=9 \u79cb\u4e03\u6708\uff0c\u516c\u5f81\u5b6b\u6b0a\u3002
+  idx=93 len=6 \u516c\u81ea\u5408\u80a5\u9084\u3002
+  idx=116 len=10 \u590f\u4e94\u6708\uff0c\u5f15\u8ecd\u9084\u9577\u5b89\u3002
+
+=== does the DB contain the text around ???? ===
+  '\u9104\u57ce': 3 hits
+     ord=63 夏，使荀彧、程昱守鄄城，復征陶謙，拔五城，遂略地至東海。
+     ord=67 荀彧、程昱保鄄城，范、東阿二縣固守，太祖乃引軍還。
+     ord=68 布到，攻鄄城不能下，西屯濮陽。
+  '\u516c\u5b6b\u74da': 2 hits
+     ord=54 袁術與紹有隙，術求援於公孫瓚，瓚使劉備屯高唐，單經屯平原，陶謙屯發干，以逼紹。
+     ord=151 是時袁紹旣并公孫瓚，兼四州之地，衆十餘萬，將進軍攻許，諸將以爲不可敵，公曰：「吾知紹之爲人，志大而智小，色厲而膽薄，忌克而少威，兵多而分畫不

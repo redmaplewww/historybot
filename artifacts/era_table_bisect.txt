@@ -1,0 +1,7 @@
+era_table_full     [400, 400, 400]
+one_era            [400, 400, 400]
+era_no_number      [400, 400, 400]
+just_numbers       [400, 400, 400]
+equal_sign         [200, 200, 200]
+era_with_sys       [400, 400, 400]
+plain_with_sys     [200, 200, 200]

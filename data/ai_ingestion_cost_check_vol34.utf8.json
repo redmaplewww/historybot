@@ -1,0 +1,344 @@
+{
+  "run": {
+    "run_id": "read_d7e3bab894954ba8bde9",
+    "status": "review_required",
+    "read_units": 38,
+    "total_units": 41,
+    "verification": {
+      "items": [
+        {
+          "unit_id": "u2_p_5ecf19a91b18195e",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "阅读摘要、显性事实、主张均与原文一致，不确定性合理。"
+        },
+        {
+          "unit_id": "unit_1_p_85ef3aa38a3e122e",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "准确提取原文两条事实。"
+        },
+        {
+          "unit_id": "u1_p_ce990de46f64525d",
+          "supported": false,
+          "missing": [],
+          "errors": [
+            "claims中c1‘皇思夫人被追谥为皇思夫人’为循环定义，且原文的宾语被省略，应为‘被追谥为皇思夫人’，但更准确应表述为‘追谥皇思夫人’的对象未明。"
+          ],
+          "rationale": "Claim c1自我指涉，不符合原文语义，应为‘某人被追谥为皇思夫人’但原文省略主语。"
+        },
+        {
+          "unit_id": "u2_p_6b07ac61b982e20e",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "提取准确，不确定性合理。"
+        },
+        {
+          "unit_id": "u1_p_ca69c9478e480a54",
+          "supported": false,
+          "missing": [
+            "未提及‘焉有异志’这一事实"
+          ],
+          "errors": [
+            "显性事实中称‘原文用“焉有异志”起首，但主语未确指’，但在原文中主语是‘焉’（刘焉），明确指刘焉。"
+          ],
+          "rationale": "原文‘焉有異志’明确指刘焉，阅读结果错误地将其视为主语不明，且遗漏了该事实。"
+        },
+        {
+          "unit_id": "u2_p_f5953c8b84b29ac1",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "准确提取原文信息。"
+        },
+        {
+          "unit_id": "unit_1_p_fe652ac28a0ddffb",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "全面准确提取事实和关系。"
+        },
+        {
+          "unit_id": "unit_2_p_b4552745c2b0359d",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "提取正确。"
+        },
+        {
+          "unit_id": "u1_p_99801d10f9569303",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "原文直接陈述，提取合理。"
+        },
+        {
+          "unit_id": "u2_p_34666ac10b1c11a3",
+          "supported": false,
+          "missing": [],
+          "errors": [
+            "claims中c5‘遣使持节’分解为‘遣使’作主语和‘持节’作谓语，但实际上‘遣使持节’是一个整体动作，主语是皇帝，不是‘遣使’。"
+          ],
+          "rationale": "‘遣使持节’的结构是动宾短语，使节为被派遣的对象，不是执行主语。"
+        },
+        {
+          "unit_id": "u1_p_b8fe55c8bf43a29d",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "提取准确。"
+        },
+        {
+          "unit_id": "u2_p_0867827530f6954c",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "仅依据原文提取，无误。"
+        },
+        {
+          "unit_id": "u1_p_272324e84c95f570",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "提取准确，不确定性合理。"
+        },
+        {
+          "unit_id": "u2_p_35b45e45849e78fb",
+          "supported": false,
+          "missing": [],
+          "errors": [
+            "claims中c3‘後主有皇后，為敬哀皇后’虽可推出但有额外推断；claim c5‘張飛是車騎將軍’是基于身份链接，但将‘車騎將軍’作为别名关系可能不妥，实为官职头衔，title关系可以接受。"
+          ],
+          "rationale": "提取主要事实正确，但claim c3略有过度推断。"
+        },
+        {
+          "unit_id": "u_1_p_eee9aa0121f9cca5",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "提取正确。"
+        },
+        {
+          "unit_id": "u_2_p_7388485d6996c271",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "提取准确。"
+        },
+        {
+          "unit_id": "u1_p_11a1fde384ed7c02",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "提取准确。"
+        },
+        {
+          "unit_id": "u2_p_507e6d97bd8cdb18",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "提取准确。"
+        },
+        {
+          "unit_id": "u1_p_4fcbfa1d7c4fd16d",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "提取准确。"
+        },
+        {
+          "unit_id": "u2_p_60d37164e3d6fe08",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "提取准确。"
+        },
+        {
+          "unit_id": "u1_p_17af1ad7654f17e9",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "提取准确。"
+        },
+        {
+          "unit_id": "u2_p_52e80ef20f98f8db",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "提取准确。"
+        },
+        {
+          "unit_id": "unit_1_p_5056dbc4981dc6d1",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "提取准确。"
+        },
+        {
+          "unit_id": "unit_2_p_7eed9e76c5e3e495",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "提取准确。"
+        },
+        {
+          "unit_id": "unit_p_8ac912e67d0e7998",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "提取准确。"
+        },
+        {
+          "unit_id": "unit_p_35d52036a398f759",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "提取准确。"
+        },
+        {
+          "unit_id": "u1_p_29621eb57fee255e",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "提取准确。"
+        },
+        {
+          "unit_id": "u2_p_87181ad0bbf9cc02",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "提取准确。"
+        },
+        {
+          "unit_id": "u1_p_9b3b357b5f389503",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "提取准确。"
+        },
+        {
+          "unit_id": "u1_p_86e6de128288ffed",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "提取准确。"
+        },
+        {
+          "unit_id": "u2_p_f247a22d2af38a93",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "提取准确。"
+        },
+        {
+          "unit_id": "u1_p_69b8b33e2d89f2fb",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "提取准确。"
+        },
+        {
+          "unit_id": "u2_p_0e7cacaeb6b3b7a3",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "提取准确。"
+        },
+        {
+          "unit_id": "u1_p_7cfcabf06a2b3618",
+          "supported": false,
+          "missing": [],
+          "errors": [
+            "claims中c1‘朝廷以璿为皇太子’中‘朝廷’为臆造主语，原文无此主语；c2‘朝廷命’亦同。"
+          ],
+          "rationale": "原文无‘朝廷’二字，属臆造。"
+        },
+        {
+          "unit_id": "u2_p_1d83b04d5aa9d090",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "评价合理。"
+        },
+        {
+          "unit_id": "unit_1_p_1e5256d691afee75",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "提取准确。"
+        },
+        {
+          "unit_id": "unit_2_p_1fb70fd386084979",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "提取准确。"
+        },
+        {
+          "unit_id": "u1_p_566810987a348389",
+          "supported": true,
+          "missing": [],
+          "errors": [],
+          "rationale": "提取准确。"
+        }
+      ],
+      "overall_supported": false,
+      "summary": "阅读结果覆盖了大多段落，但存在若干错引、臆造、遗漏及段落错配问题，未完全忠实于原文。"
+    },
+    "draft_ids": [
+      "draft_read_d7e3bab894954ba8bde9_u2",
+      "draft_read_d7e3bab894954ba8bde9_unit_1",
+      "draft_read_d7e3bab894954ba8bde9_u1",
+      "draft_read_d7e3bab894954ba8bde9_u2",
+      "draft_read_d7e3bab894954ba8bde9_u1",
+      "draft_read_d7e3bab894954ba8bde9_u2",
+      "draft_read_d7e3bab894954ba8bde9_unit_1",
+      "draft_read_d7e3bab894954ba8bde9_unit_2",
+      "draft_read_d7e3bab894954ba8bde9_u1",
+      "draft_read_d7e3bab894954ba8bde9_u2",
+      "draft_read_d7e3bab894954ba8bde9_u1",
+      "draft_read_d7e3bab894954ba8bde9_u2",
+      "draft_read_d7e3bab894954ba8bde9_u1",
+      "draft_read_d7e3bab894954ba8bde9_u2",
+      "draft_read_d7e3bab894954ba8bde9_u_1",
+      "draft_read_d7e3bab894954ba8bde9_u_2",
+      "draft_read_d7e3bab894954ba8bde9_u1",
+      "draft_read_d7e3bab894954ba8bde9_u2",
+      "draft_read_d7e3bab894954ba8bde9_u1",
+      "draft_read_d7e3bab894954ba8bde9_u2",
+      "draft_read_d7e3bab894954ba8bde9_u1",
+      "draft_read_d7e3bab894954ba8bde9_u2",
+      "draft_read_d7e3bab894954ba8bde9_unit_1",
+      "draft_read_d7e3bab894954ba8bde9_unit_2",
+      "draft_read_d7e3bab894954ba8bde9_unit_p_8ac912e67d0e7998",
+      "draft_read_d7e3bab894954ba8bde9_unit_p_35d52036a398f759",
+      "draft_read_d7e3bab894954ba8bde9_u1",
+      "draft_read_d7e3bab894954ba8bde9_u2",
+      "draft_read_d7e3bab894954ba8bde9_u1",
+      "draft_read_d7e3bab894954ba8bde9_u1",
+      "draft_read_d7e3bab894954ba8bde9_u2",
+      "draft_read_d7e3bab894954ba8bde9_u1",
+      "draft_read_d7e3bab894954ba8bde9_u2",
+      "draft_read_d7e3bab894954ba8bde9_u1",
+      "draft_read_d7e3bab894954ba8bde9_u2",
+      "draft_read_d7e3bab894954ba8bde9_unit_1",
+      "draft_read_d7e3bab894954ba8bde9_unit_2",
+      "draft_read_d7e3bab894954ba8bde9_u1"
+    ],
+    "graph": {
+      "entities": 94,
+      "aliases": 6,
+      "events": 43,
+      "claims": 96,
+      "evidence": 96
+    }
+  },
+  "usage": {
+    "prompt_tokens": 55714,
+    "completion_tokens": 33886,
+    "total_tokens": 89600
+  }
+}

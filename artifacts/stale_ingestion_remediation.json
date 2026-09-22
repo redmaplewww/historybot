@@ -1,0 +1,16 @@
+{
+  "database": "data\\three_kingdoms_rebuilt_v2.db",
+  "applied": true,
+  "backup": null,
+  "checked_at": "2026-09-20T11:24:54.201980+00:00",
+  "summary": {
+    "stale_evidence": 1422,
+    "stale_claims": 1422,
+    "stale_anchors": 4184,
+    "stale_steps": 1845,
+    "stale_drafts": 4185,
+    "stale_v2_runs": 13,
+    "stale_v3_runs": 0,
+    "invalid_v3_runs": 0
+  }
+}

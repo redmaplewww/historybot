@@ -1,0 +1,285 @@
+{
+  "source": "src_8d3056db6591b2ee",
+  "passages": 501,
+  "chain": [
+    {
+      "ordinal": 5,
+      "kind": "year_char_unmatched",
+      "text": "」年二十，舉孝廉爲郎，除洛陽北部尉，遷頓丘令，徵拜議郎。"
+    },
+    {
+      "ordinal": 18,
+      "kind": "anchor",
+      "anchor": [
+        "中平",
+        6,
+        189
+      ],
+      "text": "冬十二月，始起兵於己吾，是歲中平六年也。"
+    },
+    {
+      "ordinal": 19,
+      "kind": "anchor",
+      "anchor": [
+        "初平",
+        1,
+        190
+      ],
+      "text": "初平元年春正月，後將軍袁術、冀州牧韓馥、豫州刺史孔伷、兖州刺史劉岱、河內太守王匡、勃海太守袁紹、陳留太守張邈、東郡太守橋"
+    },
+    {
+      "ordinal": 37,
+      "kind": "year_word",
+      "matches": [
+        "二年"
+      ],
+      "text": "二年春，紹、馥遂立虞爲帝，虞終不敢當。"
+    },
+    {
+      "ordinal": 41,
+      "kind": "year_word",
+      "matches": [
+        "三年"
+      ],
+      "text": "三年春，太祖軍頓丘，毒等攻東武陽。"
+    },
+    {
+      "ordinal": 61,
+      "kind": "year_char_unmatched",
+      "text": "是歲，孫策受袁術使渡江，數年閒遂有江東。"
+    },
+    {
+      "ordinal": 62,
+      "kind": "anchor",
+      "anchor": [
+        "興平",
+        1,
+        194
+      ],
+      "text": "興平元年春，太祖自徐州還，初，太祖父嵩去官後還譙，董卓之亂，避難琅邪，爲陶謙所害，故太祖志在復讎東伐。"
+    },
+    {
+      "ordinal": 89,
+      "kind": "anchor",
+      "anchor": [
+        "建安",
+        1,
+        196
+      ],
+      "text": "建安元年春正月，太祖軍臨武平，袁術所置陳相袁嗣降。"
+    },
+    {
+      "ordinal": 119,
+      "kind": "year_word",
+      "matches": [
+        "三年"
+      ],
+      "text": "三年春正月，公還許，初置軍師祭酒。"
+    },
+    {
+      "ordinal": 142,
+      "kind": "year_word",
+      "matches": [
+        "四年"
+      ],
+      "text": "四年春二月，公還至昌邑。"
+    },
+    {
+      "ordinal": 161,
+      "kind": "year_word",
+      "matches": [
+        "五年"
+      ],
+      "text": "五年春正月，董承等謀泄，皆伏誅。"
+    },
+    {
+      "ordinal": 215,
+      "kind": "year_char_unmatched",
+      "text": "至是凡五十年，而公破紹，天下莫敵矣。"
+    },
+    {
+      "ordinal": 216,
+      "kind": "year_word",
+      "matches": [
+        "六年"
+      ],
+      "text": "六年夏四月，揚兵河上，擊紹倉亭軍，破之。"
+    },
+    {
+      "ordinal": 221,
+      "kind": "year_word",
+      "matches": [
+        "七年"
+      ],
+      "text": "七年春正月，公軍譙，令曰：「吾起義兵，爲天下除暴亂。"
+    },
+    {
+      "ordinal": 224,
+      "kind": "year_char_unmatched",
+      "text": "爲存者立廟，使祀其先人，魂而有靈，吾百年之後何恨哉！"
+    },
+    {
+      "ordinal": 228,
+      "kind": "year_word",
+      "matches": [
+        "八年"
+      ],
+      "text": "八年春三月，攻其郭，乃出戰，擊，大破之，譚、尚夜遁。"
+    },
+    {
+      "ordinal": 234,
+      "kind": "year_char_unmatched",
+      "text": "秋七月，令曰：「喪亂已來，十有五年，後生者不見仁義禮讓之風，吾甚傷之。"
+    },
+    {
+      "ordinal": 243,
+      "kind": "year_word",
+      "matches": [
+        "九年"
+      ],
+      "text": "九年春正月，濟河，遏淇水入白溝以通糧道。"
+    },
+    {
+      "ordinal": 266,
+      "kind": "year_char_unmatched",
+      "text": "九月，令曰：「河北罹袁氏之難，其令無出今年租賦！"
+    },
+    {
+      "ordinal": 274,
+      "kind": "year_word",
+      "matches": [
+        "十年"
+      ],
+      "text": "十年春正月，攻譚，破之，斬譚，誅其妻子，冀州平。"
+    },
+    {
+      "ordinal": 301,
+      "kind": "year_word",
+      "matches": [
+        "十二年"
+      ],
+      "text": "十二年春二月，公自淳于還鄴。"
+    },
+    {
+      "ordinal": 302,
+      "kind": "year_char_unmatched",
+      "text": "丁酋，令曰：「吾起義兵誅暴亂，於今十九年，所征必克，豈吾功哉？"
+    },
+    {
+      "ordinal": 322,
+      "kind": "year_word",
+      "matches": [
+        "十三年"
+      ],
+      "text": "十三年春正月，公還鄴，作玄武池以肄舟師。"
+    },
+    {
+      "ordinal": 333,
+      "kind": "year_word",
+      "matches": [
+        "十四年"
+      ],
+      "text": "十四年春三月，軍至譙，作輕舟，治水軍。"
+    },
+    {
+      "ordinal": 338,
+      "kind": "year_word",
+      "matches": [
+        "十五年"
+      ],
+      "text": "十五年春，下令曰：「自古受命及中興之君，曷甞不得賢人君子與之共治天下者乎！"
+    },
+    {
+      "ordinal": 346,
+      "kind": "year_word",
+      "matches": [
+        "十六年"
+      ],
+      "text": "十六年春正月，天子命公世子丕爲五官中郎將，置官屬，爲丞相副。"
+    },
+    {
+      "ordinal": 369,
+      "kind": "year_char_unmatched",
+      "text": "公荅曰：「關中長遠，若賊各依險阻，征之，不一二年不可定也。"
+    },
+    {
+      "ordinal": 377,
+      "kind": "year_word",
+      "matches": [
+        "十八年"
+      ],
+      "text": "十八年春正月，進軍濡須口，攻破權江西營，獲權都督公孫陽，乃引軍還。"
+    },
+    {
+      "ordinal": 418,
+      "kind": "year_char_unmatched",
+      "text": "天子娉公三女爲貴人，少者待年於國。"
+    },
+    {
+      "ordinal": 423,
+      "kind": "year_word",
+      "matches": [
+        "十九年"
+      ],
+      "text": "十九年春正月，始耕籍田。"
+    },
+    {
+      "ordinal": 431,
+      "kind": "year_char_unmatched",
+      "text": "初，隴西宋建自稱河首平漢王，聚衆枹罕，改元，置百官，三十餘年。"
+    },
+    {
+      "ordinal": 442,
+      "kind": "year_word",
+      "matches": [
+        "二十年"
+      ],
+      "text": "二十年春正月，天子立公中女爲皇后。"
+    },
+    {
+      "ordinal": 460,
+      "kind": "year_word",
+      "matches": [
+        "二十一年"
+      ],
+      "text": "二十一年春二月，公還鄴。"
+    },
+    {
+      "ordinal": 467,
+      "kind": "year_word",
+      "matches": [
+        "二十二年"
+      ],
+      "text": "二十二年春正月，王軍居巢，二月，進軍屯江西郝谿。"
+    },
+    {
+      "ordinal": 474,
+      "kind": "year_word",
+      "matches": [
+        "二十三年"
+      ],
+      "text": "二十三年春正月，漢太醫令吉本與少府耿紀、司直韋晃等反，攻許，燒丞相長史王必營，必與潁川典農中郎將嚴匡討斬之。"
+    },
+    {
+      "ordinal": 485,
+      "kind": "year_word",
+      "matches": [
+        "二十四年"
+      ],
+      "text": "二十四年春正月，仁屠宛，斬音。"
+    },
+    {
+      "ordinal": 493,
+      "kind": "year_word",
+      "matches": [
+        "二十五年"
+      ],
+      "text": "二十五年春正月，至洛陽。"
+    },
+    {
+      "ordinal": 494,
+      "kind": "year_char_unmatched",
+      "text": "庚子，王崩于洛陽，年六十六。"
+    }
+  ]
+}
